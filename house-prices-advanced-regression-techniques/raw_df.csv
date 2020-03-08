@@ -1,0 +1,3033 @@
+,ApartmentName,Price,NoofBedrooms,NoofBathrooms,Streetname
+0,571 Prince Edward Dr N,"$2,000",1.0,1.0,
+1,571 Prince Edward Dr N,"$2,300",1.0,1.0,
+2,571 Prince Edward Dr N,"$2,700",2.0,2.0,
+3,571 Prince Edward Dr N,"$3,850",2.0,2.0,
+4,eCentral,"$2,002.5",1.0,1.0,15 Roehampton Ave
+5,eCentral,"$2,248.5",1.0,1.0,15 Roehampton Ave
+6,eCentral,"$2,455.8",2.0,2.0,15 Roehampton Ave
+7,eCentral,"$3,608",2.0,2.0,15 Roehampton Ave
+8,eCentral,"$3,847",2.0,2.0,15 Roehampton Ave
+9,eCentral,"$4,998.3",2.5,2.5,15 Roehampton Ave
+10,Bayview Towers,"$1,647",1.0,1.0,60 Ruddington Drive
+11,Bayview Towers,"$1,927",1.0,1.0,60 Ruddington Drive
+12,Bayview Towers,"$2,227",1.0,1.0,60 Ruddington Drive
+13,Kings Club,"$2,150",1.0,1.0,1100 King Street West
+14,Kings Club,"$2,170",1.0,1.0,1100 King Street West
+15,Kings Club,"$2,480",1.0,1.0,1100 King Street West
+16,Kings Club,"$3,635",1.0,1.0,1100 King Street West
+17,Kings Club,"$3,815",1.0,1.0,1100 King Street West
+18,70 Ruddington Drive,"$1,837",1.0,1.0,70 Ruddington Drive
+19,70 Ruddington Drive,"$2,487",1.0,1.0,70 Ruddington Drive
+20,Bayview Towers,"$1,587",1.0,1.0,60 Ruddington Drive
+21,Bayview Towers,"$1,927",1.0,1.0,60 Ruddington Drive
+22,Bayview Towers,"$2,227",1.0,1.0,60 Ruddington Drive
+23,Clipper Place,"$1,550",1.0,1.0,60 Clipper Road
+24,Clipper Place,"$1,787",1.0,1.0,60 Clipper Road
+25,Clipper Place,"$1,837",2.0,2.0,60 Clipper Road
+26,Bayview Towers,"$1,587",1.0,1.0,60 Ruddington Drive
+27,Bayview Towers,"$1,927",1.0,1.0,60 Ruddington Drive
+28,Bayview Towers,"$2,227",1.0,1.0,60 Ruddington Drive
+29,665 Roselawn Avenue,"$1,205",1.0,1.0,665 Roselawn Avenue
+30,665 Roselawn Avenue,"$1,440",1.0,1.0,665 Roselawn Avenue
+31,665 Roselawn Avenue,"$1,695",1.0,1.0,665 Roselawn Avenue
+32,1182 Ossington Ave | Unit: 2nd Floor,"$2,800",1.0,1.0,
+33,43 Eglinton Avenue East,"$2,500",1.0,1.0,43 Eglinton Ave E 
+34,Hillburn Apartments,"$1,250",1.0,1.0,30 Burnhill Road
+35,Hillburn Apartments,"$1,150",1.0,1.0,30 Burnhill Road
+36,Hillburn Apartments,"$1,550",1.0,1.0,30 Burnhill Road
+37,Hillburn Apartments,"$1,350",1.0,1.0,30 Burnhill Road
+38,Penrose Building,"$3,800",2.0,2.0,750 Bay Street
+39,10 Navy Wharf Ct,"$2,100",1.0,1.0,10 Navy Wharf Ct
+40,"222 The Esplanade, Toronto","$2,700",1.5,1.5,
+41,"222 The Esplanade, Toronto","$2,900",1.5,1.5,
+42,(#1271),$650,1.0,1.0,
+43,5 Valhalla Inn Rd,"$2,500",1.0,1.0,
+44,145 Marlee Ave,"$1,775",1.0,1.0,145 Marlee Ave
+45,145 Marlee Ave," $2,400",1.0,1.0,145 Marlee Ave
+46,145 Marlee Ave,"$2,875",1.0,1.0,145 Marlee Ave
+47,Beautifully Furnished 1 Bedroom + Den Suite,"$3,150",1.0,1.0,45 Charles Street East
+48,Luxurious 2 Bedroom condo,"$3,300",2.0,2.0,29 Queens Quay E
+49,22 Olive Avenue,"$2,300",1.0,1.0,
+50,111 Saint Clair Avenue West,"$2,250",1.0,1.0,
+51,23 Brant Street,"$3,600",1.0,1.0,
+52,jiaping yang,"$1,880",1.0,1.0,17 Kenaston Gardens
+53,LONG OR SHORT TERM RENTAL SOLUTION: Brand New Penthouse Furnished Suites in Midtown Toronto,"$4,500",2.0,2.0,30 Roehampton Ave
+54,453 Bluesky Crescent,"$2,300",2.5,2.5,
+55,473 Dupont Street,"$3,000",3.0,3.0,
+56,88 Grandview Way | Unit: 1005,"$3,400",2.0,2.0,
+57,10 Park Lawn Rd | Unit: Lph 8,"$2,200",1.0,1.0,
+58,3504 Hurontario St | Unit: 2501,"$2,250",1.0,1.0,
+59,2 Massey Square,"$2,100",1.0,1.0,
+60,"$2,795 ~ 2Bed 1Bath Beautiful Spacious Leslieville Apartment","$2,795",1.0,1.0,
+61,120 Raglan Avenue,"$1,864",1.0,1.0,120 Raglan Avenue
+62,120 Raglan Avenue,"$2,003",1.0,1.0,120 Raglan Avenue
+63,120 Raglan Avenue,"$2,347",1.0,1.0,120 Raglan Avenue
+64,52 Clubhouse Ct,"$2,100",1.0,1.0,
+65,The Jack,"$1,900",1.0,1.0,6 Jackes Ave
+66,6 Jackes Ave | Unit: 503,"$4,250",2.0,2.0,
+67,Massey Tower,"$2,180",1.0,1.0,197 Yonge St
+68,1 Lord Seaton Rd,"$1,050",1.0,1.0,
+69,1650 Bathurst Street,"$2,002",1.0,1.0,1650 Bathurst Street
+70,1650 Bathurst Street,"$2,272",1.0,1.0,1650 Bathurst Street
+71,1065 Eglinton Ave. West,"$1,463",1.0,1.0,1065 Eglinton Ave.
+72,2402-2406 Queen St. East,"$1,965",1.0,1.0,2402-2406 Queen St. East
+73,"3000, 3015, 3017 Queen St. East","$1,801",1.0,1.0,
+74,"3000, 3015, 3017 Queen St. East","$2,209",1.0,1.0,
+75,"3000, 3015, 3017 Queen St. East","$2,264",2.0,2.0,
+76,3896 Bathurst Street,"$1,783",1.0,1.0,3896 Bathurst Street
+77,3896 Bathurst Street,"$2,148",1.0,1.0,3896 Bathurst Street
+78,Faywood - Vinci Community,"$1,925",1.0,1.0,30 Vinci Cres
+79,York Mills and Leslie,"$1,899",1.0,1.0,750 York Mills Road
+80,York Mills and Leslie,"$2,249",1.0,1.0,750 York Mills Road
+81,York Mills and Leslie,"$2,649",1.5,1.5,750 York Mills Road
+82,455 Queen St W | Unit: 301,"$3,600",1.5,1.5,
+83,20 Wardlaw Crescent,"$3,200",2.5,2.5,
+84,The Kip,"$2,200",1.0,1.0,5324 Dundas St W
+85,2A Tiverton Ave | Unit: Main/Upper,"$3,295",1.5,1.5,
+86,1202 York Mills Road - The York Mills,"$1,987",1.0,1.0,1202 York Mills Road
+87,1200 York Mills Road - The York Mills,"$1,857",1.0,1.0,1200 York Mills Road
+88,1200 York Mills Road - The York Mills,"$2,057",1.0,1.0,1200 York Mills Road
+89,"2020-2077 Barsuda Drive, 2025 Ambridge Court","$2,047",1.0,1.0,
+90,"2020-2077 Barsuda Drive, 2025 Ambridge Court","$2,147",1.0,1.0,
+91,15 Iceboat Terr,"$2,200",1.0,1.0,
+92,260 Doris Ave | Unit: 502,"$2,550",2.0,2.0,
+93,31 Bales Ave,"$2,700",2.0,2.0,
+94,1427 Lansdowne Ave,"$2,800",2.0,2.0,
+95,33 Hellensfield Crescent,"$3,000",2.5,2.5,
+96,33 Hellensfield Crescent,"$2,000",1.0,1.0,
+97,488 University Ave,"$2,295",1.0,1.0,
+98,Avani 2,"$2,200",2.0,2.0,275 Village Green Square 
+99,Wyatt Condos,"$1,800",1.0,1.0,20 Tubman Ave 
+100,Wyatt Condos,"$1,950",1.0,1.0,20 Tubman Ave 
+101,87 Peter St | Unit: 2901,"$3,149",1.0,1.0,
+102,388 Bloor St E,"$3,000",1.0,1.0,
+103,85 E Liberty St | Unit: 999,"$2,450",2.0,2.0,
+104,84 Falmouth Ave,"$1,999",1.0,1.0,
+105,2356 Sheppard Ave W | Unit: 203,"$1,750",1.0,1.0,
+106,Metro Condominiums,"$2,800",1.5,1.5,139 Merton St 
+107,Treviso 1,"$1,950",1.0,1.0,800 Lawrence Ave W 
+108,Treviso Condos,"$2,100",1.0,1.0,830 Lawrence Ave W
+109,97 Granby St,"$2,400",1.0,1.0,
+110,655 Manning Ave | Unit: 1,"$3,500",2.0,2.0,
+111,The Jax,"$2,300",1.0,1.0,6 Jackes Ave 
+112,1202 Royal York Rd | Unit: Main,"$2,299",1.0,1.0,
+113,460 Adelaide St E | Unit: 102,"$3,000",2.0,2.0,
+114,19 Dusty Star Rd | Unit: 19,"$2,500",1.0,1.0,
+115,"$2,500 ~ Beautiful 1Bed 1Bath Furnished Etobicoke Condo","$2,500",1.0,1.0,
+116,Fuse,"$2,000",1.0,1.0,1410 Dupont St
+117,London on the Esplanade,"$2,500",1.0,1.0,38 The Esplanade 
+118,Mery Grubisic,"$1,999",1.0,1.0,1 Valhalla Inn Rd
+119,68 Merton St | Unit: 404,"$3,000",2.0,2.0,
+120,44 Sixteenth St,"$1,100",1.0,1.0,
+121,King's Club,"$1,650",1.0,1.0,
+122,6 Fuller Ave,"$3,100",1.0,1.0,
+123,156 Enfield Pl | Unit: 396,"$2,250",1.0,1.0,
+124,39 Seahorse Ave,"$2,300",2.5,2.5,
+125,Omega Condos,"$2,100",1.0,1.0,117 McMahon Dr
+126,Opus/Omega Concord,"$2,500",2.0,2.0,117 McMahon Dr
+127,4727 Sheppard Ave E | Unit: 701,"$2,200",2.0,2.0,
+128,190 Exbury Road,"$1,907",1.0,1.0,190 Exbury Road
+129,Royal Tower,"$1,400",1.0,1.0,121 Agnes St.
+130,Royal Tower,"$1,675",1.0,1.0,121 Agnes St.
+131,Royal Tower,"$2,025",1.0,1.0,121 Agnes St.
+132,350 Red Maple Rd,"$2,000",1.0,1.0,
+133,62 Forest Manor Rd,"$2,400",2.0,2.0,62 Forest Manor Rd
+134,67 Cathedral High St,"$2,250",3.0,3.0,
+135,Residences of The World Trade Centre,"$3,250",2.0,2.0,10 Queens Quay W 
+136,92 Tessler Crescent,"$1,300",1.0,1.0,
+137,Chaz Yorkville,"$2,095",1.0,1.0,45 Charles St E 
+138,Shervin Koulena,"$2,400",1.0,1.0,15 Redpath Ave
+139,Wyatt by Daniels,"$2,100",1.0,1.0,20 Tubman Ave
+140,Wyatt by Daniels,"$2,100",1.0,1.0,20 Tubman Ave
+141,Montage LE,"$2,500",1.0,1.0,25 Telegram Mews 
+142,64 Oxford St | Unit: 2nd & 3rd Floor,"$3,400",1.5,1.5,
+143,60 Heintzman St,"$2,000",1.0,1.0,
+144,X Condominium,"$2,800",2.0,2.0,110 Charles St E
+145,340 Avenue Road,"$1,825",1.0,1.0,340 Avenue Rd 
+146,17 Dobbin Rd,"$2,600",1.0,1.0,
+147,35 Finch Avenue - Chicago Residence,"$2,950",2.0,2.0,35 Finch Ave E
+148,Furnished Dundas Garden Suite,"$2,750",1.0,1.0,2163 Dundas St W 
+149,3237 Bayview Ave | Unit: 9th Floor,"$2,300",2.0,2.0,
+150,Empire Plaza,"$3,600",2.0,2.0,33 University Ave 
+151,37 Garden Ave,"$3,200",2.0,2.0,
+152,Bel Mercado,"$2,750",1.0,1.0,43 Eglinton Ave E
+153,36 Park Lawn Rd | Unit: 1999,"$1,995",1.0,1.0,
+154,2200 Lake Shore Blvd W | Unit: 899,"$2,150",1.0,1.0,
+155,16 Brookers Ln | Unit: 991,"$2,100",1.0,1.0,
+156,2200 Lake Shore Blvd W | Unit: Uph4907,"$2,700",2.0,2.0,
+157,80 Marine Parade Dr | Unit: 997,"$2,150",1.0,1.0,
+158,414 Willowdale Avenue,"$2,155",1.0,1.0,414 Willowdale Avenue
+159,Yorkville Luxury Furnished Condo,"$3,200",1.0,1.0,18 Yorkville Ave
+160,Sam Kazak,"$3,500",2.0,2.0,
+161,44 Nursewood Rd,"$5,000",4.0,4.0,
+162,The Curve Lofts,"$2,500",1.0,1.0,170 Sudbury St
+163,Seventy-Five Condominiums,"$4,300",1.0,1.0,75 Portland St
+164,110 Bloor St W,"$3,900",2.0,2.0,
+165,51 Times Ave,"$2,300",2.0,2.0,
+166,Condo For Rent in Toronto ( Yonge & Sheppard ),"$2,650",1.0,1.0,
+167,St. Gabriel Residence,"$2,900",2.0,2.0,650 Sheppard Avenue East
+168,Modern Beach Loft,"$2,200",1.0,1.0,952 Kingston Rd 
+169,Sanjiv Madhura,"$1,300",1.0,1.0,47 Storey Pl
+170,55 E Liberty St,"$3,000",1.5,1.5,
+171,5 Rosehill Avenue,"$2,950",2.0,2.0,5 Rosehill Ave 
+172,Bloor Street Neighborhood,"$4,350",2.0,2.0,35 Hayden St
+173,47 Major St,"$2,700",1.0,1.0,
+174,Michael J Lane,"$2,450",1.5,1.5,40 Tenth St
+175,Ocean Club,"$1,950",1.0,1.0,59 Annie Craig Dr 
+176,118 Chestnut Crescent,"$2,700",1.0,1.0,
+177,"$2,400 ~ Brand New 1Bed 1Bath Yonge & St. Clair Condo","$2,400",1.0,1.0,
+178,3840 Bathurst St,"$2,100",1.5,1.5,
+179,2212 Lake Shore Blvd W | Unit: 2212,"$2,650",2.0,2.0,
+180,101 Peter St | Unit: 3310,"$4,500",1.0,1.0,
+181,Minto Skyy,"$1,950",1.0,1.0,1048 Broadview Ave
+182,3 Navy Wharf Ct,"$4,350",2.0,2.0,
+183,20 Bruyeres Mews | Unit: 690,"$2,250",1.0,1.0,
+184,100 Western Battery Rd | Unit: 1199,"$2,250",1.0,1.0,
+185,150 E Liberty St | Unit: 1299,"$2,100",1.0,1.0,
+186,51 E Liberty St | Unit: 2199,"$2,475",1.0,1.0,
+187,2983 Bloor St W | Unit: A,"$4,750",3.0,3.0,
+188,630 Roselawn Avenue,"$2,450",1.0,1.0,630 Roselawn Ave.
+189,Charissa Leung,"$1,500",1.0,1.0,54 Maitland St 
+190,3237 Bayview Ave | Unit: 3rd Floor,"$2,100",2.0,2.0,
+191,3 Winchfield Pl,"$1,500",1.0,1.0,
+192,Bloor Walk,"$2,790",2.0,2.0,100 Hayden St
+193,Bathville Towers,"$2,100",1.0,1.0,6000  Bathurst Street
+194,20 Carlton and 25 Wood Street,"$1,650",1.0,1.0,20 Carlton and 25 Wood Street
+195,20 Carlton and 25 Wood Street,"$1,750",1.0,1.0,20 Carlton and 25 Wood Street
+196,20 Carlton and 25 Wood Street,"$2,300",1.0,1.0,20 Carlton and 25 Wood Street
+197,Casa 3," $2,250",1.0,1.0,50 Charles St E
+198,Ice condo,"$2,500",1.0,1.0,14 York St 
+199,5128 Dundas St W,"$2,600",1.0,1.0,
+200,Icon,"$4,000",1.0,1.0,250 Wellington St W
+201,560 Front St W | Unit: 515,"$2,275",1.0,1.0,
+202,The Residences,"$2,899",2.0,2.0,488 University Ave 
+203,Edge on Triangle Park,"$2,650",2.0,2.0,36 Lisgar St 
+204,60 Lynvalley Crescent,$850,1.0,1.0,
+205,Cherry Yang,"$2,800",2.0,2.0,5168 Yonge St 
+206,Opus/Omega Concord,"$2,600",1.0,1.0,117 McMahon Dr
+207,Concord Omega/Opus Towns,"$3,850",4.0,4.0,113 McMahon Dr
+208,ICON,"$3,350",2.0,2.0,270 Wellington St W
+209,Solaris 2 - 135 Village Green Square,"$1,850",1.0,1.0,135 Village Green Square 
+210,Electra Lofts,"$2,600",1.0,1.0,1029 King St W
+211,75 E Liberty St | Unit: 1310,"$2,350",1.0,1.0,
+212,11 Rothwell Rd,"$2,300",1.0,1.0,
+213,7033 Netherwood Rd | Unit: 10,"$2,350",1.5,1.5,
+214,Pantages Tower,"$2,300",1.0,1.0,210 Victoria St
+215,Alto and Parkside,"$2,050",1.0,1.0,
+216,Heritage on the Trail,"$3,800",2.5,2.5,3 Elsie Lane
+217,Heritage on the Trail,"$3,900",2.5,2.5,3 Elsie Lane
+218,50 Bruyeres Mews,"$1,980",1.0,1.0,
+219,46 Dewson St,"$2,795",1.0,1.0,
+220,the Wyatt,"$2,550",2.0,2.0,20 Tubman Ave 
+221,87 Peter St,"$2,200",1.0,1.0,
+222,Ian Serota,"$7,500",2.0,2.0,183 Wellington St W 
+223,SQ2 at Alexandra Park #3544,"$2,150",1.0,1.0,80 Vanauley Street
+224,SQ2 at Alexandra Park #3544,"$2,150",1.0,1.0,80 Vanauley Street
+225,SQ2 at Alexandra Park #3544,"$2,150",1.0,1.0,80 Vanauley Street
+226,SQ2 at Alexandra Park #3544,"$2,195",1.0,1.0,80 Vanauley Street
+227,SQ2 at Alexandra Park #3544,"$2,275",1.0,1.0,80 Vanauley Street
+228,SQ2 at Alexandra Park #3544,"$2,300",1.0,1.0,80 Vanauley Street
+229,SQ2 at Alexandra Park #3544,"$2,350",1.0,1.0,80 Vanauley Street
+230,SQ2 at Alexandra Park #3544,"$2,350",1.0,1.0,80 Vanauley Street
+231,SQ2 at Alexandra Park #3544,"$2,295",2.0,2.0,80 Vanauley Street
+232,SQ2 at Alexandra Park #3544,"$2,350",2.0,2.0,80 Vanauley Street
+233,SQ2 at Alexandra Park #3544,"$2,450",2.0,2.0,80 Vanauley Street
+234,SQ2 at Alexandra Park #3544,"$2,550",2.0,2.0,80 Vanauley Street
+235,SQ2 at Alexandra Park #3544,"$2,695",2.0,2.0,80 Vanauley Street
+236,SQ2 at Alexandra Park #3544,"$2,950",2.0,2.0,80 Vanauley Street
+237,SQ2 at Alexandra Park #3544,"$2,950",2.0,2.0,80 Vanauley Street
+238,SQ2 at Alexandra Park #3544,"$3,195",2.0,2.0,80 Vanauley Street
+239,SQ2 at Alexandra Park #3544,"$3,200",2.0,2.0,80 Vanauley Street
+240,SQ2 at Alexandra Park #3544,"$3,200",2.0,2.0,80 Vanauley Street
+241,SQ2 at Alexandra Park #3544,"$3,300",2.0,2.0,80 Vanauley Street
+242,SQ2 at Alexandra Park #3544,"$3,350",2.0,2.0,80 Vanauley Street
+243,SQ2 at Alexandra Park #3544,"$3,395",2.0,2.0,80 Vanauley Street
+244,SQ2 at Alexandra Park #3544,"$3,500",2.0,2.0,80 Vanauley Street
+245,SQ2 at Alexandra Park #3544,"$3,550",2.0,2.0,80 Vanauley Street
+246,SQ2 at Alexandra Park #3544,"$3,600",2.0,2.0,80 Vanauley Street
+247,SQ2 at Alexandra Park #3544,"$3,395",2.5,2.5,80 Vanauley Street
+248,Ritz Carlton,"$7,500",2.0,2.0,183 Wellington St W 
+249,711 Bay St | Unit: 1720,"$2,250",1.0,1.0,
+250,141 Lake Crescent,"$2,500",1.0,1.0,
+251,50 Lynn Williams St,"$2,400",1.0,1.0,
+252,101 Erskine,"$2,500",1.0,1.0,101 Erskine Ave
+253,5168 Yonge St,"$3,500",1.0,1.0,
+254,Rachel Mamann,"$2,950",1.0,1.0,67 Dupont St 
+255,2356 Queen St E,"$1,995",1.0,1.0,
+256,59 Roseland Dr,"$2,775",1.5,1.5,
+257,3 Navy Wharf Ct,"$2,900",1.0,1.0,
+258,58 Orchard View Blvd | Unit: 1801,"$2,450",1.0,1.0,
+259,3600 Colonial Dr,$850,1.0,1.0,
+260,3600 Colonial Dr,$850,1.0,1.0,
+261,Fuse I,"$2,700",1.0,1.0,12 York St
+262,7400 Markham Rd | Unit: 308,"$2,100",1.0,1.0,
+263,"$3,800 ~ Queen & Broadview 2Bed 2Bath Apartment","$3,800",2.0,2.0,
+264,"$3,600 ~ Queen & Broadview 1Bed 1.5Bath Apartment","$3,600",1.5,1.5,
+265,"$3,300 ~ Queen & Broadview 2Bed 2Bath Apartment","$3,300",2.0,2.0,
+266,"$3,900 ~ Queen & Broadview 2Bed 2Bath Apartment","$3,900",2.0,2.0,
+267,"$3,400 ~ Queen & Broadview 2Bed 1Bath Apartment","$3,400",1.0,1.0,
+268,"$2,250 ~ Queen & Broadview 1+1, 1Bath Apartment","$2,250",1.0,1.0,
+269,"$2,200 ~ Queen & Broadview 1+1, 1Bath Apartment","$2,200",1.0,1.0,
+270,"$2,050 ~ Queen & Broadview 1Bed 1Bath Apartment","$2,050",1.0,1.0,
+271,"$3,300 ~ Queen & Broadview 2Bed 1.5Bath Apartment","$3,300",1.5,1.5,
+272,181 Village Green Square | Unit: 799,"$1,999",1.0,1.0,
+273,NXT Windermere-By-The-Lake,"$2,050",1.0,1.0,105 The Queensway
+274,The Massey Tower,"$2,000",1.0,1.0,197 Yonge St
+275,317 Jones Ave | Unit: Upper,"$2,299",1.0,1.0,
+276,317 Jones Ave | Unit: Main,"$2,299",1.0,1.0,
+277,Monde Condominiums,"$2,400",1.0,1.0,16 Bonnycastle St 
+278,Clocktower Lofts,"$3,000",2.0,2.0,700 King St W 
+279,The Wyatt,"$2,450",1.0,1.0,20 Tubman Ave
+280,106 Dewey Dr,"$2,150",3.0,3.0,
+281,757 Candlestick Cir,"$3,200",4.0,4.0,
+282,87-99 Silver Springs Boulevard,"$2,573",1.0,1.0,87-99 Silver Springs Boulevard
+283,75 Silver Springs Boulevard,"$1,739",1.0,1.0,75 Silver Springs Boulevard
+284,75 Silver Springs Boulevard,"$2,068",1.0,1.0,75 Silver Springs Boulevard
+285,65 Silver Springs Boulevard,"$1,739",1.0,1.0,65 Silver Springs Boulevard
+286,65 Silver Springs Boulevard,"$2,068",1.0,1.0,65 Silver Springs Boulevard
+287,"1450 Sheppard Avenue, West","$1,901",1.0,1.0,
+288,Lucy C,"$2,600",1.0,1.0,3880
+289,208 Queens Quay West,"$3,450",1.0,1.0,208 Queens Quay West
+290,Beautifully Furnished 3 Bedroom Suite,"$5,750",2.0,2.0,20 Blue Jays Way
+291,MLS G Furnished 2 Bedroom Suite,"$5,250",2.0,2.0,65 Bremner Boulevard
+292,Beautifully Furnished One Bedroom Suite,"$3,450",1.0,1.0,156 Portland Street
+293,Bisha Residences Condo,"$5,280",2.5,2.5,88 Blue Jays Way
+294,101 Coe Hill Drive,"$1,760 ",1.0,1.0,101 Coe Hill Drive
+295,33 Bay Street,"$3,200",2.0,2.0,33 Bay St
+296,3045 Queen Frederica Drive,"$1,787",1.0,1.0,3045 Queen Frederica Drive
+297,3045 Queen Frederica Drive,"$2,149",1.0,1.0,3045 Queen Frederica Drive
+298,19 Craigton Drive,"$1,786",1.0,1.0,19 Craigton Drive
+299,155 Wellesley Street East,"$1,684",1.0,1.0,155 Wellesley Street East
+300,155 Wellesley Street East,"$2,003",1.0,1.0,155 Wellesley Street East
+301,155 Wellesley Street East,"$2,610",1.0,1.0,155 Wellesley Street East
+302,"80 Wellesley Street, East","$1,935",1.0,1.0,
+303,"80 Wellesley Street, East","$2,078",1.0,1.0,
+304,350 The East Mall,"$1,795",1.0,1.0,350 The East Mall
+305,350 The East Mall,"$1,757",1.0,1.0,350 The East Mall
+306,350 The East Mall,"$1,808",1.0,1.0,350 The East Mall
+307,350 The East Mall,"$2,252",1.0,1.0,350 The East Mall
+308,555 The West Mall,"$2,286",1.0,1.0,555 The West Mall
+309,555 The West Mall,"$2,389",1.0,1.0,555 The West Mall
+310,1330 Danforth Road,"$1,679",1.0,1.0,1330 Danforth Road
+311,1360 Danforth Road,"$1,799",1.0,1.0,1360 Danforth Road
+312,1360 Danforth Road,"$2,039",1.0,1.0,1360 Danforth Road
+313,1350 Danforth Road,"$1,802",1.0,1.0,1350 Danforth Road
+314,1350 Danforth Road,"$2,037",1.0,1.0,1350 Danforth Road
+315,1350 Danforth Road,"$2,615",1.0,1.0,1350 Danforth Road
+316,25 Cougar Court,"$2,051",1.0,1.0,25 Cougar Court
+317,135 Tyndall Avenue,"$1,529",1.0,1.0,135 Tyndall Avenue
+318,135 Tyndall Avenue,"$1,899",1.0,1.0,135 Tyndall Avenue
+319,135 Tyndall Avenue,"$2,329",1.0,1.0,135 Tyndall Avenue
+320,201 Sherbourne Street,"$1,999",1.0,1.0,201 Sherbourne Street
+321,201 Sherbourne Street,"$2,349",1.0,1.0,201 Sherbourne Street
+322,191 Sherbourne Street,"$1,829",1.0,1.0,191 Sherbourne Street
+323,191 Sherbourne Street,"$1,869",1.0,1.0,191 Sherbourne Street
+324,191 Sherbourne Street,"$1,899",1.0,1.0,191 Sherbourne Street
+325,78 Allingham Gardens,$850,1.0,1.0,
+326,CASA 2,"$1,500",1.0,1.0,42 Charles St E 
+327,5508 Yonge St,"$2,700",2.0,2.0,
+328,3986 Ellesmere Rd,$700,1.0,1.0,
+329,Electraloft,"$3,150",2.0,2.0,1029 King St W 
+330,20 Tubman Ave | Unit: 1903,"$3,000",2.0,2.0,
+331,Justin Simmons,"$3,200",2.0,2.0,18 Sommerset Way 
+332,Julie Creen,"$2,995",1.0,1.0,23 Blackburn St
+333,Key West,"$2,275",1.0,1.0,36 Park Lawn Rd 
+334,705 King St W,"$1,900",1.0,1.0,
+335,739 Birchmount,"$1,750",1.0,1.0,739 Birchmount Road
+336,Kineret Aloni-Goldman,"$3,200",1.0,1.0,394 Queen St W
+337,120 Bayview Ave,"$2,000",1.0,1.0,
+338,3575 Bathurst Street,"$1,933",1.0,1.0,3575 Bathurst Street
+339,Joanne Yeung,"$2,100",1.0,1.0,25 Telegram Mews 
+340,Aqua,"$2,700",1.0,1.0,401 Queens Quay W 
+341,Musee,"$2,550",1.0,1.0,525 Adelaide St W
+342,Sanjiv Madhura,"$1,300",3.0,3.0,47 Storey Pl
+343,20 Ellis Park Rd,"$3,750",2.0,2.0,
+344,75 E Liberty St,"$2,400",1.0,1.0,
+345,8 Rosebank Dr | Unit: 3F,"$1,800",1.0,1.0,
+346,St. Clair Ave & Spadina Rd,"$2,250",1.0,1.0,
+347,The NY Towers Waldorf Condos,"$2,500",1.0,1.0,2 Rean Dr
+348,431 Woburn Ave,"$3,750",2.0,2.0,
+349,Triomphe,"$2,600",2.0,2.0,5 Northtown Way 
+350,99 Santamonica Blvd,$835,1.0,1.0,
+351,"3000, 3015, 3017 Queen St. East","$1,801",1.0,1.0,
+352,"3000, 3015, 3017 Queen St. East","$2,209",1.0,1.0,
+353,"3000, 3015, 3017 Queen St. East","$2,264",2.0,2.0,
+354,1080 Kingston Rd.,"$1,771",1.0,1.0,1080 Kingston Rd.
+355,1080 Kingston Rd.,"$2,189",1.0,1.0,1080 Kingston Rd.
+356,1150 & 1200 Kingston Rd.,"$1,881",1.0,1.0,
+357,1150 & 1200 Kingston Rd.,"$2,250",1.0,1.0,
+358,2402-2406 Queen St. East,"$1,965",1.0,1.0,2402-2406 Queen St. East
+359,177 Lyndhurst Ave,"$9,800",4.5,4.5,
+360,4 Jeffrey St,"$1,099",1.0,1.0,
+361,"10, 40 & 50 Carabob Court","$1,700",1.0,1.0,
+362,61 Hummingbird Dr,$650,1.0,1.0,
+363,16 YONGE ST,"$2,600",2.0,2.0,16 Yonge St
+364,Redpath Tower - Yonge and Eglinton,"$1,450",1.0,1.0,95 Redpath Ave.
+365,Redpath Tower - Yonge and Eglinton,"$1,950",1.0,1.0,95 Redpath Ave.
+366,Bristol Arms Apartments,"$1,600",1.0,1.0,1745 Bloor St.
+367,Bristol Arms Apartments,"$1,750",1.0,1.0,1745 Bloor St.
+368,Bristol Arms Apartments,"$1,850",1.0,1.0,1745 Bloor St.
+369,Bristol Arms Apartments,"$1,900",1.0,1.0,1745 Bloor St.
+370,20 Tubman Ave,"$2,750",2.0,2.0,
+371,35 Trudelle St,"$1,800",1.5,1.5,
+372,102 Bloor St W | Unit: 601,"$3,250",1.0,1.0,
+373,15 Hilda Ave,$700,1.0,1.0,
+374,Walter Kikhard,"$2,000",1.0,1.0,34 Fieldway Rd
+375,20 Tubman Ave,"$1,999",1.0,1.0,
+376,1398 Bloor St W | Unit: TH 4,"$3,300",2.0,2.0,
+377,Smart House,"$2,300",1.0,1.0,215 Queen St W 
+378,35 Bales Avenue,"$2,150",1.0,1.0,35 Bales Ave
+379,Downtown Condos,"$1,900",1.0,1.0,508 Wellington St W 
+380,Grenadier Landing,"$2,350",1.0,1.0,5 Marine Parade Dr
+381,17 Powerhouse St,"$1,800",1.0,1.0,
+382,2 Elsie Ln,"$1,325",1.0,1.0,
+383,Lakeshore Apartments,"$2,170",1.0,1.0,6599 Glen Erin Dr
+384,Ali Datoo,$795,1.0,1.0,81 Brookmill Blvd 
+385,Bohemian Embassy,"$2,575",1.0,1.0,1171 Queen St W
+386,18 Ionview Rd,"$1,900",1.0,1.0,
+387,208 McCaul St | Unit: Main floor,"$1,880",1.0,1.0,
+388,Renovated Victorian Duplex,"$5,550",1.0,1.0,208 McCaul St 
+389,46 Cavell Ave,"$1,895",1.0,1.0,
+390,KINGLYCONDOS,"$2,650",2.0,2.0,501 Adelaide St W 
+391,Lawrence Ave. East/Kingston Road,"$1,200",1.0,1.0,10 Rodda Blvd
+392,59 E Liberty St,"$1,950",1.0,1.0,
+393,18 Harbour St | Unit: 1706,"$2,350",1.0,1.0,
+394,39 Sherbourne St | Unit: 1502,"$2,400",1.0,1.0,
+395,30 Church St | Unit: 401,"$4,900",3.0,3.0,
+396,30 Church St | Unit: 501,"$3,200",2.5,2.5,
+397,Elm Place,"$1,100",1.0,1.0,222 Elm St
+398,105 The Queensway,"$2,350",1.0,1.0,
+399,130 Raglan Avenue,"$2,129",1.0,1.0,130 Raglan Avenue
+400,488 University Ave | Unit: 05,"$3,400",2.0,2.0,
+401,Lilia Merkoulovitch,"$7,500",4.5,4.5,36 Senlac Rd
+402,The Massey Tower,"$2,180 ",1.0,1.0,197 Yonge St
+403,The Garrison,"$1,750",1.0,1.0,169 Fort York Blvd
+404,200 Clinton St,"$6,000",2.5,2.5,
+405,VIDA,"$2,100",1.0,1.0,621 Sheppard Ave E 
+406,85 E Liberty St | Unit: 1602,"$2,500",1.0,1.0,
+407,Massey Towers,"$3,700",2.0,2.0,197 Yonge St 
+408,27 Hammersmith Ave | Unit: 27B UPPER,"$3,850",1.0,1.0,
+409,The Wyatt,"$1,900",1.0,1.0,20 Tubman Ave
+410,4308 Shelby Crescent,"$3,200",4.0,4.0,
+411,6 Bushwood Ct,"$1,850",1.0,1.0,
+412,1185 The Queensway,"$2,300",1.0,1.0,
+413,376 Hwy 7 | Unit: ph07,"$1,900",1.0,1.0,
+414,Lawrence Ave. East/Kingston Road,"$3,000",2.0,2.0,10 Rodda Blvd
+415,115 George Appleton Way,"$1,959",1.0,1.0,
+416,2504 Lake Shore Blvd W | Unit: Main floor,"$2,750",2.0,2.0,
+417,Florentin none Laudat,"$2,500",2.0,2.0,2 Broadpath Rd
+418,333 Rimilton Ave | Unit: Main,"$2,650",1.0,1.0,
+419,The Residences of College Park,"$2,300",1.0,1.0,763 Bay St 
+420,Metropolitan Apartments,"$1,950",1.0,1.0,2837 Yonge Street
+421,Metropolitan Apartments,"$1,975",1.0,1.0,2837 Yonge Street
+422,Metropolitan Apartments,"$2,295",1.0,1.0,2837 Yonge Street
+423,Metropolitan Apartments,"$2,300",1.0,1.0,2837 Yonge Street
+424,Metropolitan Apartments,"$2,825",1.0,1.0,2837 Yonge Street
+425,316 Jedburgh Rd,"$3,400",2.0,2.0,
+426,110 Bloor St W,"$3,000",1.0,1.0,
+427,2625 Battleford Rd | Unit: A,"$2,600",2.0,2.0,
+428,30 Denton Ave,"$1,695",1.0,1.0,
+429,30 Denton Ave," $1,795",1.0,1.0,
+430,30 Denton Ave,"$1,950",1.0,1.0,
+431,30 Denton Ave,"$2,295",1.0,1.0,
+432,2575 Danforth Avenue,"$1,610",1.0,1.0,
+433,2575 Danforth Avenue," $1,810",1.0,1.0,
+434,2575 Danforth Avenue,"$1,990",1.0,1.0,
+435,2575 Danforth Avenue,"$2,065",1.0,1.0,
+436,2575 Danforth Avenue,"$2,340",1.0,1.0,
+437,763 Woodbine Ave,"$1,950",1.0,1.0,
+438,763 Woodbine Ave,"$2,825",1.0,1.0,
+439,763 Woodbine Ave,"$2,950",2.0,2.0,
+440,15 Brookbanks Dr,"$1,775",1.0,1.0,
+441,15 Brookbanks Dr,"$2,000",2.0,2.0,
+442,15 Brookbanks Dr,"$2,325",2.0,2.0,
+443,12 Rockford Rd,"$2,015",1.0,1.0,
+444,Adriana Ametrano,"$2,000",1.0,1.0,31 Meadowbrook Rd 
+445,One Park Place,"$2,200",1.0,1.0,55 Regent Park Blvd
+446,25 Viking Ln | Unit: 357,"$2,600",2.0,2.0,
+447,The ArtHouse,"$2,600",2.0,2.0,9582 Markham Rd 
+448,2701 Eglinton Avenue West,"$1,524",1.0,1.0,2701 Eglinton Avenue West
+449,2701 Eglinton Avenue West,"$2,027",1.0,1.0,2701 Eglinton Avenue West
+450,Broadview Lofts,"$2,950",1.0,1.0,68 Broadview Ave 
+451,465 Woodfield Rd,"$3,600",3.0,3.0,
+452,545 Sherbourne St,"$1,185",1.0,1.0,
+453,Colleen Mary Steffl,"$4,000",3.0,3.0,189 St Helens Ave 
+454,Victory Lofts,"$2,600",1.0,1.0,478 King St W 
+455,1168 Arena Rd,"$3,000",2.5,2.5,
+456,125 Kingsview Blvd,"$2,500",1.0,1.0,
+457,30 Shore Breeze Dr,"$2,000",1.0,1.0,
+458,18 Quillberry Cl,"$2,500",2.5,2.5,
+459,214 Brandon Ave,"$3,850",3.0,3.0,
+460,1168 Arena Rd,"$3,000",2.5,2.5,
+461,The Panache,"$3,300",1.0,1.0,212 Eglinton Ave E 
+462,Royal Crest Ⅲ Condos,"$2,450",2.0,2.0,45 Huntingdale Blvd 
+463,77 Allingham Gardens,"$3,500",2.0,2.0,
+464,4252 Lawrence Ave E,"$1,700",1.0,1.0,
+465,66 Isabella Street,"$1,800",1.0,1.0,66 Isabella Street
+466,66 Isabella Street,"$1,950",1.0,1.0,66 Isabella Street
+467,66 Isabella Street,"$1,950",1.0,1.0,66 Isabella Street
+468,66 Isabella Street,"$2,100",1.0,1.0,66 Isabella Street
+469,460 Adelaide St E,"$2,000",1.0,1.0,
+470,NY2,"$1,900",1.0,1.0,18 Rean Dr 
+471,9 Old Colony Rd Unit 80 | Unit: 109,"$2,350",4.0,4.0,
+472,Edge on Triangle Park,"$2,500",2.0,2.0,36 Lisgar St 
+473,Axis Condos,"$2,300",1.0,1.0,85 Wood St
+474,E Condos,"$2,100",1.0,1.0,8 Eglinton Ave E
+475,The Britt,"$2,150",1.0,1.0,945 Bay St
+476,50 Wellesley St E,"$2,300",1.0,1.0,
+477,Fashion house,"$2,250",1.0,1.0,560 King St W
+478,5390 Steeles Ave W,"$2,500",2.5,2.5,
+479,7171 Yonge St,"$2,100",1.0,1.0,
+480,Minto Longbranch,"$2,600",2.5,2.5,100 Long Branch Ave 
+481,85 E Liberty St | Unit: 1602,"$2,450",1.0,1.0,
+482,The Grand Residences at Parkside Village,"$2,500",1.0,1.0,4070 Confederation Pkwy
+483,Minto Plaza,"$4,500",2.0,2.0,38 Elm St
+484,257 Roxton Rd,"$1,950",1.0,1.0,
+485,56 Forest Manor Rd | Unit: 2208,"$2,100",1.0,1.0,
+486,56 Forest Manor Rd | Unit: 2208,"$2,100",1.0,1.0,
+487,Minto Plaza,"$3,600",1.0,1.0,38 Elm St
+488,739 Midland Ave, $850,1.0,1.0,
+489,1 Mallory Gardens,"$1,890",1.0,1.0,
+490,Bretton Place,"$2,750",1.0,1.0,44 Jackes Ave 
+491,Garden Court,"$2,000",1.5,1.5,28 Prince Regent St 
+492,Triash,"$1,350",1.0,1.0,1 Valley Stream Dr
+493,Harbour Plaza,"$2,250",1.0,1.0,100 Harbour St
+494,nerissa dsouza,"$3,000",1.0,1.0,112 George St 
+495,21 Carisbrooke Square,"$3,000",3.0,3.0,
+496,27 Bathurst St | Unit: 421W,"$2,300",1.0,1.0,
+497,Livlofts,"$2,200",1.0,1.0,75 The Donway W 
+498,31 Meadow Ave,"$2,250",1.5,1.5,
+499,47 Lower River Street,"$2,050",1.0,1.0,
+500,115 Maitland St,"$2,500",1.0,1.0,
+501,98 Anthia Dr,"$1,850",1.0,1.0,
+502,85 E Liberty St,"$2,100",1.0,1.0,
+503,33 Empress Ave,"$2,300",1.0,1.0,
+504,68 Merton St,"$8,500",4.0,4.0,
+505,14 Buller Ave," $4,200",2.0,2.0,
+506,32 Camden St,"$2,600",1.0,1.0,
+507,The Thompson Residences,"$2,000",1.0,1.0,38 Stewart St 
+508,Treviso Condos,"$2,350",1.0,1.0,830 Lawrence Ave W
+509,2200 Lake Shore Blvd W | Unit: 3003,"$2,100",1.0,1.0,
+510,2029-2055 Victoria Park Ave.,"$2,573",1.0,1.0,2029-2055  Victoria Park Ave.
+511,2029-2055 Victoria Park Ave.,"$2,799",1.0,1.0,2029-2055  Victoria Park Ave.
+512,74 Curlew Dr.,"$1,963",1.0,1.0,74 Curlew Dr.
+513,74 Curlew Dr.,"$2,279",1.0,1.0,74 Curlew Dr.
+514,Shorecrest,"$1,425",1.0,1.0,35 Spencer Avenue
+515,Shorecrest,"$1,425",1.0,1.0,35 Spencer Avenue
+516,Shorecrest,"$1,495",1.0,1.0,35 Spencer Avenue
+517,Pete Lavecchia,"$1,800",1.0,1.0,30 Watson St 
+518,The Carnaby,"$3,000",2.0,2.0,20 Minowan Miikan Lane
+519,35 Canyon Ave | Unit: 18,$850,1.0,1.0,
+520,2200 Lake Shore Blvd W,"$2,100",1.0,1.0,
+521,175 Marion St,"$2,950",1.0,1.0,
+522,569 Yonge St. Apt #3,"$2,300",1.0,1.0,569 Yonge St 
+523,150 Redpath,"$2,200",1.0,1.0,161 Roehampton Ave
+524,101 Peter St | Unit: 602,"$19,500",1.0,1.0,
+525,415 Palmerston Blvd," $6,500",2.5,2.5,
+526,3311 Kingston Rd,"$2,200",1.0,1.0,
+527,Reneta Hadjianguelova,"$4,990",1.0,1.0,261 Soudan Ave
+528,88 Corporate Dr,"$2,500",2.0,2.0,88 Corporate Dr 
+529,36 Lee Centre Dr,"$2,050",1.0,1.0,36 Lee Centre Dr 
+530,36 Lee Centre Dr,"$2,100",1.0,1.0,36 Lee Centre Dr 
+531,Dundas Square Gardens,"$1,950",1.0,1.0,200 Dundas St E
+532,3500 South Millway,$900,2.0,2.0,
+533,560 Front St W | Unit: 617,"$2,500",1.0,1.0,
+534,50 Bruyeres Mews,"$2,150",1.0,1.0,
+535,88 Scott,"$2,250",1.0,1.0,88 Scott St
+536,260 Queens Quay W | Unit: 1505,"$2,200",1.0,1.0,
+537,Eau du Soleil,"$2,700",1.0,1.0,30 Shore Breeze Dr 
+538,1101 Bay Street,"$1,695",1.0,1.0,1101 Bay Street
+539,1101 Bay Street,"$2,300",1.0,1.0,1101 Bay Street
+540,1101 Bay Street,"$1,995",1.0,1.0,1101 Bay Street
+541,1101 Bay Street,"$2,700",1.0,1.0,1101 Bay Street
+542,1101 Bay Street,"$3,300",1.0,1.0,1101 Bay Street
+543,Wyldewood Apartments,"$2,100",1.0,1.0,120 Torresdale Avenue
+544,Wyldewood Apartments,"$2,400",1.0,1.0,120 Torresdale Avenue
+545,Rosewell Gardens Apartments,"$2,195",1.0,1.0,515 Rosewell Avenue
+546,Rosewell Gardens Apartments,"$2,195",1.0,1.0,515 Rosewell Avenue
+547,Rosewell Gardens Apartments,"$3,975",1.0,1.0,515 Rosewell Avenue
+548,Rosewell Gardens Apartments,"$2,850",1.0,1.0,515 Rosewell Avenue
+549,Rosewell Gardens Apartments,"$4,200",1.5,1.5,515 Rosewell Avenue
+550,Forest Lane Apartments,"$2,100",1.0,1.0,300 Antibes Drive
+551,Forest Lane Apartments,"$2,200",1.5,1.5,300 Antibes Drive
+552,Forest Lane Apartments,"$2,500",2.0,2.0,300 Antibes Drive
+553,Goldengate Apartments,"$1,700",1.0,1.0,1790 Eglinton Avenue East
+554,Goldengate Apartments,"$1,750",1.0,1.0,1790 Eglinton Avenue East
+555,Goldengate Apartments,"$2,100",1.0,1.0,1790 Eglinton Avenue East
+556,Lakeside Place Apartments,"$1,975",1.0,1.0,2699 Battleford Road
+557,Lakeside Place Apartments,"$2,250",1.0,1.0,2699 Battleford Road
+558,Brampton Towers - Oxford Properties,"$1,750",1.0,1.0,85 Charolais Boulevard
+559,Brampton Towers - Oxford Properties,"$1,900",1.0,1.0,85 Charolais Boulevard
+560,Brampton Towers - Oxford Properties,"$2,050",1.5,1.5,85 Charolais Boulevard
+561,Brampton Towers - Oxford Properties,"$2,200",1.5,1.5,85 Charolais Boulevard
+562,Montgomery Mills - 50 Cordova Ave.,"$1,550",1.0,1.0,50 Cordova Avenue
+563,Montgomery Mills - 50 Cordova Ave.,"$1,550",1.0,1.0,50 Cordova Avenue
+564,Montgomery Mills - 50 Cordova Ave.,"$1,650",1.0,1.0,50 Cordova Avenue
+565,Montgomery Mills - 50 Cordova Ave.,"$1,750",1.5,1.5,50 Cordova Avenue
+566,Montgomery Mills - 50 Cordova Ave.,"$1,995",2.0,2.0,50 Cordova Avenue
+567,Montgomery Mills - 50 Cordova Ave.,"$1,995",2.0,2.0,50 Cordova Avenue
+568,The Eglinton,$850,1.0,1.0,125 Redpath Ave 
+569,65 Southport St | Unit: 205,"$2,600",2.0,2.0,
+570,L Tower,"$2,400",1.0,1.0,8 The Esplanade
+571,216 Heath St W | Unit: 4,"$4,250",2.0,2.0,
+572,5 Oakburn Crescent | Unit: 6,"$3,650",3.0,3.0,
+573,Concorde Place,"$2,500",2.0,2.0,7 Concorde Pl 
+574,49 Jardine Pl,"$1,700",1.0,1.0,
+575,872 Sheppard Ave W,"$2,700",2.0,2.0,872 Sheppard Ave W
+576,809 Duplex Ave | Unit: Lower,"$2,150",1.0,1.0,
+577,Jane Veliganova,"$2,275",1.0,1.0,124 Porchester Dr
+578,262 Birmingham St,"$3,300",2.0,2.0,
+579,"$3,500 ~ Spacious Top Floor of Duplex at Avenue & St. Clair","$3,500",2.0,2.0,
+580,100 Leeward Glenway | Unit: 1511,"$2,600",1.0,1.0,
+581,Continental Condominium Towers,"$2,600",1.0,1.0,509 Beecroft Rd
+582,Maple Leaf Square Condo,"$2,400",1.0,1.0,55 Bremner Blvd 
+583,One Park Place,"$2,750",2.0,2.0,55 Regent Park Blvd
+584,80 Absolute Ave #611 | Unit: 305,"$2,300",2.0,2.0,
+585,9 Cannon Rd | Unit: 2,"$2,700",1.0,1.0,
+586,3 Lois Ave | Unit: Upper Unit,"$3,500",3.0,3.0,
+587,20 Tubman Ave,"$2,150",1.0,1.0,
+588,Kingsway Village Square,"$2,200",1.0,1.0,571  Prince Edward Dr N
+589,Kingsway Village Square,"$2,200",1.0,1.0,571  Prince Edward Dr N
+590,Kingsway Village Square,"$2,450",1.0,1.0,571  Prince Edward Dr N
+591,Kingsway Village Square,"$3,300",2.0,2.0,571  Prince Edward Dr N
+592,Kingsway Village Square,"$5,870",2.0,2.0,571  Prince Edward Dr N
+593,Massey House Apartments,"$1,950",1.0,1.0,550 Jarvis Street Jarvis
+594,The Ossington,"$3,950",2.0,2.0,1145 Ossington Avenue
+595,Velocity at the Square,"$2,450",1.0,1.0,252 Victoria Street
+596,Velocity at the Square,"$2,850",1.0,1.0,252 Victoria Street
+597,6151 Bathurst,"$1,995",1.0,1.0,6151 Bathurst Street
+598,6151 Bathurst,"$2,228",1.0,1.0,6151 Bathurst Street
+599,765 Steeles,"$1,932",1.0,1.0,765 Steeles Ave West
+600,765 Steeles,"$2,308",1.5,1.5,765 Steeles Ave West
+601,Peel Towers,"$1,938",1.0,1.0,2465 Hurontario Street
+602,Peel Towers,"$2,128",1.0,1.0,2465 Hurontario Street
+603,Dufferin Crossing,"$2,424",1.0,1.0,295 Dufferin St.
+604,Dufferin Crossing,"$2,549",1.0,1.0,295 Dufferin St.
+605,Dufferin Crossing,"$2,924",1.0,1.0,295 Dufferin St.
+606,425 Avenue Road,"$1,630",1.0,1.0,425 Ave Road
+607,425 Avenue Road,"$2,225",1.0,1.0,425 Ave Road
+608,22 Farmcote Rd," $3,750",3.0,3.0,
+609,Merchandise Building,"$2,500",1.0,1.0,155 Dalhousie St
+610,951 Bay St,"$1,895",1.0,1.0,
+611,Queens Harbour,"$2,400",1.0,1.0,600 Queens Quay W 
+612,jiji,"$1,250",1.0,1.0,103 Grayson Crescent
+613,3456 Woodhurst Crescent,$750,2.5,2.5,
+614,29 Huron St | Unit: 2,"$3,400",2.0,2.0,
+615,The Summit,"$2,300",1.0,1.0,705 King St W 
+616,3560 St Clair Ave E | Unit: 418,"$2,000",1.0,1.0,
+617,Post House Condo,"$2,700",2.0,2.0,105 George St 
+618,88 Boultbee Ave,"$3,999",1.0,1.0,
+619,The Riviera Condos,"$3,150",2.0,2.0,230 Queens Quay W 
+620,Reggie Ganzon,"$2,500",1.0,1.0,105 Twenty Ninth St 
+621,1 Bedford Rd | Unit: 1802,"$10,000",2.5,2.5,
+622,627 Dufferin St | Unit: 1,"$2,000",1.0,1.0,
+623,Gramercy Park,"$2,395",1.0,1.0,525 Wilson Ave 
+624,37 Sorauren Ave | Unit: Basement,"$2,200",1.0,1.0,
+625,37 Sorauren Ave | Unit: Main,"$2,700",1.0,1.0,
+626,35 Balmuto,"$6,000",2.0,2.0,35 Balmuto St 
+627,300 Front St W,"$3,000",2.0,2.0,300 Front St W
+628,28 Wellesley St E,"$1,980",1.0,1.0,
+629,627 Dufferin St | Unit: 2,"$1,800",1.0,1.0,
+630,62 Haimer Avenue,"$3,250",3.0,3.0,62 Haimer Ave
+631,21 Widmer St | Unit: 907,"$2,399",1.0,1.0,
+632,Emerald City,"$2,200",1.0,1.0,50 Forest Manor Rd
+633,Rajko Pavlovic,"$1,200",1.0,1.0,38 Lisburn Crescent
+634,104 Stargell Crescent,"$1,100",1.0,1.0,
+635,45 Forty Second St.,"$2,185",1.0,1.0,45 Forty Second St.
+636,Portland Park Village,"$3,400",1.0,1.0,11 Niagara St 
+637,58 Marine Parade Dr,"$3,750",2.0,2.0,
+638,KIP,"$2,100",1.0,1.0,5353 Dundas St W 
+639,Tableau,"$2,500",1.0,1.0,125 Peter St
+640,20 Shore Breeze Dr | Unit: 3709,"$2,300",1.0,1.0,
+641,97 Sufi Crescent,"$2,200",1.5,1.5,
+642,Caitlyn Percy,"$2,200",1.0,1.0,125 Omni Dr 
+643,IQ condos on the Queensway,"$2,600",2.0,2.0,1185 The Queensway 
+644,King/Jameson,"$1,800",1.0,1.0,170 Jameson Ave
+645,3700 Kaneff Crescent,"$2,600",2.5,2.5,
+646,285 Enfield Pl,"$2,600",2.0,2.0,
+647,3580 Lake Shore Blvd W | Unit: 12,"$2,600",2.0,2.0,
+648,115 Hillcrest Ave | Unit: 801,"$2,650",1.0,1.0,
+649,739 Midland Ave,"$1,000",1.5,1.5,
+650,98 Gulfbrook Cir,"$2,500",3.0,3.0,
+651,The Bondo Condos,"$2,500",1.0,1.0,290 Adelaide St W 
+652,HOEM on Jarvis,"$1,500",1.0,1.0,186 Jarvis St
+653,3091 Dufferin St,"$2,150",1.0,1.0,
+654,55 Crockamhill Dr,"$2,000",3.0,3.0,
+655,75 The Donway W,"$2,400",1.5,1.5,75 The Donway W
+656,3018 Yonge St | Unit: 508,"$3,200",2.0,2.0,
+657,The Brant Park,"$2,100",1.0,1.0,39 Brant St 
+658,5418 Yonge St | Unit: 1703,"$2,575",1.0,1.0,
+659,504 Roxton Rd | Unit: 1,"$1,650",1.0,1.0,
+660,"3895 Lawrence Avenue, East","$1,799",1.0,1.0,
+661,77 Wellesley Street East,"$2,001",1.0,1.0,77 Wellesley Street East
+662,15 Greenview Ave,"$2,100",1.0,1.0,15 Greenview Ave
+663,Aquavista,"$2,100",1.0,1.0,1 Edgewater Dr
+664,23 Sheppard Ave E,"$2,150",1.0,1.0,
+665,2210 Dundas St W | Unit: Rear,"$2,700",1.0,1.0,
+666,77 Harbour Square | Unit: 2905,"$2,100",1.0,1.0,
+667,10 Old York Mills Rd,"$4,000",2.0,2.0,
+668,375 Apache Trail | Unit: upper,"$2,650",1.0,1.0,
+669,11 Birchmount Rd,"$1,700",1.0,1.0,
+670,230 Oak St,"$1,775",1.0,1.0,
+671,5025 Four Springs Ave | Unit: 1204,"$2,500",2.0,2.0,
+672,6 Auburndale Court," $1,999",1.0,1.0,6 Auburndale Court
+673,310-312 Lonsdale Road,"$2,146",1.0,1.0,310-312 Lonsdale Road
+674,310-312 Lonsdale Road,"$2,575",1.0,1.0,310-312 Lonsdale Road
+675,580 The East Mall,"$2,109",1.0,1.0,580 The East Mall
+676,580 The East Mall,"$1,956",1.5,1.5,580 The East Mall
+677,580 The East Mall,"$2,399",1.5,1.5,580 The East Mall
+678,778 Broadview Avenue,"$1,593",1.0,1.0,778 Broadview Avenue
+679,Cinema Tower,"$2,700",1.0,1.0,21 Widmer St 
+680,Ice Condos,"$3,900",1.0,1.0,14 York St
+681,88 Harbour St | Unit: 7210,"$4,500",1.0,1.0,
+682,Bisha Hotel,"$4,650",2.0,2.0,88 Blue Jays Way
+683,18 Valley Woods Rd,"$2,200",1.0,1.0,
+684,Axiom,"$2,500",1.0,1.0,460 Adelaide St E
+685,20 Tubman Ave,"$3,200",2.0,2.0,
+686,90 Sumach St | Unit: 310,"$3,600",1.0,1.0,
+687,455 Dovercourt Rd | Unit: 4,"$4,300",3.0,3.0,
+688,295 Adelaide St W | Unit: 4404,"$4,200",2.0,2.0,
+689,197 Yonge St | Unit: 4609,"$4,000",2.0,2.0,
+690,110 Marine Parade Dr | Unit: 801,"$3,995",3.0,3.0,
+691,1080 Bay St | Unit: 3810,"$3,695",2.0,2.0,
+692,1080 Bay St | Unit: 3810,"$3,695",2.0,2.0,
+693,311 Bay St | Unit: 4805,"$10,500",1.0,1.0,
+694,63 St Mary St | Unit: Th01,"$10,000",3.0,3.0,
+695,180 University Ave | Unit: 4505,"$8,000",3.0,3.0,
+696,42 Glen Elm Avenue,"$1,995",1.0,1.0,42 Glen Elm Avenue
+697,Barclay Terraace,"$2,750",2.0,2.0,1300 Islington Ave 
+698,3533 Derry Rd E,"$2,400",2.0,2.0,3533 Derry Rd E
+699,27 Bathurst St | Unit: 1615,"$1,900",1.0,1.0,
+700,Rino Cara,"$2,350",1.0,1.0,8 Park Rd 
+701,Skymark,"$4,600",2.0,2.0,78 Harrison Garden Blvd
+702,78 James St,"$2,500",1.0,1.0,
+703,Sarah McIntosh,"$2,500",1.0,1.0,684 Warden Ave 
+704,667 Queen St E,"$2,450",1.0,1.0,
+705,501 Adelaide St W,"$2,400",1.0,1.0,
+706,1836 Queen St E,"$1,425",1.0,1.0,
+707,Liberty Place,"$2,450",1.0,1.0,150 E Liberty St
+708,602 Birchmount Rd | Unit: B,"$2,200",1.0,1.0,
+709,189 Lippincott St,"$4,000",3.0,3.0,
+710,Studio 2,"$2,600",1.0,1.0,30 Nelson St 
+711,Mehul Desai,"$2,175",1.0,1.0,21 Iceboat Terr 
+712,2200 Eglinton Ave W,"$2,600",2.0,2.0,
+713,290 Adelaide St W,"$2,700",1.0,1.0,
+714,Pantages Hotel,"$2,100",1.0,1.0,200 Victoria St 
+715,Mondeo springs,"$2,250",2.0,2.0,8 Mondeo Dr 
+716,MINTO,"$1,850",1.0,1.0,576 Front St W
+717,Smart House,"$2,000",1.0,1.0,215 Queen St W 
+718,Triplex,"$2,600",1.0,1.0,112 Stephen Dr 
+719,540 Birchmount Road,"$1,630",1.0,1.0,540 Birchmount Rd
+720,540 Birchmount Road,"$1,975",1.0,1.0,540 Birchmount Rd
+721,City Place,"$3,500",2.0,2.0,10 Capreol Ct
+722,Massey,"$2,250",1.0,1.0,197 Yonge St
+723,106 Holcolm Rd,"$3,400",1.0,1.0,
+724,NXT CONDO,"$2,500",1.0,1.0,105 The Queensway 
+725,8 Telegram Mews,"$3,500",2.0,2.0,
+726,Key West,"$2,400",1.0,1.0,36 Park Lawn Rd 
+727,Linwood Apartments,"$1,850",1.0,1.0,1785 Bloor St.
+728,Linwood Apartments,"$1,950",1.5,1.5,1785 Bloor St.
+729,Holly Tower - Yonge and Eglinton,"$1,575",1.0,1.0,33 Holly St.
+730,Holly Tower - Yonge and Eglinton,"$1,725",1.0,1.0,33 Holly St.
+731,88 Charles St E,"$3,200",1.0,1.0,
+732,Aqualina,"$2,650",1.5,1.5,
+733,230 S Kingsway,"$3,500",1.0,1.0,
+734,Rezen,"$2,500",1.0,1.0,205 Frederick St 
+735,Bisha,"$2,450",1.0,1.0,88 Blue Jays Way
+736,Palace Gate,"$3,800",2.0,2.0,3181 Bayview Ave 
+737,1 Valhalla Inn Rd,"$2,100",1.0,1.0,
+738,1 De Boers Dr | Unit: 1206,"$2,700",2.0,2.0,
+739,Liberty Village Townhomes,"$2,550",1.0,1.0,50 Western Battery Rd
+740,Fuse I,"$2,500",1.0,1.0,12 York St
+741,Fuse II,"$2,700",1.0,1.0,1420 Dupont St
+742,5793 Yonge St | Unit: 509,"$2,600",2.0,2.0,
+743,74 Twenty Ninth St,"$2,300",1.0,1.0,
+744,INDX Condos,"$2,600",1.0,1.0,70 Temperance St 
+745,Donway Properties - Don Mills,"$1,950",1.0,1.0,1053 Don Mills
+746,Donway Properties - Don Mills,"$2,300",1.0,1.0,1053 Don Mills
+747,Donway Properties - Toronto,"$1,950",1.0,1.0,2 The Donway East
+748,Donway Properties - Toronto,"$2,300",1.0,1.0,2 The Donway East
+749,352 Front St W | Unit: LPH3,"$3,500",1.0,1.0,
+750,Iron Gate Manor,"$1,450",1.0,1.0,485 Kingston Road
+751,Iron Gate Manor,"$2,000",2.0,2.0,485 Kingston Road
+752,319 Carlaw Ave | Unit: 506,"$2,100",1.0,1.0,
+753,Cinema Tower,"$2,700",1.0,1.0,21 Widmer St 
+754,Clock Tower Lofts,"$3,000",2.0,2.0,700 King St W 
+755,DNA2,"$3,250",2.0,2.0,1005 King St W 
+756,One Park Place,"$2,950",2.0,2.0,55 Regent Park Blvd
+757,27 Bathurst St,"$2,850",2.0,2.0,
+758,Harbour Plaza,"$2,400",1.0,1.0,100 Harbour St
+759,56 Hambly Ave | Unit: lower,"$2,100",1.0,1.0,
+760,156 Enfield Pl | Unit: 1005,"$2,750",2.0,2.0,
+761,9 ruscoe cresent,"$2,900",1.0,1.0,9 Ruscoe Crescent
+762,Casa condominiums,"$3,850",1.0,1.0,33 Charles St E 
+763,447 Longmore St | Unit: 2,"$1,900",1.0,1.0,
+764,Naila Arain,"$2,900",2.0,2.0,27 Bathurst St
+765,Westwood Boutique,"$2,100",1.0,1.0,8 Fieldway Rd 
+766,75 Cambridge Ave | Unit: Apartment 1,"$2,600",1.0,1.0,
+767,Sq on the park,"$3,500",2.0,2.0,80 Vanauley St
+768,540 Russell Hill Rd | Unit: 203,"$2,380",1.0,1.0,
+769,Sixty Colborne,"$1,950",1.0,1.0,60 Colborne St
+770,1169 Queen St W,"$2,100",1.0,1.0,
+771,Matthew McCullough,"$1,350",2.0,2.0,167 Church St
+772,60 Brian Harrison Way | Unit: 3605,"$2,000",1.0,1.0,
+773,208 Lake Promenade,"$1,795",1.0,1.0,
+774,208 Lake Promenade,"$2,900",1.0,1.0,
+775,Smart House,"$1,600",1.0,1.0,215 Queen St W 
+776,Smart House,"$1,700",1.0,1.0,215 Queen St W 
+777,Smart House,"$1,850",1.0,1.0,215 Queen St W 
+778,Apex Cityplace,"$2,200",1.0,1.0,397 Front St W
+779,The Massey Tower,"$2,550",1.0,1.0,197 Yonge St
+780,591 Sheppard Ave E,"$2,200",1.0,1.0,
+781,Axiom Condos,"$2,200",1.0,1.0,464 Adelaide St E 
+782,Monde,"$2,400",1.0,1.0,16 Bonnycastle St
+783,Lakeshore Apartments,"$2,399",1.0,1.0,6599 Glen Erin Dr
+784,Lakeshore Apartments,"$2,509",1.0,1.0,6599 Glen Erin Dr
+785,Lakeshore Apartments,"$2,524",1.0,1.0,6599 Glen Erin Dr
+786,Riverview Apartments,"$2,039",1.0,1.0,2304  Weston Road
+787,35 Walmer Road,"$2,353",1.0,1.0,35 Walmer Road
+788,35 Walmer Road,"$2,183",1.0,1.0,35 Walmer Road
+789,35 Walmer Road,"$2,889",1.0,1.0,35 Walmer Road
+790,3888 Bathurst Street,"$1,802",1.0,1.0,3888 Bathurst Street
+791,3888 Bathurst Street,"$2,136",1.0,1.0,3888 Bathurst Street
+792,4900 Bathurst Street,"$1,877",1.0,1.0,4900  Bathurst Street
+793,4900 Bathurst Street,"$2,214",1.0,1.0,4900  Bathurst Street
+794,4981 Bathurst Street,"$1,861",1.0,1.0,4981 Bathurst Street
+795,4981 Bathurst Street,"$2,063",1.0,1.0,4981 Bathurst Street
+796,323 Rusholme Road - Doversquare Apartments,"$1,687",1.0,1.0,323 Rusholme Road
+797,323 Rusholme Road - Doversquare Apartments,"$1,887",1.0,1.0,323 Rusholme Road
+798,357 Rusholme Road - Doversquare Apartments,"$1,687",1.0,1.0,357 Rusholme Road
+799,357 Rusholme Road - Doversquare Apartments,"$1,907",1.0,1.0,357 Rusholme Road
+800,4222 Bathurst Street,"$1,852",1.0,1.0,4222 Bathurst Street
+801,1650 Sheppard Avenue East,"$2,047",1.0,1.0,1650 Sheppard Avenue East
+802,1650 Sheppard Avenue East,"$2,267",2.0,2.0,1650 Sheppard Avenue East
+803,4979 Bathurst Street,"$1,860",1.0,1.0,4979 Bathurst Street
+804,4979 Bathurst Street,"$2,091",1.0,1.0,4979 Bathurst Street
+805,4979 Bathurst Street,"$2,121",1.0,1.0,4979 Bathurst Street
+806,4190 Bathurst Street,"$1,847",1.0,1.0,4190 Bathurst Street
+807,3894 Bathurst Street,"$1,816",1.0,1.0,3894 Bathurst Street
+808,1660 Bathurst Street,"$1,799",1.0,1.0,1660 Bathurst Street
+809,730 Dovercourt Road - Doversquare Apartments,"$1,687",1.0,1.0,730 Dovercourt Road
+810,730 Dovercourt Road - Doversquare Apartments,"$1,887",1.0,1.0,730 Dovercourt Road
+811,2900 Bathurst Street - Emerald Towers,"$1,837",1.0,1.0,2900 Bathurst Street
+812,2900 Bathurst Street - Emerald Towers,"$2,347",1.0,1.0,2900 Bathurst Street
+813,2900 Bathurst Street - Emerald Towers,"$2,747",1.0,1.0,2900 Bathurst Street
+814,3 Redkey Dr,"$2,300",2.0,2.0,
+815,Kimberly Parris,"$2,450",1.0,1.0,38 Joe Shuster Way 
+816,311 Richmond St E | Unit: PH 04,"$2,200",1.0,1.0,
+817,2 Regal Road,"$1,800",1.0,1.0,2 Regal Road
+818,2 Regal Road,"$2,059",1.0,1.0,2 Regal Road
+819,700 King St W | Unit: 700,"$2,375",1.0,1.0,
+820,Tom Eichler,"$2,100",1.0,1.0,388 Bloor St E
+821,87 Peter St,"$2,400",1.0,1.0,
+822,Quad Lofts II,"$3,199",1.0,1.0,19 Brant St 
+823,2397 Finch Avenue West,"$1,714",1.0,1.0,2397 Finch Avenue West
+824,2397 Finch Avenue West,"$1,958",1.0,1.0,2397 Finch Avenue West
+825,286 Finch Avenue West,"$1,736",1.0,1.0,286 Finch Avenue West
+826,286 Finch Avenue West,"$2,035",1.0,1.0,286 Finch Avenue West
+827,85 E Liberty St | Unit: 1902,"$2,450",1.0,1.0,
+828,1038 Dundas St E,"$4,300",2.0,2.0,
+829,269 Soudan Ave | Unit: 2,"$2,000",1.0,1.0,
+830,Ice Condos,"$3,000",2.0,2.0,14 York St
+831,Wyatt,"$1,900",1.0,1.0,20 Tubman Ave
+832,Wyatt,"$2,450",1.0,1.0,20 Tubman Ave
+833,Yorkdale Condos,"$2,500",2.0,2.0,160 Flemington Rd 
+834,Omega,"$2,500",1.0,1.0,115 McMahon Dr
+835,Harbour Plaza East,"$4,500",2.0,2.0,88 Harbour St
+836,Murano Condos,"$3,400",1.0,1.0,38 Grenville St
+837,Opus,"$2,550",1.0,1.0,115 McMahon Dr
+838,Opus,"$2,600",2.0,2.0,115 McMahon Dr
+839,Omega,"$2,000",1.0,1.0,115 McMahon Dr
+840,Bisha Hotel,"$5,000",2.0,2.0,88 Blue Jays Way
+841,5 St Joseph St,"$2,600",1.0,1.0,
+842,23 Peony St,"$1,350",1.0,1.0,
+843,117 St Johns Rd,"$2,750",1.0,1.0,
+844,Britt Condo,"$2,000",1.0,1.0,955 Bay St 
+845,7 Lorraine Dr,"$2,580",2.0,2.0,7 Lorraine Dr
+846,18 Harrison Garden Blvd,"$2,680",2.0,2.0,18 Harrison Garden Blvd
+847,23 Lorraine Dr,"$2,650",2.0,2.0,23 Lorraine Dr
+848,23 Lorraine Dr,"$2,650",2.0,2.0,23 Lorraine Dr
+849,33 Singer Crt,"$2,600",2.0,2.0,33 Singer Ct
+850,80 Harrison Garden Blvd,"$2,650",2.0,2.0,80 Harrison Garden Blvd
+851,100 Antibes Dr,"$2,500",2.0,2.0,100 Antibes Dr
+852,503 Beecroft Rd,"$2,500",1.0,1.0,503 Beecroft Rd
+853,872 Sheppard Ave W,"$2,200",1.0,1.0,872 Sheppard Ave W
+854,1101 Steeles Ave W,"$2,450",1.5,1.5,1101 Steeles Ave W
+855,5791 Yonge St,"$2,500",1.0,1.0,5791 Yonge St
+856,1862 Bathurst Street,"$1,954",1.0,1.0,1862 Bathurst Street
+857,1862 Bathurst Street,"$2,318",1.0,1.0,1862 Bathurst Street
+858,1531-1539 Bathurst Street,"$1,910",1.0,1.0,1531-1539 Bathurst Street
+859,14-30 Tichester Road,"$1,795",1.0,1.0,14-30 Tichester Road
+860,4005 Bayview Avenue - The Gates of Bayview,"$2,997",1.5,1.5,4005 Bayview Avenue
+861,4005 Bayview Avenue - The Gates of Bayview,"$3,697",2.0,2.0,4005 Bayview Avenue
+862,4003 Bayview Avenue - The Gates of Bayview,"$2,987",1.5,1.5,4003 Bayview Avenue
+863,4003 Bayview Avenue - The Gates of Bayview,"$3,577",2.0,2.0,4003 Bayview Avenue
+864,70 Spadina Road,"$1,645",1.0,1.0,70  Spadina Road
+865,70 Spadina Road,"$2,252",1.0,1.0,70  Spadina Road
+866,66 Spadina Road,"$2,110",1.0,1.0,66 Spadina Road
+867,50 Spadina Road,"$2,549",1.0,1.0,50 Spadina Road
+868,50 Spadina Road,"$2,711",1.0,1.0,50 Spadina Road
+869,100 Hayden St,"$3,500",1.0,1.0,
+870,52 Inglewood Dr,"$6,950",4.5,4.5,
+871,World on Yonge,"$2,250",1.0,1.0,7171 Yonge St 
+872,Ola,"$3,150",2.0,2.0,377 Madison Ave 
+873,7768 Kennedy Rd | Unit: 501,"$1,800",1.0,1.0,
+874,Murano,"$2,300",1.0,1.0,38 Grenville St
+875,Lake Promenade Community,"$1,400",1.0,1.0,21 Park Blvd.
+876,Lake Promenade Community,"$1,850",1.0,1.0,21 Park Blvd.
+877,Lake Promenade Community,"$1,925 ",1.0,1.0,21 Park Blvd.
+878,59 E Liberty St | Unit: 2009,"$2,200",1.0,1.0,
+879,25 Mayland Ave,"$1,850",1.0,1.0,
+880,600 Fleet St,"$3,200",2.0,2.0,
+881,The Clock Tower Lofts,"$3,400",2.0,2.0,700 King St W 
+882,68 Hamilton St | Unit: Main,"$3,300",1.0,1.0,
+883,Minto Westside,"$3,700",2.0,2.0,27 Bathurst St
+884,Lucian Pacurar,"$3,900",2.0,2.0,352 Front St W
+885,132 Painted Post Dr,"$2,550",1.0,1.0,
+886,28 Douro St,"$2,750",1.0,1.0,
+887,668 Queen St W | Unit: A,"$1,400",1.5,1.5,
+888,Waterscapes,"$2,650",2.0,2.0,80 Marine Parade Dr
+889,Lillian Park,"$1,911",1.0,1.0,44 Lillian Street
+890,Lillian Park,"$2,050",1.0,1.0,44 Lillian Street
+891,Lillian Park,"$2,400",1.0,1.0,44 Lillian Street
+892,Lillian Park,"$2,825",2.0,2.0,44 Lillian Street
+893,Lillian Park,"$4,050",2.0,2.0,44 Lillian Street
+894,Brownstone on Powerhouse,"$2,858",1.5,1.5,7 Foundry Avenue
+895,480 Queens Quay W,"$3,950",1.5,1.5,
+896,85 E Liberty St,"$2,500",1.0,1.0,
+897,Ten York,"$2,450",1.0,1.0,10 York St
+898,Two month rental summer 2020,"$1,700",1.5,1.5,115 Third St
+899,Wallace Walk - 380 Wallace Avenue,"$2,500",1.0,1.0,380 Wallace Avenue
+900,Wallace Walk - 380 Wallace Avenue,"$3,000",1.0,1.0,380 Wallace Avenue
+901,Park Manor,"$1,550",1.0,1.0,317 Park Lawn Road
+902,68 Hillside,"$1,975",1.0,1.0,68 Hillside Drive
+903,Birchmount Apartment Community,"$1,492",1.0,1.0,1535 - 1545  Birchmount Road
+904,"8, Mercer","$2,299",1.0,1.0,
+905,2067 Lake Shore Blvd W,"$2,350",1.0,1.0,
+906,20 Shore Breeze Dr | Unit: 2302,"$2,300",1.0,1.0,
+907,Glendale,"$1,300",1.0,1.0,130 Glendale Ave
+908,33 Mill St | Unit: 1301,"$2,000",1.0,1.0,
+909,2327 Gerrard St E,"$2,800",2.0,2.0,
+910,Chaz Condominium,"$2,700",1.0,1.0,45 Charles St E
+911,120 Harrison Garden Blvd,"$2,295",1.0,1.0,
+912,36 Hiawatha Rd,"$3,700",1.5,1.5,
+913,10 Park Lawn Rd | Unit: 3810,"$2,780",2.0,2.0,
+914,30 Shore Breeze Drive,"$2,000",1.0,1.0,
+915,361 Front St W | Unit: 2305,"$3,500",2.0,2.0,
+916,The Sheldrake,"$1,699",1.0,1.0,1 Homewood Avenue
+917,The Sheldrake,"$1,550",1.0,1.0,1 Homewood Avenue
+918,The Sheldrake,"$1,749",1.0,1.0,1 Homewood Avenue
+919,The Sheldrake,"$1,799",1.0,1.0,1 Homewood Avenue
+920,5 Concorde Pl,"$2,100",1.0,1.0,
+921,660 Briar Hill,"$1,625",1.0,1.0,660 Briar Hill Ave.
+922,660 Briar Hill,"$2,550",1.5,1.5,660 Briar Hill Ave.
+923,2 McNutt St,"$4,199",1.0,1.0,
+924,2800 Condominiums,"$2,400",2.0,2.0,2800 Keele St
+925,1116 Dundas St W,"$2,100",1.0,1.0,
+926,Lumiere,"$2,500",1.0,1.0,770 Bay St 
+927,10 Baybrook Crescent | Unit: walkout basement,"$2,500",1.0,1.0,
+928,Deepak Bhardwaj,"$2,700",2.0,2.0,15 Viking Ln 
+929,10 Navy Wharf Ct,"$2,300",1.0,1.0,10 Navy Wharf Ct
+930,Yorkville Plaza,"$4,000",1.0,1.0,155 Yorkville Ave 
+931,Jeff Lindquist,"$3,900",1.5,1.5,55 Halton St 
+932,The Modern,"$2,450",1.0,1.0,320 Richmond St E 
+933,66 Portland,"$2,200",1.0,1.0,66 Portland St
+934,The bond,"$2,600",1.0,1.0,290 Adelaide St W
+935,300 Bleecker St,"$3,400",1.0,1.0,
+936,Monica Gross,"$3,250",2.0,2.0,7 King St E
+937,29 Queens Quay E,"$2,400",1.0,1.0,
+938,550 Queens Quay W,"$3,100",2.0,2.0,
+939,Townhouse,$550,1.0,1.0,51 Peninsula Crescent
+940,Strathaven Drive,"$2,450",2.0,2.0,55 Strathaven Dr 
+941,45 Soho Square,"$5,975",4.0,4.0,
+942,260 Queens Quay W | Unit: 2408,"$3,700 ",1.5,1.5,
+943,375 Abruz Blvd,"$2,500",2.0,2.0,
+944,100 Parrotta Dr | Unit: 90,"$2,500",2.0,2.0,
+945,78 Tecumseth St | Unit: 911,"$2,300",1.0,1.0,
+946,100 Lake Crescent,"$2,500",1.0,1.0,
+947,115 McMahon Dr | Unit: 3707,"$2,100",1.0,1.0,
+948,Charlie,"$2,950",1.0,1.0,8 Charlotte St
+949,17 Laidlaw Blvd,"$1,750",1.0,1.0,
+950,4300 Lawrence Ave E,"$1,200",1.0,1.0,
+951,8 Eglinton Ave E | Unit: 5406,"$2,750",1.0,1.0,
+952,River City 3,"$3,350",2.0,2.0,170 Bayview Ave 
+953,88 Sheppard Ave E,"$2,450",1.0,1.0,
+954,80 Vanhorne Cl,"$2,499",1.0,1.0,
+955,20 Shore Breeze Drive,"$2,750",1.0,1.0,
+956,Victorian Reno,"$6,490",2.0,2.0,208 McCaul St 
+957,6 Willingdon Ave,"$2,200",1.0,1.0,
+958,Broadway,"$2,150 ",1.0,1.0,153 Beecroft Rd 
+959,176 Lisgar St,"$2,600",1.0,1.0,
+960,703 Grandview Way,"$3,295",2.0,2.0,
+961,3 Michael Power Pl,"$2,100",1.0,1.0,
+962,49 Ardagh St,"$5,000",2.5,2.5,
+963,53 Roskell Crescent,"$2,250 ",1.0,1.0,
+964,Minto 30 Roe,"$2,200",1.0,1.0,30 Roehampton Ave 
+965,20 Joe Shuster Way,"$1,950",1.0,1.0,
+966,Studio 2,"$2,400",1.0,1.0,30 Nelson St 
+967,2 Manaham Rd,"$1,800",1.0,1.0,
+968,25 Capreol Ct,"$3,400",2.0,2.0,
+969,988 Kennedy Rd,"$2,200",2.0,2.0,
+970,15 Viking Ln,"$2,200",1.0,1.0,
+971,Ten York,"$2,400",1.0,1.0,10 York St
+972,Kingtown - 16 Laidlaw Street,"$2,788",1.0,1.0,16 Laidlaw Street
+973,Kingtown - 16 Laidlaw Street,"$3,500",2.0,2.0,16 Laidlaw Street
+974,208 McCaul St,"$2,080",1.0,1.0,
+975,215 Queen St W,"$1,850",1.0,1.0,
+976,215 Queen St W,"$2,200",1.0,1.0,
+977,215 Queen St W,"$2,500",1.0,1.0,
+978,215 Queen St W,"$2,750",2.0,2.0,
+979,215 Queen St W,"$4,000",1.0,1.0,
+980,215 Queen St W,"$3,500",2.0,2.0,
+981,25 Telegram Mews,"$2,400",1.0,1.0,
+982,Balliol Park,"$2,060",1.0,1.0,99 Davisville Avenue
+983,Balliol Park,"$2,265",1.0,1.0,99 Davisville Avenue
+984,Balliol Park,"$2,670",2.0,2.0,99 Davisville Avenue
+985,The Torontonian,"$1,775",1.0,1.0,45 Dunfield Ave
+986,The Torontonian,"$1,850",1.0,1.0,45 Dunfield Ave
+987,The Torontonian,"$2,000",1.0,1.0,45 Dunfield Ave
+988,The Torontonian,"$2,450",1.0,1.0,45 Dunfield Ave
+989,FLY,"$2,300",1.0,1.0,352 Front St W
+990,JOHNSON VARUGHESE,"$2,000",1.0,1.0,45 Strathavon Dr
+991,16 Annapearl Ct,"$2,100",2.0,2.0,
+992,297 Royal Salisbury Way,"$2,250",1.0,1.0,
+993,137 Earlscourt Ave,"$2,400",1.0,1.0,
+994,107 Preston St | Unit: Bsmt,$825,1.0,1.0,
+995,151 Village Green Square | Unit: 2206,"$2,495",2.0,2.0,
+996,45 Strathavon Dr,"$2,000",1.0,1.0,
+997,22 E Haven Dr,"$1,100",1.0,1.0,
+998,916 Woodbine Ave,"$1,800",1.0,1.0,
+999,monde condo,"$2,350",1.0,1.0,16 Bonnycastle St 
+1000,3939 Duke of York Blvd | Unit: 1804,"$2,375",2.0,2.0,
+1001,19 Pony Farm Drive,"$3,500 ",2.5,2.5,11 Caverley Dr
+1002,World on Yonge,"$2,100",1.0,1.0,7171 Yonge St 
+1003,75 St Nicholas St | Unit: 1999,"$2,350",1.0,1.0,
+1004,85 E Liberty St | Unit: 9999,"$2,500",1.0,1.0,
+1005,16 Bonnycastle St | Unit: 2999,"$2,400",1.0,1.0,
+1006,Neptune,"$2,300",1.0,1.0,209 Fort York Blvd
+1007,7 Foxwarren Dr,"$1,400",1.0,1.0,
+1008,Windermere By The Lake,"$3,550",2.0,2.0,117A The Queensway
+1009,World on Yonge,"$2,350",1.0,1.0,7171 Yonge St 
+1010,8 The Esplanade | Unit: 3990,"$2,450",1.0,1.0,
+1011,18 Yonge St | Unit: 2994,"$2,450",1.0,1.0,
+1012,40 Gerrard St E,"$2,660",1.0,1.0,
+1013,33 Shore Breeze Drive | Unit: 4101,"$4,995",2.5,2.5,
+1014,181 Dundas St E | Unit: 4507,"$2,000",1.0,1.0,
+1015,27 Bathurst St | Unit: 906,"$2,050",1.0,1.0,
+1016,89 McGill St | Unit: 709,"$2,200",1.5,1.5,
+1017,89 McGill St | Unit: 709,"$2,200",1.5,1.5,
+1018,7 Grenville St | Unit: 521,"$2,800",2.0,2.0,
+1019,455 Apache Ct,"$2,800",2.5,2.5,
+1020,488 University Ave | Unit: 4403,"$2,900",2.0,2.0,
+1021,45 Charles St E | Unit: 902,"$3,000",2.0,2.0,
+1022,David Turco,"$2,100",1.0,1.0,830 Lawrence Ave W 
+1023,5 Arkwright Dr,"$2,600",2.5,2.5,
+1024,5 Arkwright Dr,"$2,600",2.5,2.5,
+1025,2 Bedroom Guest House,"$3,200",1.0,1.0,32 Dundee Dr
+1026,115 Hillcrest Ave | Unit: 902,"$2,250",1.0,1.0,
+1027,NXT condos,"$2,300",1.0,1.0,105 The Queensway 
+1028,Memphis,"$2,150",1.0,1.0,942 Yonge St 
+1029,Fashion House Condos,"$2,175",1.0,1.0,560 King St W
+1030,3 Sevenoaks Ave,"$3,500",2.0,2.0,
+1031,3 Sevenoaks Ave,"$3,500",2.0,2.0,
+1032,519 Runnymede Rd | Unit: Main floor,"$2,200",1.0,1.0,
+1033,219 Fort York Blvd,"$2,250",1.0,1.0,
+1034,544 Brock Ave,"$3,190",1.0,1.0,
+1035,18 Yonge St,"$2,350",2.0,2.0,
+1036,Wellington on the Park,"$3,950",2.0,2.0,15 Stafford St 
+1037,Bloor Yonge Tower,"$2,220",1.0,1.0,60 Gloucester St
+1038,16 Brookers Ln | Unit: 2804,"$2,750",2.0,2.0,
+1039,Liberty Towers - 59 East Liberty Street,"$2,400",1.0,1.0,59 East Liberty Street
+1040,Liberty Towers - 59 East Liberty Street,"$2,523",1.0,1.0,59 East Liberty Street
+1041,Liberty Towers - 59 East Liberty Street,"$3,100",2.0,2.0,59 East Liberty Street
+1042,Fuse 2 -1420 Dupont Street,"$2,300",1.0,1.0,1420 Dupont Street
+1043,Fuse 2 -1420 Dupont Street,"$2,300",1.0,1.0,1420 Dupont Street
+1044,Fuse 2 -1420 Dupont Street,"$2,850",1.0,1.0,1420 Dupont Street
+1045,Fuse 2 -1420 Dupont Street,"$2,850",1.0,1.0,1420 Dupont Street
+1046,4 Treewood,"$2,000",1.0,1.0,4 Treewood Street
+1047,45 Greenbrae,"$1,750",1.0,1.0,45 Greenbrae Circuit
+1048,45 Greenbrae,"$2,000",1.0,1.0,45 Greenbrae Circuit
+1049,127 Lent Crescent,"$2,600",3.5,3.5,
+1050,Toronto Condo Living!,"$2,150",1.0,1.0,38 Joe Shuster Way 
+1051,Westside Gallery Lofts,"$2,300",1.0,1.0,150 Sudbury St 
+1052,39 Bannatyne Dr,"$5,500",3.0,3.0,
+1053,1089 Gerrard St E,$900,1.0,1.0,
+1054,2 Hedge End Rd,"$2,400",1.5,1.5,
+1055,Cranbrooke Village,"$2,300",1.0,1.0,35 Saranac Blvd 
+1056,475 The West Mall,"$2,800",2.0,2.0,
+1057,observatory,"$2,400",2.0,2.0,100 Observatory Ln 
+1058,Embassy Apartments,"$1,850",1.0,1.0,99 Agnes St.
+1059,Embassy Apartments,"$1,975",1.0,1.0,99 Agnes St.
+1060,170 Bayview Ave,"$2,000",1.0,1.0,
+1061,150 E Liberty St | Unit: 2908,"$1,950",1.0,1.0,
+1062,Ltower,"$2,600",1.5,1.5,8 The Esplanade
+1063,1165 Avenue Rd | Unit: 2,"$2,200",1.0,1.0,
+1064,1165 Avenue Rd | Unit: 2,"$2,200",1.0,1.0,
+1065,Art Condos,"$2,700",1.0,1.0,8 Dovercourt Rd
+1066,52 Inglewood,"$7,500",4.5,4.5,52 Inglewood Dr
+1067,Diana Hsiang,"$2,600",2.0,2.0,2191 Yonge St 
+1068,42 Connaught Ave,"$2,950",3.0,3.0,
+1069,45 Jeavons Ave,"$2,150",1.0,1.0,
+1070,13 Artisan Pl,$850,1.0,1.0,
+1071,2 Sevenoaks Ave,"$3,500",2.0,2.0,
+1072,182 S Kingsway,"$4,500",3.0,3.0,
+1073,19 Grand Trunk Crescent | Unit: 3307,"$2,350",1.0,1.0,
+1074,21 Replin Rd | Unit: 46,"$3,300",3.0,3.0,
+1075,2095 Lake Shore Blvd W | Unit: 617,"$15,000",1.0,1.0,
+1076,1910 Lake Shore Blvd W | Unit: 808,"$2,950",2.0,2.0,
+1077,The Bridge,"$2,100",1.0,1.0,38 Joe Shuster Way
+1078,The Craftsman Condo,"$2,700",2.0,2.0,1575 Lakeshore Rd W
+1079,230 Queens Quay W,"$3,300",2.0,2.0,
+1080,Parkside Square,"$1,885",1.0,1.0,55 Smooth Rose Court
+1081,Parkside Square,"$2,380",1.0,1.0,55 Smooth Rose Court
+1082,Parkside Square,"$2,615",2.0,2.0,55 Smooth Rose Court
+1083,Parkside Square,"$2,760",2.0,2.0,55 Smooth Rose Court
+1084,38 Joe Shuster Way | Unit: 999,"$2,150",1.0,1.0,
+1085,Hampton House South,"$1,925",1.0,1.0,322 Eglinton Ave E
+1086,Hampton House South,"$2,299",1.0,1.0,322 Eglinton Ave E
+1087,Hampton House South,"$2,300",1.0,1.0,322 Eglinton Ave E
+1088,Hampton House South,"$2,350",1.0,1.0,322 Eglinton Ave E
+1089,Juliana Chao,"$1,400",2.0,2.0,365 Church St 
+1090,Sofiya Saria,"$1,400",1.0,1.0,200 Roehampton Ave
+1091,299 Mill Rd,"$3,250",2.0,2.0,
+1092,65 Oneida Crescent,"$2,000",1.0,1.0,65 Oneida Crescent
+1093,1 Elm Drive,"$2,200",1.0,1.0,1 Elm Dr
+1094,"10 Bridletowne Circle 20, 30, 40 & 50 Aurora Court","$1,700",1.0,1.0,
+1095,42 Amelia St,"$3,680",2.0,2.0,
+1096,Daniel Buckle,"$2,600",2.0,2.0,62 Forest Manor Rd 
+1097,Aura,"$3,900",2.0,2.0,386 Yonge St
+1098,MAPLE LEAF SQUARE,"$2,500",1.0,1.0,55 Bremner Blvd
+1099,117 McMahon Dr,"$2,200",1.0,1.0,
+1100,1341 Dundas St W,"$2,150",1.0,1.0,
+1101,87 Peter St,"$2,200",1.0,1.0,
+1102,33 Weldrick Rd E,"$2,400",2.0,2.0,
+1103,3865 Lake Shore Blvd W,"$2,450",2.0,2.0,
+1104,3865 Lake Shore Blvd W,"$2,450",2.0,2.0,
+1105,Sherine Beckford,$850,1.0,1.0,640 Roselawn Ave 
+1106,197 Yonge St,"$1,970",1.0,1.0,
+1107,Mohamed Bhuiyan,"$2,400",1.0,1.0,125 Dairy Dr
+1108,Bayview Square,"$1,970",1.0,1.0,11 Ruddington Drive
+1109,Bayview Square,"$2,250",1.0,1.0,11 Ruddington Drive
+1110,360 Square One Dr | Unit: 1999,"$2,250",1.0,1.0,
+1111,AXIS CONDO,"$2,980",2.0,2.0,85 Wood St 
+1112,Denise Galli,"$3,200",2.0,2.0,1 Hurontario St 
+1113,Tableau,"$2,800",1.0,1.0,125 Peter St
+1114,Opus,"$2,250",1.0,1.0,115 McMahon Dr
+1115,3 Elsie Ln,"$3,895",1.0,1.0,
+1116,739 Midland Ave,$850,1.0,1.0,
+1117,2 Anndale Drive,"$3,150",2.0,2.0,2 Anndale Dr
+1118,5 Sheppard Ave E,"$3,000",2.0,2.0,5 Sheppard Ave E
+1119,9 Bogert Ave,"$3,200",2.0,2.0,9 Bogert Ave
+1120,28 Hollywood Ave,"$3,200",2.0,2.0,28 Hollywood Ave
+1121,35 Bales Ave,"$3,000",2.0,2.0,35 Bales Ave
+1122,80 Harrison Garden Blvd,"$3,000",2.0,2.0,80 Harrison Garden Blvd
+1123,80 Harrison Garden Blvd,"$3,100",2.0,2.0,80 Harrison Garden Blvd
+1124,80 Harrison Garden Blvd,"$3,100",2.0,2.0,80 Harrison Garden Blvd
+1125,100 Upper Madison Ave,"$3,050",2.0,2.0,100 Upper Madison Ave
+1126,5180 Yonge St,"$3,150",2.0,2.0,5180 Yonge St
+1127,201 Sherbourne St | Unit: 1110,$950,1.0,1.0,
+1128,Eau Du Soleil,"$2,700",2.0,2.0,20 Shore Breeze Dr 
+1129,903 Bathurst St | Unit: 2nd floor,"$3,495",1.0,1.0,
+1130,763 Bay St | Unit: 708,"$2,200",1.0,1.0,
+1131,218 Queen St E | Unit: 7,"$1,595",1.0,1.0,
+1132,159 Gerrard St E | Unit: 3,"$3,395",1.0,1.0,
+1133,Parkside Student Residence,"$1,800",1.0,1.0,111 Carlton St 
+1134,33 Rose Ave,"$3,350",1.0,1.0,
+1135,2 Glenhaven Street,"$1,912",1.0,1.0,2 Glenhaven Street
+1136,Cedar Grove,"$1,825",1.0,1.0,24 Forest Manor Road
+1137,Cedar Grove,"$1,900",1.0,1.0,24 Forest Manor Road
+1138,9500 Markham Rd,"$1,950",1.0,1.0,
+1139,9500 Markham Rd,"$2,300",2.0,2.0,
+1140,4850 Glen Erin Dr | Unit: 1888,"$2,700",1.0,1.0,
+1141,4850 Glen Erin Dr | Unit: 1790,"$2,700",2.0,2.0,
+1142,Grand Ovation,"$2,500",2.0,2.0,330 Burnhamthorpe Rd E 
+1143,2240 Lake Shore Blvd W | Unit: 997,"$2,600",2.0,2.0,
+1144,Axis Condo,"$3,200",2.0,2.0,85 Wood St 
+1145,Parc Lofts,"$2,150",1.0,1.0,25 Stafford St
+1146,295 Adelaide St W,"$2,350",1.0,1.0,
+1147,255 Village Green Square,"$2,000",1.0,1.0,
+1148,197 Yonge St,"$2,000",1.0,1.0,
+1149,365 Church St | Unit: 303,"$2,400",1.0,1.0,
+1150,Anthony Tacoma,"$1,750",1.0,1.0,128 Kenilworth Ave
+1151,Anthony Tacoma,"$1,750",1.0,1.0,128 Kenilworth Ave
+1152,RentPrimo,"$1,473",1.0,1.0,2 Vena Way
+1153,RentPrimo,"$1,611",1.0,1.0,2 Vena Way
+1154,RentPrimo," $1,748",1.0,1.0,2 Vena Way
+1155,RentPrimo,"$2,161",1.0,1.0,2 Vena Way
+1156,561 Sherbourne,"$2,150",1.0,1.0,561 Sherbourne Street
+1157,561 Sherbourne,"$2,450",1.0,1.0,561 Sherbourne Street
+1158,561 Sherbourne,"$3,650",1.0,1.0,561 Sherbourne Street
+1159,VIA123 Apartments,"$2,157.6",1.0,1.0,123 Parkway Forest Dr.
+1160,VIA123 Apartments,"$2,711.1",1.0,1.0,123 Parkway Forest Dr.
+1161,VIA123 Apartments,"$2,880.3",2.0,2.0,123 Parkway Forest Dr.
+1162,Fuzion Condos,"$2,150",1.0,1.0,20 Joe Shuster Way
+1163,Clifton Manor,"$2,225",1.0,1.0,
+1164,Clifton Manor,"$2,695",1.0,1.0,
+1165,87 Stoney Creek Dr,"$3,200",3.5,3.5,
+1166,11 Garnet Ave,"$10,500",4.5,4.5,
+1167,49 Fernwood Park Ave,"$3,950",1.5,1.5,
+1168,589 Rhodes Ave,"$2,950",1.0,1.0,
+1169,3830 Bathurst St,"$2,299",2.0,2.0,3830 Bathurst St
+1170,3018 Yonge St,"$3,695",2.0,2.0,3018 Yonge St
+1171,150 Neptune Dr,"$2,500",2.0,2.0,150 Neptune Dr
+1172,85 E Liberty St | Unit: 1011,"$2,450",1.0,1.0,
+1173,55 E Liberty St,"$3,500",1.5,1.5,
+1174,10 Tapscott Rd,$800,1.0,1.0,
+1175,103 Grayson Crescent,"$3,500",2.5,2.5,
+1176,One City Hall,"$2,700",1.5,1.5,111 Elizabeth St
+1177,19 Grand Trunk Crescent | Unit: 3307,"$2,700",1.0,1.0,
+1178,2798 Dundas St W,"$2,600",1.0,1.0,
+1179,Rose Park,"$1,450",1.0,1.0,670 Parliament Street
+1180,Rose Park,"$1,625",1.0,1.0,670 Parliament Street
+1181,Rose Park,"$1,825",1.0,1.0,670 Parliament Street
+1182,Rose Park,"$2,050",1.0,1.0,670 Parliament Street
+1183,Residences of Rose Park,"$1,450",1.0,1.0,99 Howard Street
+1184,Residences of Rose Park,"$1,625",1.0,1.0,99 Howard Street
+1185,Residences of Rose Park,"$1,825",1.0,1.0,99 Howard Street
+1186,Residences of Rose Park,"$2,050",1.0,1.0,99 Howard Street
+1187,Rose Park,"$1,450",1.0,1.0,670 Parliament Street
+1188,Rose Park,"$1,625",1.0,1.0,670 Parliament Street
+1189,Rose Park,"$1,825",1.0,1.0,670 Parliament Street
+1190,Rose Park,"$2,050",1.0,1.0,670 Parliament Street
+1191,22 Kencliff Crescent,"$2,500",1.0,1.0,
+1192,340 Bellamy Rd N,Inquire,1.0,1.0,
+1193,94 Drizzel Ave,"$2,790",2.5,2.5,
+1194,155 Yorkville Ave | Unit: 2503,"$3,800",2.0,2.0,
+1195,576 Front St W | Unit: 9999,"$2,400",1.0,1.0,
+1196,Roehampton,"$2,200",1.0,1.0,305 Roehampton Avenue
+1197,Roehampton,"$2,895",2.0,2.0,305 Roehampton Avenue
+1198,Gibson Square,"$2,800",2.0,2.0,5162 Yonge St
+1199,Lake Promenade Community,"$1,700",1.0,1.0,21 Park Blvd.
+1200,Lake Promenade Community,"$1,900",1.0,1.0,21 Park Blvd.
+1201,Lake Promenade Community,"$1,925",1.0,1.0,21 Park Blvd.
+1202,Lake Promenade Community,"$1,625",1.0,1.0,21 Park Blvd.
+1203,Lake Promenade Community,"$1,800",1.0,1.0,21 Park Blvd.
+1204,Lake Promenade Community,"$2,175",1.0,1.0,21 Park Blvd.
+1205,hARDING,"$2,990",2.0,2.0,30 Harding Blvd W 
+1206,Harding,"$2,990",2.0,2.0,30 Harding Blvd W 
+1207,560 Front St W | Unit: 528,"$6,500",2.0,2.0,
+1208,Yorkdale Village,"$1,900",1.0,1.0,867 Wilson Ave 
+1209,Massey Tower,"$2,195",1.0,1.0,197 Yonge St
+1210,97 Kalmar Ave,"$2,595",1.0,1.0,
+1211,45 Kingsbridge Garden Cir,"$2,800",2.0,2.0,45 Kingsbridge Garden Cir 
+1212,150 Sudbury St,"$2,500",2.0,2.0,150 Sudbury St
+1213,Tridel,"$1,950",1.5,1.5,255 Village Green Square
+1214,56 Leyton Ave | Unit: 3,"$2,150",1.0,1.0,
+1215,Minto West Side,"$1,850",1.0,1.0,576 Front St W 
+1216,38 Grand Magazine St | Unit: 334,"$2,550",1.0,1.0,
+1217,576 Front St W | Unit: 811E,"$2,800",2.0,2.0,
+1218,33 Bay St | Unit: 3004,"$3,000",2.0,2.0,
+1219,15 Wedmore Ave | Unit: 1 of 2,"$2,400",1.0,1.0,
+1220,The Massey Tower,"$2,250",1.0,1.0,197 Yonge St
+1221,Heritage Towns,"$3,500",2.5,2.5,3 Elsie Ln
+1222,90 Rowntree Ave,"$2,900",1.0,1.0,
+1223,109 Sunnyside Ave,"$2,500",1.0,1.0,
+1224,399 Pape Ave,"$4,000",3.0,3.0,
+1225,341 Eglinton Ave E,"$2,150",1.0,1.0,
+1226,5418 Yonge St,"$3,900",1.0,1.0,
+1227,Bay & College Park,"$2,600",1.0,1.0,
+1228,250 Queens Quay W | Unit: 701,"$2,950",1.0,1.0,
+1229,100 Western Battery Rd,"$2,000",1.0,1.0,
+1230,90 Absolute Ave,"$1,350 ",1.0,1.0,
+1231,429 Broadview Ave,"$1,200",1.0,1.0,
+1232,429 Broadview Ave,"$1,200",1.0,1.0,
+1233,21 Grand Magazine St | Unit: 1904,"$2,400",1.0,1.0,
+1234,117 McMahon Dr | Unit: 1211,"$2,200",1.0,1.0,
+1235,Axis Condo,"$2,700",2.0,2.0,85 Wood St 
+1236,2230 Lake Shore Blvd W | Unit: 303,"$3,750",2.0,2.0,
+1237,155 Redpath Ave | Unit: 3002,"$2,450",1.0,1.0,
+1238,Towne Two,"$2,050",1.0,1.0,55 Elm Dr 
+1239,197 Yonge St,"$2,000",1.0,1.0,
+1240,Massey Tower,"$2,300",1.0,1.0,197 Yonge St
+1241,31 Boyce Ave | Unit: 2,"$1,475",1.0,1.0,
+1242,43 Eglinton Ave E | Unit: Yonge St,"$3,000",1.0,1.0,
+1243,666 Mt Pleasant Rd,"$2,350",1.0,1.0,
+1244,320-342 Avenue Road,"$1,585",1.0,1.0,320-342 Avenue Road
+1245,320-342 Avenue Road,"$1,875",1.0,1.0,320-342 Avenue Road
+1246,784 Markham St,"$4,750",2.0,2.0,
+1247,65 Southport St,"$3,300",1.5,1.5,
+1248,125 Peter St,"$2,900",1.0,1.0,
+1249,Puneet Soni,"$3,300",2.0,2.0,50 Wellesley St E 
+1250,Luna Vista CityPlace,"$2,200",1.0,1.0,8 Telegram Mews
+1251,213 Brooke Ave,"$2,500",1.0,1.0,
+1252,60 Town Centre Court | Unit: 703,"$1,900",1.0,1.0,
+1253,90 Absolute Ave | Unit: 2208," $2,000",1.0,1.0,
+1254,Humberview Towers,"$1,650",1.0,1.0,2677 Kipling Ave
+1255,Humberview Towers,"$1,830",1.0,1.0,2677 Kipling Ave
+1256,388 Prince of Wales Dr,"$2,650",2.0,2.0,
+1257,1055 Victoria Park Avenue,"$1,850",1.0,1.0,1055 Victoria Park Avenue
+1258,One32 Stylish Apartments in Corktown,"$1,700",1.0,1.0,132 Berkeley Street
+1259,One32 Stylish Apartments in Corktown,"$2,000",1.0,1.0,132 Berkeley Street
+1260,One32 Stylish Apartments in Corktown,"$2,025",1.0,1.0,132 Berkeley Street
+1261,One32 Stylish Apartments in Corktown,Inquire,1.0,1.0,132 Berkeley Street
+1262,One32 Stylish Apartments in Corktown,Inquire,1.0,1.0,132 Berkeley Street
+1263,The Jazz,"$1,950",1.0,1.0,167 Church Street
+1264,The Jazz,"$2,150",1.0,1.0,167 Church Street
+1265,The Jazz,"$2,350",1.0,1.0,167 Church Street
+1266,The Jazz,"$2,725",2.0,2.0,167 Church Street
+1267,The Jazz,Inquire,2.0,2.0,167 Church Street
+1268,The Jazz,Inquire,1.0,1.0,167 Church Street
+1269,The Prelude,"$2,075",1.0,1.0,151 Beecroft Road
+1270,The Prelude,"$2,490",1.0,1.0,151 Beecroft Road
+1271,1315 Bough Beeches Blvd,"$1,600",1.0,1.0,1315 Bough Beeches Blvd
+1272,200 Roehampton Av,Inquire,1.0,1.0,200 Roehampton Ave
+1273,2775 Jane Street,"$1,325",1.0,1.0,2775 Jane Street
+1274,2775 Jane Street,"$1,425",1.0,1.0,2775 Jane Street
+1275,222 Wellesley Street East - The Wellesdale,"$1,727",1.0,1.0,222 Wellesley Street East
+1276,1 Rosemount,"$1,450",1.0,1.0,1 Rosemount Drive
+1277,7 Kenaston Gardens,"$2,200",1.0,1.0,
+1278,145 Elinor Ave | Unit: 18,"$2,499",2.0,2.0,
+1279,21 Clairtrell Rd,"$2,300",2.0,2.0,
+1280,50 Lynn Williams St | Unit: ph2408,"$2,300",1.0,1.0,
+1281,209 Clinton St,"$4,550",1.5,1.5,
+1282,159 Gerrard St E | Unit: 2,"$3,195",1.0,1.0,
+1283,32 Davenport Rd,"$4,250",2.0,2.0,
+1284,Liberty market lofts,"$3,000",1.5,1.5,5 Hanna Ave
+1285,SQ,"$2,200",1.0,1.0,38 Cameron St 
+1286,875 Queen St E,"$3,000",1.0,1.0,
+1287,Edge,"$1,950",1.0,1.0,36 Lisgar St 
+1288,Aquavista,"$3,650",2.0,2.0,1 Edgewater Dr
+1289,Aquavista,"$3,650",2.0,2.0,1 Edgewater Dr
+1290,121 McMahon Dr,"$2,100",1.0,1.0,
+1291,50 Gerrard St E,"$1,000 ",1.0,1.0,
+1292,Econdos,"$2,345",1.5,1.5,8 Eglinton Ave E 
+1293,15 Merchants' Wharf | Unit: 1112,"$5,500",1.0,1.0,
+1294,51 Gracedale Dr,"$3,980",4.5,4.5,
+1295,65 E Liberty St | Unit: 1115,"$2,300",1.0,1.0,
+1296,110 Charles St E | Unit: 804,"$2,600",1.0,1.0,
+1297,36 Blue Jays Way,"$2,100",1.0,1.0,
+1298,770 Bay St | Unit: 310,"$2,050",1.0,1.0,
+1299,11 Brunel Ct | Unit: 4708,"$2,300",1.0,1.0,
+1300,3317 Ellesmere Rd,$575,2.0,2.0,
+1301,869 Winterton Way,"$3,500",2.5,2.5,
+1302,512 Delaware Ave N,"$1,300",1.0,1.0,
+1303,576 Front St W,"$2,050",1.0,1.0,
+1304,One Park Place,"$1,100",2.0,2.0,55 Regent Park Blvd
+1305,Park Terrace,"$1,575",1.0,1.0,3000 Yonge Street
+1306,Park Terrace,"$1,775",1.0,1.0,3000 Yonge Street
+1307,3 Butterfield Dr,"$2,100",3.0,3.0,
+1308,3 Butterfield Dr,"$3,900",1.5,1.5,
+1309,3 Butterfield Dr,"$4,200",2.0,2.0,
+1310,382 Beresford Ave,"$1,750",1.0,1.0,
+1311,Beacon Luxury Condo,"$2,600",2.0,2.0,5180 Yonge St 
+1312,Somerset Apartments,"$2,095",1.0,1.0,605  Finch Ave W
+1313,Somerset Apartments,"$2,375",2.0,2.0,605  Finch Ave W
+1314,15 Jean St,"$7,000",2.0,2.0,
+1315,301 Gilmour Ave,"$3,250",3.0,3.0,
+1316,20 John St | Unit: 200,"$3,600",1.0,1.0,
+1317,20 John St | Unit: 200,"$3,600",1.0,1.0,
+1318,15 Windermere Ave | Unit: 2304,"$1,900",1.0,1.0,
+1319,67 Buick Blvd,"$2,800 ",2.5,2.5,
+1320,NXT Condos,"$2,200",1.0,1.0,105 The Queensway
+1321,Eclipse 2,"$2,300",1.0,1.0,38 Lee Centre Dr
+1322,Majorca Towers,"$1,700",1.0,1.0,201 Van Horne Avenue
+1323,Majorca Towers,"$1,900",1.0,1.0,201 Van Horne Avenue
+1324,352 Howland Ave,"$1,800",1.0,1.0,
+1325,Casa Condos,"$2,400",1.0,1.0,33 Charles St E 
+1326,Stacked town house,"$2,750",1.0,1.0,647 Warden Ave 
+1327,Imane Fares,"$2,650",1.0,1.0,101 Charles St E 
+1328,33 Harbour Square | Unit: 503,"$5,500",2.0,2.0,
+1329,Elle,"$2,350",1.0,1.0,3525 Kariya Dr
+1330,640 Pape Ave,"$2,290",1.0,1.0,
+1331,58 Sherwood Ave | Unit: 6,"$2,800",1.0,1.0,
+1332,The Bridge,"$2,850",1.0,1.0,38 Joe Shuster Way
+1333,119 Harlandale Ave,"$7,500",4.5,4.5,
+1334,307 Gilmour Ave,"$3,250",3.0,3.0,
+1335,337 Worthington Ave,"$3,500",4.5,4.5,
+1336,57 St Joseph St | Unit: 615,"$2,480",1.0,1.0,
+1337,628 Fleet St | Unit: 410,"$2,990",2.0,2.0,
+1338,640 Pape Ave,"$2,900",2.0,2.0,
+1339,1060 Sheppard Ave W | Unit: 312,"$2,000",1.0,1.0,
+1340,The Modern,"$3,000",2.0,2.0,320 Richmond St E 
+1341,The Colonnade,"$2,988",1.0,1.0,131 Bloor Street West
+1342,The Colonnade,"$3,155",1.0,1.0,131 Bloor Street West
+1343,The Colonnade,"$6,944",2.0,2.0,131 Bloor Street West
+1344,The Colonnade,"$4,944",2.0,2.0,131 Bloor Street West
+1345,The Colonnade,"$5,440",2.0,2.0,131 Bloor Street West
+1346,The Colonnade,"$5,540",2.0,2.0,131 Bloor Street West
+1347,Cinema Tower,"$2,300",1.0,1.0,21 Widmer St 
+1348,125 Peter St | Unit: 2411,"$2,600",1.0,1.0,
+1349,YC,"$2,500",2.0,2.0,7 Grenville St 
+1350,88 Scott St,"$2,375",1.0,1.0,
+1351,Pier 27 Lakefront Residences,"$3,300",2.0,2.0,29 Queens Quay W 
+1352,5639 Fantasia Manor,"$3,350",3.5,3.5,
+1353,7 Pali Dr,"$2,000",1.0,1.0,
+1354,The Yards,"$2,100",1.0,1.0,20 Bruyeres Mews
+1355,Summit Condominiums,"$2,185",1.0,1.0,705 King St W
+1356,11 Bogert Ave.  Emerald,"$2,200",1.0,1.0,11 Bogert Ave
+1357,Legends at Tam O Shanter,"$2,350",2.0,2.0,238 Bonis Ave
+1358,4 BD Detached home in Scarborough,"$3,500",2.5,2.5,103 Grayson Crescent
+1359,Glas,"$2,600",1.0,1.0,25 Oxley St
+1360,88 Scott St,"$2,450",1.0,1.0,
+1361,Ice Condos 2,"$3,150",2.0,2.0,14 York St 
+1362,Thompson Residence,"$5,000",1.0,1.0,629 King St W 
+1363,The Charlie,"$3,050",2.0,2.0,8 Charlotte St 
+1364,Bisha Hotel and Residence,"$5,400",2.0,2.0,88 Blue Jays Way 
+1365,555 Yonge St | Unit: 40x,"$2,150",1.0,1.0,
+1366,725 Vermouth Ave,"$2,500",1.5,1.5,
+1367,954 King St W | Unit: 309,"$2,900",2.0,2.0,
+1368,9 Byng Ave,"$2,850",2.0,2.0,
+1369,Musee,"$4,380",2.0,2.0,525 Adelaide St W
+1370,21 Brookside Dr | Unit: Main,"$2,650",1.0,1.0,
+1371,Atlantis Aquarius,"$2,100",1.0,1.0,231 Fort York Blvd 
+1372,21 Lippincott St,$770,1.0,1.0,
+1373,90 Adelaide St. East,"$1,750",1.0,1.0,90 Adelaide St. East
+1374,57 Blackfriar Ave,"$3,000",2.0,2.0,
+1375,79 Elise Terrace,"$2,500",1.5,1.5,
+1376,Pamela Hewitt,"$2,500",1.0,1.0,5 Jerome St
+1377,1251 King St W,"$1,850",1.0,1.0,
+1378,2 Levels,"$1,650",1.0,1.0,22 Hildenboro Square 
+1379,101 Charles St E | Unit: 702,"$2,750",1.0,1.0,
+1380,Exhibit Residences,"$2,775",2.0,2.0,200 Bloor St W 
+1381,YC condo,"$2,200",1.0,1.0,7 Grenville St 
+1382,243 Checkerberry Crescent,"$2,500",2.5,2.5,
+1383,JOYCE TAO,"$1,980",1.5,1.5,372 Hwy 7 
+1384,18 Harrison Garden Blvd,"$1,950",1.0,1.0,18 Harrison Garden Blvd
+1385,36 Park Lawn Rd,"$2,150",1.0,1.0,
+1386,39 Annie Craig Dr,"$2,150",1.0,1.0,
+1387,56 Annie Craig Dr,"$2,200",1.0,1.0,
+1388,56 Annie Craig Dr,"$2,250",1.0,1.0,
+1389,Renovated Toronto Studio Apartment at Bloor & Spadina,"$1,700",1.0,1.0,
+1390,Renovated Toronto Studio Apartment at Bloor & Spadina,"$3,249",1.0,1.0,
+1391,Renovated Toronto Studio Apartment at Bloor & Spadina,"$3,249",1.0,1.0,
+1392,2Bed 1Bath Lower Level Apartment at Davenport & Symington,"$2,200",1.0,1.0,
+1393,1Bed 1Bath Forest Hill Toronto Basement Apartment,"$1,650",1.0,1.0,66 Wells Hill Avenue
+1394,1Bed 1Bath Beautiful Renovated West Toronto Apartment,"$1,850",1.0,1.0,4 Superior Avenue
+1395,1Bed 1Bath Beautiful Renovated West Toronto Apartment,"$2,100",1.0,1.0,4 Superior Avenue
+1396,99 Mulock Ave,"$1,500",1.0,1.0,
+1397,51 Archdekin Dr,"$2,000",1.0,1.0,
+1398,55 White Lodge Crescent,"$3,100",4.0,4.0,
+1399,2400 Bathurst Street,"$2,550",1.0,1.0,2400 Bathurst St
+1400,1 Braidwood Lake Rd,"$2,600",2.0,2.0,
+1401,Rob C,"$2,500",2.0,2.0,5 Concorde Pl 
+1402,25 Fisherville Rd,$800,1.0,1.0,
+1403,20 Pitney Ave | Unit: #--,"$2,300",3.0,3.0,
+1404,43 Lee Ave | Unit: 2nd. Floor,"$3,700",2.0,2.0,
+1405,60 mendelssohn st,"$2,400",2.0,2.0,60 Mendelssohn St 
+1406,George Street Boutique Condo,"$2,200",1.0,1.0,220 George St
+1407,262 St George St | Unit: basement,"$4,250",2.0,2.0,
+1408,3210 Lake Shore Blvd W,"$1,600",1.0,1.0,
+1409,Concord,"$2,150",1.0,1.0,21 Iceboat Terr 
+1410,Concord,"$2,150",1.0,1.0,21 Iceboat Terr 
+1411,83 Tansley Ave,"$1,400",2.0,2.0,
+1412,105 The Queensway,"$2,600",1.0,1.0,
+1413,151 St George St | Unit: 307,"$2,350",1.0,1.0,
+1414,Leaside Towers,"$1,550",1.0,1.0,
+1415,Leaside Towers,"$1,550",1.0,1.0,
+1416,Leaside Towers,"$1,550",1.0,1.0,
+1417,Leaside Towers,"$1,550",1.0,1.0,
+1418,Leaside Towers,"$1,600",1.0,1.0,
+1419,Leaside Towers,"$1,650",1.0,1.0,
+1420,Leaside Towers,"$1,700",1.0,1.0,
+1421,Leaside Towers,"$1,735",1.0,1.0,
+1422,Leaside Towers,"$1,735",1.0,1.0,
+1423,Leaside Towers,"$2,185",1.0,1.0,
+1424,Leaside Towers,"$2,130",1.5,1.5,
+1425,Leaside Towers,"$2,260",1.5,1.5,
+1426,Leaside Towers,"$2,260",1.5,1.5,
+1427,Leaside Towers,"$2,650",1.5,1.5,
+1428,The Arista,"$2,199",1.0,1.0,3665 Arista Way
+1429,The Arista,"$2,249",1.0,1.0,3665 Arista Way
+1430,The Heathview,"$1,900",1.0,1.0,320 Tweedsmuir Ave.
+1431,The Heathview,"$2,250",1.0,1.0,320 Tweedsmuir Ave.
+1432,The Heathview,"$2,000",1.0,1.0,320 Tweedsmuir Ave.
+1433,The Heathview,"$2,000",1.0,1.0,320 Tweedsmuir Ave.
+1434,The Heathview,"$2,195",1.0,1.0,320 Tweedsmuir Ave.
+1435,The Heathview,"$2,322",1.0,1.0,320 Tweedsmuir Ave.
+1436,The Heathview,"$2,346",1.0,1.0,320 Tweedsmuir Ave.
+1437,The Heathview,"$2,600",1.0,1.0,320 Tweedsmuir Ave.
+1438,The Heathview,"$2,850",1.0,1.0,320 Tweedsmuir Ave.
+1439,The Heathview,"$2,863",1.0,1.0,320 Tweedsmuir Ave.
+1440,The Heathview,"$2,950",2.0,2.0,320 Tweedsmuir Ave.
+1441,The Heathview,"$5,000",2.0,2.0,320 Tweedsmuir Ave.
+1442,The Heathview,"$4,862",2.5,2.5,320 Tweedsmuir Ave.
+1443,The Heathview,"$5,400",2.5,2.5,320 Tweedsmuir Ave.
+1444,The Heathview,"$6,300",2.5,2.5,320 Tweedsmuir Ave.
+1445,Tomken Place,"$1,949",1.0,1.0,935 Dundas St. E
+1446,Tomken Place,"$2,199",1.0,1.0,935 Dundas St. E
+1447,The Elmwoods,"$1,999",1.0,1.0,30 Elm Dr. E.
+1448,Fifty on the Park,"$2,075",1.0,1.0,50 Portland St.
+1449,Fifty on the Park,"$2,187",1.0,1.0,50 Portland St.
+1450,Fifty on the Park,"$2,300",1.0,1.0,50 Portland St.
+1451,Fifty on the Park,"$2,350",1.0,1.0,50 Portland St.
+1452,Fifty on the Park,"$2,747",1.0,1.0,50 Portland St.
+1453,Fifty on the Park,"$2,883",2.0,2.0,50 Portland St.
+1454,Fifty on the Park,"$2,925",2.0,2.0,50 Portland St.
+1455,Fifty on the Park,"$2,925",2.0,2.0,50 Portland St.
+1456,Fifty on the Park,"$2,925",2.0,2.0,50 Portland St.
+1457,Meadowvale Gardens,"$1,725",1.0,1.0,2869 Battleford Rd.
+1458,Meadowvale Gardens,"$1,750",1.0,1.0,2869 Battleford Rd.
+1459,Meadowvale Gardens,"$1,995",1.0,1.0,2869 Battleford Rd.
+1460,Meadowvale Gardens,"$2,150",1.0,1.0,2869 Battleford Rd.
+1461,The Valleywoods,"$1,925",1.0,1.0,1423 Mississauga Valley Blvd.
+1462,The Valleywoods,"$2,300",1.0,1.0,1423 Mississauga Valley Blvd.
+1463,The Valleywoods,"$2,325",1.0,1.0,1423 Mississauga Valley Blvd.
+1464,The Valleywoods,"$2,375",1.0,1.0,1423 Mississauga Valley Blvd.
+1465,32 Cadillac Crescent,Inquire,3.0,3.0,
+1466,2379 Cliff Rd,"$4,490",4.5,4.5,
+1467,PurePlaza,"$2,500",1.0,1.0,50 Wellesley St E
+1468,1101 Bay St,"$1,150",1.0,1.0,
+1469,Ice Condos,"$2,750",1.0,1.0,14 York St
+1470,Ice Condos,"$2,950",1.0,1.0,14 York St
+1471,761 Bay St,"$2,750",1.0,1.0,
+1472,761 Bay St,"$2,750",1.0,1.0,
+1473,Bond Condominiums,"$2,500",1.0,1.0,290 Adelaide St W 
+1474,34 Gerussi St,"$2,500",4.0,4.0,4000 Major MacKenzie Dr W
+1475,372 Shuter St | Unit: 372,"$4,000 ",2.0,2.0,
+1476,15 Merchants' Wharf,"$4,900",2.5,2.5,
+1477,128 De Grassi St,"$3,650",2.0,2.0,
+1478,Liberty Walk,$900,1.0,1.0,760 Lawrence Ave W 
+1479,Epic,"$2,300",1.0,1.0,68 Abell St 
+1480,158 Cottonwood Dr,"$2,700",1.5,1.5,
+1481,280 Morningside Ave," $1,650",1.0,1.0,
+1482,280 Morningside Ave,"$1,750",1.0,1.0,
+1483,280 Morningside Ave,"$1,950",1.0,1.0,
+1484,Parkside Student Residence,"$1,590",1.0,1.0,111 Carlton St 
+1485,Bond condo,"$2,400",1.0,1.0,290 Adelaide St W
+1486,70 Mossbank Dr,"$2,400",1.0,1.0,
+1487,102 Goulding Ave,"$1,750",1.0,1.0,
+1488,89 Isabella St,"$1,900",1.0,1.0,
+1489,88 Sheppard Ave E,"$2,050",1.0,1.0,
+1490,2124 Wiseman Ct,$650,1.0,1.0,
+1491,1 King West,"$3,400",2.0,2.0,1 King St W 
+1492,38 Cameron St,"$3,700",2.0,2.0,
+1493,JADE CONDOMINIUMS,"$3,350",2.0,2.0,33 Shore Breeze Drive 
+1494,901 Sheppard Ave W,"$1,500",1.5,1.5,
+1495,GROVE,"$4,700",2.0,2.0,15 Grove Ave
+1496,260 Doris Ave | Unit: 705,"$2,600",2.0,2.0,
+1497,222 Oakridge Dr,"$2,399",2.0,2.0,
+1498,YC Condo,"$2,550",1.0,1.0,7 Grenville St 
+1499,36 Kelway Blvd,"$5,200",3.0,3.0,
+1500,85 Glenmore Rd,"$2,600",1.0,1.0,
+1501,50 Absolute Ave,"$2,500",2.0,2.0,
+1502,Grid Condo,"$2,400",1.0,1.0,188 Dundas St E 
+1503,105 The Queensway,"$2,200",1.0,1.0,
+1504,26 Olive Ave suite 106 | Unit: 806,"$2,000",1.0,1.0,
+1505,88 Blue Jays Way | Unit: 3107,"$2,800",1.0,1.0,
+1506,5180 Yonge St | Unit: 1303,"$2,000",1.0,1.0,
+1507,5180 Yonge St | Unit: 1203,"$2,100",1.0,1.0,
+1508,65 Oneida Crescent | Unit: 101,"$2,250",2.0,2.0,
+1509,1960 Queen St E,"$2,200",1.0,1.0,
+1510,697 Ellesmere Rd,"$2,450",1.0,1.0,
+1511,Amy Jeninga,"$2,730",1.0,1.0,117 Boston Ave
+1512,Prince Arthur,"$2,400",1.0,1.0,20 Prince Arthur Ave 
+1513,Prince Arthur,"$2,900",1.0,1.0,20 Prince Arthur Ave 
+1514,Bridge Condo,"$2,750",2.0,2.0,38 Joe Shuster Way
+1515,Upside Down Condos,"$2,700",1.0,1.0,816 Lansdowne Ave
+1516,32 Culnan Ave,"$2,800",2.0,2.0,
+1517,55 Munson Crescent,"$2,600",2.0,2.0,
+1518,610 Birchmount Rd,"$2,300",1.0,1.0,
+1519,610 Birchmount Rd,"$2,000",1.0,1.0,
+1520,3 Castle Hill Dr,$800,1.0,1.0,
+1521,123 Strath Ave,"$2,700",1.0,1.0,
+1522,Aqualina,"$2,195",1.0,1.0,
+1523,Boutique,"$1,925",1.0,1.0,126 Simcoe St 
+1524,6 Gallview Ln,"$1,800",1.5,1.5,
+1525,23 Elise Terrace,"$2,700",1.5,1.5,
+1526,68 Rayside Dr,"$3,500",1.5,1.5,
+1527,Massey Tower,"$2,600",1.0,1.0,197 Yonge St
+1528,Success Tower,"$2,150",1.0,1.0,18 Harbour St
+1529,fashion house condo,"$2,250",1.0,1.0,461 Adelaide St W
+1530,90 Stadium Rd,"$2,200",1.0,1.0,90 Stadium Rd 
+1531,965 Inverhouse Dr,"$2,695",2.0,2.0,
+1532,28 Byng Ave,"$2,350",2.0,2.0,28 Byng Ave
+1533,Filippo Isabella," $3,350",2.0,2.0,96 Northcote Ave
+1534,Filippo Isabella,"$3,350",2.0,2.0,96 Northcote Ave
+1535,750 Military Trail,"$3,000",1.5,1.5,
+1536,25 Scarborough Golf Club Rd,"$2,350",2.0,2.0,
+1537,225 Sackville St,"$2,795",2.0,2.0,
+1538,355 King St W | Unit: 818,"$2,950",2.0,2.0,
+1539,9471 Yonge St,"$2,350",2.0,2.0,9471 Yonge St
+1540,GRAND GENESIS,"$2,500",2.0,2.0,9090 Yonge St
+1541,9608 Yonge St,"$2,150",1.0,1.0,
+1542,Elipses,"$2,150",1.0,1.0,38 Lee Centre Dr
+1543,4117 Loyalist Dr,"$1,590",1.0,1.0,
+1544,100 Western Battery Rd,"$2,700",1.0,1.0,
+1545,Bisha,"$5,995",2.0,2.0,88 Blue Jays Way
+1546,8 Foundry Ave,"$2,575",2.0,2.0,
+1547,Ultima North Tower,"$2,570",2.0,2.0,4978 Yonge St 
+1548,3091 Dufferin St,"$2,050",1.0,1.0,
+1549,97 Atlee Ave,"$2,800",2.0,2.0,
+1550,Fuse Condos,$990,1.0,1.0,1410 Dupont St 
+1551,2003 Dundas St W,"$2,100",1.0,1.0,
+1552,MICHAEL MAZZUCA,"$2,650",2.0,2.0,20 Minowan Miikan Lane 
+1553,The Victory Lofts,"$3,590",2.0,2.0,478 King St W 
+1554,7 Grenville St | Unit: 5109,"$2,550",1.0,1.0,
+1555,7 Grenville St | Unit: 5112,"$2,300",1.0,1.0,
+1556,Beacon,"$2,700",2.0,2.0,5180 Yonge St 
+1557,Absolute World,"$2,300",2.0,2.0,50 Absolute Ave
+1558,21 Grand Magazine St,"$3,300",2.0,2.0,
+1559,75 S Town Centre Blvd,"$1,900",1.0,1.0,
+1560,Ocean Club,"$3,900",2.0,2.0,59 Annie Craig Dr 
+1561,155 Weir Crescent,$700,1.0,1.0,
+1562,124 Dupont St,"$2,700",1.5,1.5,
+1563,Residence on Bloor,"$2,315",1.0,1.0,235 Bloor St E 
+1564,79 Muir Ave,"$4,050",3.0,3.0,
+1565,Grid Condo,"$2,400",1.0,1.0,188 Dundas St E 
+1566,7 Grenville St | Unit: 3105,"$3,200",2.0,2.0,
+1567,111 St Clair Ave W | Unit: 1522,"$2,500",1.0,1.0,
+1568,415 Jarvis St,"$1,250",1.0,1.0,
+1569,399 Spring Garden Ave | Unit: 426,"$3,000",1.5,1.5,
+1570,Curve,"$2,600",1.0,1.0,170 Sudbury St
+1571,King Charlotte,"$2,300",1.0,1.0,11 Charlotte St 
+1572,8323 Kennedy Rd,"$1,900",1.0,1.0,
+1573,8200 Birchmount Rd,"$1,800",1.0,1.0,
+1574,101 Peter Street,"$2,300",1.0,1.0,101 Peter St 
+1575,77 McMurrich St | Unit: 302,"$4,200",2.0,2.0,
+1576,50 Silverhill Dr,"$2,600",1.0,1.0,
+1577,100 Harbour St | Unit: 5901,"$2,350",1.0,1.0,
+1578,220 Victoria St,"$2,250",1.5,1.5,
+1579,80 Acorn Pl | Unit: 162,"$2,300",3.0,3.0,
+1580,Grid,"$2,400",1.0,1.0,181 Dundas St E 
+1581,47 Hove St,"$4,500",4.5,4.5,
+1582,Queens Harbour,"$2,900",2.0,2.0,600 Queens Quay W 
+1583,50 Sellers Ave,"$2,750",2.0,2.0,
+1584,43 Bulbourne Rd,"$3,499",1.0,1.0,
+1585,36 Shank St | Unit: B,"$2,500",1.0,1.0,
+1586,60 South Town Centre Blvd,"$2,350",1.0,1.0,60 S Town Centre Blvd
+1587,50 Town Centre Court,"$1,950",1.0,1.0,
+1588,105 The Queensway,"$1,900",1.0,1.0,
+1589,38 Cameron St,"$3,200",2.0,2.0,
+1590,Chaz Yorkville,"$2,400",1.0,1.0,45 Charles St E 
+1591,215 Sherway Gardens Rd,"$2,300",1.0,1.0,
+1592,Waterclub,"$2,200",1.0,1.0,208 Queens Quay W 
+1593,Charlie,"$2,350",1.0,1.0,8 Charlotte St
+1594,Enigma on the Park,"$3,150",2.0,2.0,138 St Helens Ave 
+1595,YC Condos,"$2,800",2.0,2.0,7 Grenville St 
+1596,125 Village Green Square | Unit: 2111,"$2,100",2.0,2.0,
+1597,Parklake,"$2,850",2.0,2.0,1910 Lake Shore Blvd W 
+1598,Casa Condos,"$2,950",1.0,1.0,33 Charles St E 
+1599,Jean-Pierre Colin,"$2,100",1.0,1.0,78 Tecumseth St
+1600,Curve Lofts,"$2,350",1.0,1.0,170 Sudbury St 
+1601,8323 Kennedy Rd Markham,"$1,850 ",1.0,1.0,8323 Kennedy Rd
+1602,50 Clegg Rd Markham,"$2,500",2.0,2.0,50 Clegg Rd
+1603,Aria,"$2,100",1.0,1.0,20 Bloorview Pl
+1604,Erin Kim,"$2,600",2.0,2.0,181 Dundas St E
+1605,Venture,"$1,750",1.0,1.0,151 Village Green Square
+1606,5940 Yonge St,"$2,200",1.0,1.0,
+1607,7768 Kennedy Rd Markham,"$2,250",1.0,1.0,7768 Kennedy Rd
+1608,430 Mclevin Ave Scarborough,"$2,000",2.0,2.0,430 McLevin Ave
+1609,8228 Birchmount Rd Markham,"$1,900",1.0,1.0,8228 Birchmount Rd
+1610,135 Village Green Square,"$1,790",1.0,1.0,
+1611,Bridge Condominiums,"$2,788",2.0,2.0,38 Joe Shuster Way 
+1612,Fuse Condominiums,"$2,595",1.0,1.0,1420 Dupont St 
+1613,1080 Bay St,"$3,500",2.0,2.0,
+1614,32 Ivordale Crescent,"$2,000",1.0,1.0,
+1615,10 Post Oak Dr | Unit: 48,"$2,300",3.0,3.0,
+1616,1575 Lake Shore Blvd W | Unit: 405,"$2,700",2.0,2.0,
+1617,YC Condo,"$2,200",1.0,1.0,7 Grenville St 
+1618,1 Michael Power Pl,"$2,000",1.0,1.0,
+1619,YC condo,"$2,300",1.0,1.0,7 Grenville St 
+1620,Quartz Condo,"$2,100",1.0,1.0,75 Queens Wharf Rd 
+1621,Madison,"$2,200",1.0,1.0,89 Dunfield Ave
+1622,189 Sheridan Ave | Unit: 4,"$2,750",1.0,1.0,
+1623,2 St Thomas,"$3,000",1.0,1.0,2 St Thomas St 
+1624,West One City Place,"$3,400",1.0,1.0,11 Brunel Ct 
+1625,Fuse II,"$1,850",1.0,1.0,1420 Dupont St
+1626,Bridge,"$2,795",2.0,2.0,38 Joe Shuster Way
+1627,The Rezen,"$2,400",1.0,1.0,205 Frederick St 
+1628,31 Alma Ave,"$4,300",2.0,2.0,
+1629,Fuse Building,"$2,700",2.0,2.0,1420 Dupont St
+1630,Fuse Building,"$2,100",2.0,2.0,1420 Dupont St
+1631,150 Sudbury St,"$3,100",2.0,2.0,150 Sudbury St
+1632,34 Cadillac Crescent,"$2,399",2.5,2.5,
+1633,2220 Lake Shore Blvd W,"$2,000",1.0,1.0,
+1634,Royal Arms,"$2,800",2.0,2.0,5418 Yonge St
+1635,Essex II,"$2,650",2.0,2.0,5233 Dundas St W
+1636,chuqin geng,"$2,300",1.0,1.0,33 Bay St 
+1637,Pantages Tower,"$2,100",1.0,1.0,210 Victoria St
+1638,150 Redpath," $2,680",1.0,1.0,161 Roehampton Ave
+1639,268 Kenilworth Ave | Unit: Ground,"$1,845",1.0,1.0,
+1640,King Edward Hotel,"$2,300",1.0,1.0,22 Leader Ln
+1641,CampusOne,"$1,399",1.0,1.0,253 College St
+1642,4070 Confederation Pkwy | Unit: 3510,"$2,100",1.0,1.0,
+1643,200 Dundas St E | Unit: 313,"$3,000",1.0,1.0,
+1644,Royale Apartment,"$1,550",1.0,1.0,368 Eglinton Ave E
+1645,Royale Apartment,"$1,800",1.0,1.0,368 Eglinton Ave E
+1646,Royale Appartment,"$2,000",1.0,1.0,368 Eglinton Ave E
+1647,Royale Apartment,"$1,550",1.0,1.0,368 Eglinton Ave E
+1648,NORTH VIEW TERRACE,"$1,700",1.0,1.0,2515 Bathurst St 
+1649,830 Lawrence Ave W,"$3,200",3.0,3.0,830 Lawrence Ave W
+1650,Lake Promenade Community,"$1,575",1.0,1.0,21 Park Blvd.
+1651,Lake Promenade Community,"$1,850",1.0,1.0,21 Park Blvd.
+1652,Lake Promenade Community,"$2,350",1.0,1.0,21 Park Blvd.
+1653,50 Town Centre Crt,"$1,950",1.0,1.0,50 Town Centre Court
+1654,50 Town Centre Crt,"$2,350",1.0,1.0,50 Town Centre Court
+1655,50 Town Centre Crt,"$2,580",2.0,2.0,50 Town Centre Court
+1656,61 Town Centre crt,"$1,900",1.0,1.0,61 Town Centre Court
+1657,61 Town Centre crt,"$2,400",2.0,2.0,61 Town Centre Court
+1658,60 Town Centre Crt,"$1,900",1.0,1.0,60 Town Centre Court
+1659,60 Town Centre Crt,"$2,300",1.0,1.0,60 Town Centre Court
+1660,60 Town Centre Crt,"$2,500",2.0,2.0,60 Town Centre Court
+1661,Trevor Lomberg,"$2,100",1.0,1.0,89 McCaul St
+1662,Marissa Heintzman,"$3,500",2.0,2.0,308 Palmerston Ave 
+1663,Side split,"$2,499",1.0,1.0,5 Pipestone Pl 
+1664,Ice Condos,"$4,800",2.0,2.0,14 York St
+1665,123 Alamo Heights Dr,"$1,295",1.0,1.0,
+1666,123 Alamo Heights Dr,"$1,295",1.0,1.0,
+1667,219 Eaglewood Blvd,"$3,100",2.0,2.0,
+1668,59 Shoreview Dr,"$2,300",1.0,1.0,
+1669,17 Kenaston Grdns.,"$1,900",1.0,1.0,17 Kenaston Gardens
+1670,179 Salterton Circle,"$2,850",4.0,4.0,
+1671,64 Bluewater Ct,"$3,300",2.0,2.0,
+1672,40 Gerrard St E,"$2,500",1.0,1.0,
+1673,19 Brant St,"$4,950",2.0,2.0,
+1674,Fashion District Lofts,"$3,100",1.0,1.0,10 Morrison St
+1675,Icon,"$3,600",1.0,1.0,250 Wellington St W
+1676,40 Pleasant Blvd,"$1,699",1.0,1.0,
+1677,40 Pleasant Blvd,"$1,999",1.0,1.0,
+1678,40 Pleasant Blvd,"$1,799",1.0,1.0,
+1679,40 Pleasant Blvd,"$2,799",2.0,2.0,
+1680,40 Pleasant Blvd,"$4,999",2.0,2.0,
+1681,Candice Chai,"$2,100",1.0,1.0,4968 Yonge St 
+1682,David Levenberg,"$3,100",2.0,2.0,125 Peter St
+1683,Westside Gallery Lofts,"$2,400",1.0,1.0,150 Sudbury St 
+1684,288 Pellatt Ave,"$1,600",1.0,1.0,
+1685,3231 Eglinton Ave E,"$1,850",1.0,1.0,
+1686,Front Street and Spadina,"$2,500",1.0,1.0,373 Front St W 
+1687,21 Nelson St,"$2,550",1.0,1.0,
+1688,2380 Queen St E,"$5,500",2.5,2.5,
+1689,47 Highcastle Rd,"$2,700",2.5,2.5,
+1690,Solaris,"$2,300",2.0,2.0,125 Village Green Square 
+1691,18 Mondeo Dr | Unit: 11th Floor,"$2,350",2.0,2.0,
+1692,351 Clinton St | Unit: Main Floor,"$2,400",1.0,1.0,
+1693,han li,"$4,900",2.0,2.0,50 Charles St E
+1694,James Cooper Mansion,"$2,500",1.0,1.0,28 Linden St 
+1695,1498 King St W,"$4,200",1.5,1.5,
+1696,1950 Kennedy Road,$700,1.0,1.0,1950 Kennedy Rd 
+1697,King West Condos,"$2,500",1.0,1.0,75 E Liberty St 
+1698,Maple Leaf Square,"$2,900",1.0,1.0,55 Bremner Blvd 
+1699,15 Yorkville Ave,"$3,400",1.0,1.0,
+1700,13 St Joseph St,"$3,400",1.0,1.0,
+1701,1125 Bay St,"$3,400",1.0,1.0,
+1702,Aristo,"$2,650",2.0,2.0,120 Harrison Garden Blvd
+1703,Jade Waterfront Toronto Condo,"$2,300",1.0,1.0,2175 Lake Shore Blvd W
+1704,20 Bruyeres Mews,"$3,100",2.0,2.0,20 Bruyeres Mews 
+1705,4070 Confederation Pkwy | Unit: PH,"$2,800",1.0,1.0,
+1706,160 Flemington Rd,"$1,795",1.0,1.0,
+1707,The Curve,"$1,950",1.0,1.0,170 Sudbury St 
+1708,20 Bruyeres Mews,"$3,100",2.0,2.0,20 Bruyeres Mews 
+1709,115 Arten Ave,"$2,750",4.5,4.5,
+1710,Pantages Tower,"$3,500",1.0,1.0,210 Victoria St
+1711,75 Queens Wharf Rd,"$5,500",2.5,2.5,
+1712,1 King St W,"$2,200",1.0,1.0,
+1713,Century Plaza,"$2,450",1.5,1.5,24 Wellesley St W 
+1714,TOWNHOUSE,"$3,300",2.5,2.5,861 The Queensway 
+1715,162 Boon Ave,$900,1.0,1.0,
+1716,Leslie Boutique,"$2,200",1.0,1.0,2756 Old Leslie St
+1717,The Rise,"$3,000",2.0,2.0,501 St Clair Ave W 
+1718,54 E Liberty St,"$2,500",1.0,1.0,
+1719,Mintos Garden (33 Sheppard Ave E),"$2,750",2.0,2.0,
+1720,Modern,"$2,475",1.0,1.0,320 Richmond St E
+1721,Liberty Village Townhouses,"$2,650",2.0,2.0,46 Western Battery Rd
+1722,Sudbury Street Townhouses,"$3,000",2.0,2.0,12 Sudbury St
+1723,23 Lorraine Dr,"$3,500",2.0,2.0,23 Lorraine Dr
+1724,25 Greenview Ave,"$2,200",1.0,1.0,25 Greenview Ave
+1725,7 Kenaston Gardens | Unit: 702,"$2,150",1.5,1.5,
+1726,15 Greenview Ave,"$2,300",1.0,1.0,15 Greenview Ave
+1727,2885 Bayview Ave | Unit: 1502,"$2,090",1.0,1.0,
+1728,28 Olive Ave | Unit: 706,"$2,400",1.0,1.0,
+1729,5740 Yonge St,"$2,200",1.0,1.0,5740 Yonge St
+1730,5793 Yonge St,"$2,000",1.0,1.0,5793 Yonge St
+1731,593 16th Ave,"$1,600",1.0,1.0,
+1732,Tridel Alter,"$2,200",1.0,1.0,89 McGill St 
+1733,11 Brunel Ct,"$2,399",1.0,1.0,
+1734,Gurmeet Grewal,"$2,300",2.0,2.0,225 Webb Dr 
+1735,5765 Yonge St,"$2,000",1.0,1.0,5765 Yonge St
+1736,87 Peter St | Unit: 1101,"$2,600",1.0,1.0,
+1737,455 Front St E,"$2,750",2.0,2.0,
+1738,50 Harjolyn Dr,"$3,950",3.0,3.0,
+1739,65 East liberty st,"$2,250",1.5,1.5,65 E Liberty St
+1740,503 Beecroft Rd,"$1,950",1.0,1.0,503 Beecroft Rd
+1741,10 Torresdale Ave,"$2,750",2.0,2.0,10 Torresdale Ave
+1742,River City 3,"$2,300",1.0,1.0,170 Bayview Ave 
+1743,133 Torresdale Ave,"$2,600",1.0,1.0,133 Torresdale Ave
+1744,115 Antibes Dr,"$3,500",2.0,2.0,115 Antibes Dr
+1745,Golden Gate,"$2,400",1.0,1.0,44 Longbourne Dr
+1746,44 Jackes Ave,"$1,600",2.0,2.0,
+1747,Aura at College Park,"$3,795",2.0,2.0,386 Yonge St 
+1748,2240 Lake Shore Blvd W,"$2,500",1.0,1.0,
+1749,2220 Lake Shore Blvd W,"$2,500",1.0,1.0,
+1750,20 Ross St | Unit: Lower Level,"$2,500",1.0,1.0,
+1751,3716 Woodruff Crescent,"$1,700",1.0,1.0,
+1752,Avani 2,"$1,925",1.0,1.0,275 Village Green Square 
+1753,Helen Chen,"$3,100",2.0,2.0,3 Pemberton Ave 
+1754,100 Antibes Dr,"$2,500",1.0,1.0,100 Antibes Dr
+1755,1111 Steeles Ave,"$2,400",2.0,2.0,1111 Steeles Ave W
+1756,1101 Steeles Ave,"$2,700",2.0,2.0,1101 Steeles Ave W
+1757,1201 Steeles Ave W,"$2,700",2.0,2.0,1201 Steeles Ave W
+1758,SQ Alexandra Park,"$2,350",1.5,1.5,38 Cameron St
+1759,195 Merton St,"$2,600",1.0,1.0,
+1760,Emerald City,"$2,500",2.0,2.0,50 Forest Manor Rd
+1761,Axiom,"$2,285",1.0,1.0,460 Adelaide St E
+1762,9T6 CONDOS,"$2,200",1.0,1.0,96 St Patrick St 
+1763,Jaimy Hunt,"$2,400",1.0,1.0,50 Portland St
+1764,House,"$2,499",1.0,1.0,1194 Westerdam Rd
+1765,The Craftsman,"$1,995",1.0,1.0,1575 Lakeshore Rd W 
+1766,The Craftsman,"$1,995",1.0,1.0,1575 Lakeshore Rd W 
+1767,The Craftsman,"$1,995",1.0,1.0,1575 Lakeshore Rd W 
+1768,Cinema Towers,"$2,300",1.0,1.0,21 Widmer St
+1769,65 Oneida Cres,"$2,800",2.0,2.0,65 Oneida Crescent
+1770,777 Steeles Ave W,"$2,500",2.0,2.0,777 Steeles Ave W
+1771,UPTOWN RESIDENCES,"$2,600",1.0,1.0,35 Balmuto St
+1772,UPTOWN RESIDENCES,"$2,600",1.0,1.0,35 Balmuto St
+1773,UPTOWN RESIDENCES,"$2,600",1.0,1.0,35 Balmuto St
+1774,14 Belgate Pl | Unit: Basement,"$1,650",1.0,1.0,
+1775,7 Concorde Place,"$1,900",1.0,1.0,7 Concorde Pl
+1776,23 Glebe Rd E | Unit: 524,"$2,700",2.0,2.0,
+1777,10 Tangreen Crt,"$2,800",2.0,2.0,10 Tangreen Ct
+1778,205 Hilda Ave,"$2,650",2.0,2.0,205 Hilda Ave
+1779,175 Hilda,"$2,600",2.0,2.0,175 Hilda Ave
+1780,1121 Steeles Ave W,"$2,700",2.0,2.0,1121 Steeles Ave W
+1781,1121 Steeles Ave W,"$2,700",2.0,2.0,1121 Steeles Ave W
+1782,SQ,"$3,200",1.5,1.5,38 Cameron St 
+1783,225 Webb Dr | Unit: 1106,"$2,400",1.5,1.5,
+1784,88 Sheppard Ave East,"$2,250",1.0,1.0,88 Sheppard Ave E
+1785,3 Sir Pellias Terrace,"$2,388",2.0,2.0,
+1786,104 Casabel Dr,"$2,400",2.5,2.5,
+1787,3291 Bloomfield Dr,"$1,800",1.0,1.0,
+1788,Aqualina,"$2,300",1.0,1.0,
+1789,Aqualina,"$2,300",1.0,1.0,
+1790,Aqualina,"$2,300",1.0,1.0,
+1791,455 Front St E,"$2,250",2.0,2.0,
+1792,27 Rean Drive,"$1,900",1.0,1.0,27 Rean Dr
+1793,eBuilding,"$2,100",1.0,1.0,8 Eglinton Ave E
+1794,60 Homewood Ave,"$2,150",1.0,1.0,
+1795,2443 Brookhurst Rd,"$2,350",2.0,2.0,
+1796,Forward Residence,"$1,250",1.0,1.0,70 Queens Wharf Rd 
+1797,725 Don Mills road,"$2,250",1.0,1.0,725 Don Mills Rd 
+1798,25 Lower Simcoe St | Unit: 205,"$2,300",1.0,1.0,
+1799,David Aning,"$3,200",1.0,1.0,250 Queens Quay W
+1800,300 Front Street West,"$5,000",1.0,1.0,300 Front St W
+1801,268 Sterling Rd | Unit: 2,"$3,188",1.0,1.0,
+1802,13 Fairway Dr,"$3,000",2.0,2.0,
+1803,ProServ Property Services,"$2,375",1.0,1.0,50 Bruyeres Mews
+1804,ICE CONDO,"$2,600",1.0,1.0,14 York St 
+1805,Aqualina at Bayside,"$2,500",1.0,1.0,
+1806,6 Waltham Dr,Inquire,4.5,4.5,
+1807,The Mercer,"$2,850",1.0,1.0,8 Mercer St 
+1808,2350 Doulton Dr,"$9,000",4.5,4.5,
+1809,5162 Yonge St,"$2,100",1.0,1.0,5162 Yonge St
+1810,Lake Promenade Community,"$1,400",1.0,1.0,21 Park Blvd.
+1811,Lake Promenade Community,"$1,800",1.0,1.0,21 Park Blvd.
+1812,Lake Promenade Community,"$1,875",1.0,1.0,21 Park Blvd.
+1813,400 Kingswood Rd,"$1,675",1.0,1.0,
+1814,8 Charlotte St,"$3,400",2.0,2.0,
+1815,9 Wimbleton Crescent,"$3,995",2.0,2.0,
+1816,40 Thirty Eighth St | Unit: 40B,"$6,500",4.0,4.0,
+1817,Atria,"$2,300",1.0,1.0,
+1818,70 Riverdale Dr,"$2,800",2.0,2.0,
+1819,67 Natal Ave,"$2,450",1.0,1.0,
+1820,21 Hillcrest Ave,"$2,100",1.0,1.0,21 Hillcrest Ave
+1821,105 Harrison Garden Blvd,"$2,150",1.0,1.0,105 Harrison Garden Blvd
+1822,Aura,"$2,350",1.0,1.0,386 Yonge St
+1823,100 Village Greenway,"$3,500",2.5,2.5,
+1824,24 Shandon Dr,"$2,000",1.0,1.0,
+1825,Usama Shakil,"$2,350",1.0,1.0,460 Adelaide St E
+1826,Parkwood Towers,"$1,880",1.0,1.0,241 Redpath Ave
+1827,Parkwood Towers,"$2,330",2.0,2.0,241 Redpath Ave
+1828,18 Holmes Ave,"$1,900",1.0,1.0,18 Holmes Ave
+1829,33 Angus Dr,"$2,990",2.0,2.0,
+1830,26 Millicent St,"$3,700",3.0,3.0,
+1831,Quartz Building,"$2,450",1.0,1.0,75 Queens Wharf Rd 
+1832,141 Davisville Ave | Unit: PH08,"$1,390",1.0,1.0,
+1833,The Carnaby,"$2,800",2.0,2.0,20 Minowan Miikan Lane
+1834,37 Canniff St | Unit: 704,"$3,500",2.0,2.0,
+1835,155 Monarch Park Ave,"$3,800",2.5,2.5,
+1836,213 Wheeler Ave,"$3,000",2.0,2.0,
+1837,12 Sufi Crescent,"$2,600",1.0,1.0,
+1838,190 Ontario St,"$3,400",2.0,2.0,
+1839,1858 Folkway Dr,"$1,000",2.0,2.0,
+1840,1109 Dundas St W,$800,2.0,2.0,
+1841,109 Westmount Ave,"$1,250",1.0,1.0,
+1842,41 Alexis Blvd,$750,1.0,1.0,
+1843,56 Threadneedle Crescent,$950,2.0,2.0,
+1844,131 Laura Rd,$850,1.0,1.0,
+1845,217 Seaton St,"$3,650",1.0,1.0,
+1846,8130 Birchmount Rd | Unit: 905,"$1,950",2.0,2.0,
+1847,108 Maberley Crescent,"$2,495",1.0,1.0,
+1848,89 N Edgely Ave,Inquire,1.0,1.0,
+1849,102A Granger Ave,"$1,695",1.0,1.0,
+1850,E-Condos,"$2,595",2.0,2.0,8 Eglinton Ave E
+1851,Laura Burrows,"$2,850",1.0,1.0,1190 Dundas St E 
+1852,Pinnacle success towers,"$2,450",1.0,1.0,33 Bay St 
+1853,Scotch Elms,"$1,625",1.0,1.0,
+1854,Beautiful 2Bed 1.5Bath Forest Hill Apartment,"$2,450",1.5,1.5,250 Heath Street West
+1855,Beautiful 2Bed 1.5Bath Forest Hill Apartment,"$2,950",2.0,2.0,250 Heath Street West
+1856,2Bed 1Bath Beautiful Main Floor Unit Near Danforth & Woodbine,"$2,395",1.0,1.0,
+1857,70 Rexdale Boulevard,"$1,875",1.0,1.0,70 Rexdale Boulevard
+1858,7170 Darcel Avenue,"$2,400",1.0,1.0,7170 Darcel Avenue
+1859,7230 Darcel Avenue,"$2,400",1.0,1.0,7230 Darcel Avenue
+1860,7230 Darcel Avenue,"$2,800",1.0,1.0,7230 Darcel Avenue
+1861,7280 Darcel Avenue,"$2,400",1.0,1.0,7280 Darcel Avenue
+1862,95 Paisley Boulevard West,"$1,604",1.0,1.0,95 Paisley Boulevard West
+1863,95 Paisley Boulevard West,"$2,127",1.0,1.0,95 Paisley Boulevard West
+1864,30 Shore Breeze Dr,"$2,150",1.0,1.0,
+1865,641 Annette St | Unit: Runnymede,"$2,790",1.0,1.0,
+1866,Bloor Street Neighborhood,"$2,750",1.0,1.0,35 Hayden St
+1867,West Harbour,"$2,200",1.0,1.0,628 Fleet St
+1868,62 Deanvar Ave,"$2,200",1.0,1.0,
+1869,4057 Jefton Crescent," $3,200",1.0,1.0,
+1870,9 Fairchild Ave,"$1,800",1.0,1.0,
+1871,3252 Respond Rd,"$2,699",3.5,3.5,
+1872,34 Sugarberry Dr,Inquire,3.0,3.0,
+1873,Kristen Wong,"$2,350",2.0,2.0,120 Bayview Ave
+1874,The 500,"$2,450",1.0,1.0,500 Sherbourne St
+1875,4241 Tomken Rd,$850,1.0,1.0,
+1876,4241 Tomken Rd,"$1,300",1.0,1.0,
+1877,4241 Tomken Rd,"$2,000",1.0,1.0,
+1878,4241 Tomken Rd,"$4,600",1.0,1.0,
+1879,5 Valhalla Inn Rd | Unit: 1110,"$2,200",1.0,1.0,
+1880,3 Kingsbury Crescent,"$3,500",2.0,2.0,
+1881,68 Centre Ave,"$3,700",1.5,1.5,
+1882,9 Duplex Crescent,"$4,300",2.0,2.0,
+1883,Spring Minto Gardens,"$2,050",1.0,1.0,23 Sheppard Ave E 
+1884,59 River St | Unit: 59,"$3,000",2.0,2.0,
+1885,29 Ashgrove Pl,"$2,700",1.0,1.0,
+1886,58 Astley Ave,"$4,500",2.0,2.0,
+1887,69 Godstone Rd,"$3,250",2.5,2.5,
+1888,550 Queens Quay W | Unit: 233,"$2,400",1.0,1.0,
+1889,1CON,"$3,500",1.0,1.0,270 Wellington St W
+1890,The former Toronto Waldorf hotel Bulding,"$2,300",1.0,1.0,88 Charles St E 
+1891,480 Oriole Pkwy Unit 303 | Unit: 201,"$2,449",1.0,1.0,
+1892,Epic On Triangle Park,"$2,600",2.0,2.0,68 Abell St
+1893,840 Dundas St W | Unit: 24,"$1,200",1.0,1.0,
+1894,5317 Ferret Ct,"$2,500",3.0,3.0,
+1895,25 Rathburn Rd,"$2,975",2.0,2.0,
+1896,1279 Davenport Rd | Unit: main level,"$2,450",1.0,1.0,
+1897,7 Emmott Ave,"$4,000",2.5,2.5,
+1898,6 Snowshoe Millway,"$1,850",1.0,1.0,
+1899,1177 Haig Blvd,"$3,300",4.0,4.0,
+1900,120 Bayview Ave,"$2,900",2.0,2.0,
+1901,10 Golden Orchard Rd,"$3,400",4.5,4.5,
+1902,455 Front St E,"$2,200",1.0,1.0,
+1903,42 Charles St E | Unit: 2001,"$2,650",1.0,1.0,
+1904,Donway Properties - Don Mills,"$1,950",1.0,1.0,1053 Don Mills
+1905,Donway Properties - Don Mills,"$2,300",1.0,1.0,1053 Don Mills
+1906,Westlake Phase III,"$2,300",2.0,2.0,2212 Lake Shore Blvd W 
+1907,27 Delaware Ave,"$2,745",1.0,1.0,
+1908,Amber building,"$2,500",1.5,1.5,5033 Foursprings Ave 
+1909,75 Queens Wharf Rd,"$2,250",1.0,1.0,
+1910,260 Sackville St | Unit: 702,"$2,500",1.0,1.0,
+1911,35 Applewood Lane | Unit: 53,"$2,800",2.5,2.5,
+1912,65 Decarie Cir,"$4,000",3.0,3.0,
+1913,2 Redthorn Ct,"$4,500",3.5,3.5,
+1914,35 Mariner Terrace | Unit: Suite 4702,"$2,600 ",1.0,1.0,
+1915,58 Mediterranean Cres,"$3,099",1.0,1.0,
+1916,58 Mediterranean Cres,"$3,099",3.5,3.5,
+1917,503 Beecroft,"$2,800",2.0,2.0,503 Beecroft Rd 
+1918,TA ProServe Property Services,$800,1.0,1.0,18 Valley Stream Dr
+1919,Residences By The Lake,"$5,600",3.0,3.0,126 Waterside Dr
+1920,One Thousand Bay Condos,"$2,300",1.0,1.0,57 St Joseph St
+1921,33 Kennedy Rd S,"$1,450",1.0,1.0,
+1922,33 Kennedy Rd S,"$1,750",1.0,1.0,
+1923,Mc Cowan Rd  and Egington,"$1,950",2.0,2.0,15 Torrance Rd 
+1924,Mc Cowan Rd  and Egington,"$1,950",2.0,2.0,15 Torrance Rd 
+1925,Mc Cowan Rd  and Egington,"$1,950",2.0,2.0,15 Torrance Rd 
+1926,Liberty Place,"$2,800",1.5,1.5,150 E Liberty St
+1927,Exchange Condos,"$1,910",1.0,1.0,90 Queens Wharf Rd 
+1928,Exchange Condos,"$1,910",1.0,1.0,90 Queens Wharf Rd 
+1929,221 & 265 Balliol Street,"$1,750",1.0,1.0,
+1930,221 & 265 Balliol Street,"$1,900",1.0,1.0,
+1931,4005 Don Mills Rd | Unit: 254,"$2,350",2.5,2.5,
+1932,45 Acacia Rd,"$3,000",1.0,1.0,
+1933,Axiom Condos,"$2,300",1.0,1.0,464 Adelaide St E 
+1934,203 Three Valleys Dr,"$2,700",1.0,1.0,
+1935,4 Lynn Rd,"$2,650",2.0,2.0,
+1936,California Condos,"$2,650",2.0,2.0,165 Legion Rd N
+1937,Harbour Plaza,"$3,000",2.0,2.0,100 Harbour St
+1938,Compass Creek,"$2,300",2.0,2.0,200 Burnhamthorpe Rd E 
+1939,Boutique,"$5,500",1.0,1.0,126 Simcoe St 
+1940,Ultima,"$1,800",1.0,1.0,4968 Yonge St 
+1941,Carlyle,"$3,000",1.0,1.0,60 St Clair Ave W
+1942,83 Evanston Dr,"$3,300",2.5,2.5,
+1943,11 St Joseph St,"$2,500",1.0,1.0,
+1944,1 Arundel Ave | Unit: Main Floor Suite,"$2,500",1.0,1.0,
+1945,10 Park Lawn Rd,"$2,300",1.0,1.0,
+1946,10 Park Lawn Rd,"$2,780",2.0,2.0,
+1947,The Kip District - Phase 1,"$1,895",1.0,1.0,5365 Dundas St W
+1948,100 Coe Hill Dr,"$2,500",1.0,1.0,
+1949,33 Mill St | Unit: 3001,"$2,450",1.0,1.0,
+1950,Deepak Khosla,"$2,400",1.0,1.0,25 Telegram Mews
+1951,176 Brighton Ave,"$3,400",2.0,2.0,
+1952,Atlantis Aquarius,"$2,000",1.0,1.0,231 Fort York Blvd 
+1953,15 Iceboat Terrace,"$2,200",1.0,1.0,15 Iceboat Terr
+1954,189 Sheridan Ave | Unit: Top Floor,"$2,700",1.0,1.0,
+1955,GOODERHAM,"$2,200",1.0,1.0,390 Cherry St 
+1956,500 Sherbourne,"$2,200",1.0,1.0,500 Sherbourne St
+1957,12 Lampman Dr,$700,1.0,1.0,
+1958,Andrea Seddon,"$2,650",2.0,2.0,305 Roehampton Ave 
+1959,46 Hamlyn Crescent,"$2,800",1.0,1.0,
+1960,115 Scenic Mill Way,"$3,900",2.5,2.5,
+1961,775 King St W,"$3,600",1.0,1.0,
+1962,29 Queens Quay W,"$4,200",1.0,1.0,
+1963,8 The Esplanade,"$4,200",1.0,1.0,
+1964,101 Peter St,"$5,250",2.0,2.0,
+1965,168 Simcoe St,"$4,500",1.0,1.0,
+1966,36 Lee Centre Dr,"$2,000",1.0,1.0,36 Lee Centre Dr 
+1967,81 Clarion Rd,"$1,300",1.0,1.0,
+1968,81 Clarion Rd,"$1,300",1.0,1.0,
+1969,Madison,"$2,850",2.0,2.0,89 Dunfield Ave
+1970,FIVE Condo,"$3,600",1.0,1.0,5 St Joseph St 
+1971,16 Glenavon Rd,$975,1.5,1.5,
+1972,218 Queen St E | Unit: 6,"$1,625",1.0,1.0,
+1973,Festival Tower,"$2,330",1.0,1.0,330 King St W
+1974,Dundas Sq. Gardens,"$1,850",1.0,1.0,251 Jarvis St 
+1975,Eric Adam Majer,"$2,450",1.0,1.0,85 Bloor St E 
+1976,79 Powell Rd | Unit: Main,"$2,100",1.0,1.0,
+1977,20 Sixth St,"$3,700",4.0,4.0,
+1978,Daniel Pye,"$1,415",1.0,1.0,200 Balliol St
+1979,20 Sixth St,"$3,700",4.0,4.0,
+1980,209 Fort York Blvd | Unit: 8,"$2,250",1.0,1.0,
+1981,14 Larkhall Ave | Unit: Upper,"$2,500",1.0,1.0,
+1982,36 Lee Centre Dr,"$2,500",2.0,2.0,36 Lee Centre Dr 
+1983,68 Corporate Dr,"$2,350",2.0,2.0,68 Corporate Dr 
+1984,38 Lee Centre Dr,"$2,350",2.0,2.0,38 Lee Centre Dr
+1985,Aquitaine Avenue,"$2,079",1.0,1.0,2700 Aquitaine Avenue
+1986,Aquitaine Avenue,"$2,099",1.0,1.0,2700 Aquitaine Avenue
+1987,Aquitaine Avenue,"$2,269",1.0,1.0,2700 Aquitaine Avenue
+1988,Aquitaine Avenue,"$2,299",1.0,1.0,2700 Aquitaine Avenue
+1989,Shashikantha Viswanatha,"$1,785",1.0,1.0,12 Oakburn Crescent 
+1990,Ivory,"$2,850",1.0,1.0,400 Adelaide St E 
+1991,10 Park Lawn Rd,"$2,175",1.0,1.0,
+1992,15 Jersey Ave,"$3,500",1.0,1.0,
+1993,1384 Hollyrood Ave,"$4,500",3.0,3.0,
+1994,5 Donnybrook Ln,"$4,300",3.0,3.0,
+1995,17 Mcclinchy Ave,"$8,800",4.5,4.5,
+1996,155 Legion Rd N | Unit: 1503,"$3,000",2.0,2.0,
+1997,21 Carlton St | Unit: 1401,"$2,800",2.0,2.0,
+1998,Book Showing (416) 828-9064 (Marius),"$2,400",2.0,2.0,
+1999,18 Stafford St,"$2,600",1.0,1.0,18 Stafford St
+2000,488 University Ave,"$2,700",1.0,1.0,
+2001,488 University Ave,"$2,700",1.0,1.0,
+2002,Beautiful 2Bed+Den 2Bath Downtown Toronto Condo,"$3,000",2.0,2.0,313 Richmond Street East
+2003,5 Benlamond Avenue,"$2,500",1.0,1.0,5 Benlamond
+2004,88 Scott,"$3,500",1.0,1.0,88 Scott St
+2005,88 Scott,"$6,490",2.0,2.0,88 Scott St
+2006,750 Bay St,"$3,300",2.0,2.0,
+2007,Lake Promenade Community,"$1,250",1.0,1.0,21 Park Blvd.
+2008,Lake Promenade Community,"$1,550",1.0,1.0,21 Park Blvd.
+2009,Lake Promenade Community,"$1,700",1.0,1.0,21 Park Blvd.
+2010,Lake Promenade Community,"$2,000",1.0,1.0,21 Park Blvd.
+2011,65 Emmett Ave,$950,1.0,1.0,65 Emmett Ave
+2012,Heath Residence,$650,1.0,1.0,325 Bogert Ave
+2013,Heath Residence,"$1,250",1.0,1.0,325 Bogert Ave
+2014,Heath Residence,"$1,350",1.0,1.0,325 Bogert Ave
+2015,Heath Residence,"$1,650",1.0,1.0,325 Bogert Ave
+2016,561 Sherbourne,Inquire,1.0,1.0,561 Sherbourne Street
+2017,561 Sherbourne,Inquire,1.0,1.0,561 Sherbourne Street
+2018,Northview Terrace Apartments,"$1,600",1.0,1.0,2515 Bathurst Street
+2019,Northview Terrace Apartments,"$1,750",1.0,1.0,2515 Bathurst Street
+2020,Northview Terrace Apartments,"$2,250",1.0,1.0,2515 Bathurst Street
+2021,Northview Terrace Apartments,"$4,500",1.0,1.0,2515 Bathurst Street
+2022,Hampton House North,"$1,600",1.0,1.0,299 Roehampton Ave
+2023,Hampton House North,"$1,865",1.0,1.0,299 Roehampton Ave
+2024,Hampton House North,"$2,250",1.0,1.0,299 Roehampton Ave
+2025,Hampton House North,"$2,350",1.0,1.0,299 Roehampton Ave
+2026,Hampton House North,"$2,375",1.0,1.0,299 Roehampton Ave
+2027,The Royale Apartments,"$1,600 ",1.0,1.0,368 Eglinton Ave East
+2028,The Royale Apartments,"$1,800",1.0,1.0,368 Eglinton Ave East
+2029,The Royale Apartments,"$2,000",1.0,1.0,368 Eglinton Ave East
+2030,Rouge Valley Residence,"$1,600",1.0,1.0,45 Generation Blvd
+2031,Rouge Valley Residence,"$1,750",1.0,1.0,45 Generation Blvd
+2032,Rouge Valley Residence,"$1,995",2.0,2.0,45 Generation Blvd
+2033,Morningside Court Apartments,"$1,450",1.0,1.0,280 Morningside Avenue
+2034,Morningside Court Apartments,"$1,650",1.0,1.0,280 Morningside Avenue
+2035,7171 Yonge St,"$2,200",1.0,1.0,
+2036,The Monde,"$1,985",1.0,1.0,12 Bonnycastle St 
+2037,215 Queen St W | Unit: 501,"$1,920",1.0,1.0,
+2038,Tal Srulovicz,"$2,700",1.0,1.0,322 High Park Ave 
+2039,20 Nabob Crescent,"$1,600",1.0,1.0,
+2040,35 Hayden St | Unit: 807,"$2,400",1.0,1.0,
+2041,65 Harbour Square | Unit: 3209,"$2,450",1.0,1.0,
+2042,111 Bathurst St | Unit: 519,"$2,500",1.0,1.0,
+2043,210 Simcoe St | Unit: 2010,"$2,295",1.0,1.0,
+2044,Marquis at Northtown #1039,"$2,900",2.0,2.0,8 McKee Ave
+2045,Greystone Walk I - 5 Greystone Walk #850,"$1,650",1.0,1.0,5 Greystone Walk Drive
+2046,Cranbrooke Village #3629,"$1,899",1.0,1.0,35 Saranac Blvd
+2047,Avonshire #1941,"$2,100",1.0,1.0,100 Harrison Garden Blvd
+2048,Humberwood II - 700 Humberwood #933,"$1,900",1.0,1.0,700 Humberwood Blvd
+2049,Humberwood II - 700 Humberwood #933,"$2,250",2.0,2.0,700 Humberwood Blvd
+2050,Ultima I - North Tower #1612,"$2,600",2.0,2.0,4978 Yonge St
+2051,The Republic - 25 Broadway #1549,"$2,150",1.0,1.0,25 Broadway Ave
+2052,The Republic - 25 Broadway #1549,"$2,300",1.0,1.0,25 Broadway Ave
+2053,The Republic - 25 Broadway #1549,"$2,300",1.0,1.0,25 Broadway Ave
+2054,The Republic - 25 Broadway #1549,"$3,450",2.0,2.0,25 Broadway Ave
+2055,Icon I - 270 Wellington #3633,"$2,150",1.0,1.0,270 Wellington Street West
+2056,Icon I - 270 Wellington #3633,"$2,250",1.0,1.0,270 Wellington Street West
+2057,Icon I - 270 Wellington #3633,"$2,250",1.0,1.0,270 Wellington Street West
+2058,Meridian I - 15 Greenview #1047,"$2,200",1.0,1.0,15 Greenview Ave
+2059,Meridian I - 15 Greenview #1047,"$2,250",1.0,1.0,15 Greenview Ave
+2060,Meridian I - 15 Greenview #1047,"$2,250",1.0,1.0,15 Greenview Ave
+2061,Meridian I - 15 Greenview #1047,"$2,700",2.0,2.0,15 Greenview Ave
+2062,Trio at Atria #3041,"$1,850",1.0,1.0,50 Ann OReilly Road
+2063,Trio at Atria #3041,"$1,900",1.0,1.0,50 Ann OReilly Road
+2064,Trio at Atria #3041,"$1,900",1.0,1.0,50 Ann OReilly Road
+2065,Trio at Atria #3041,"$1,950",1.0,1.0,50 Ann OReilly Road
+2066,Aristo at Avonshire #311,"$2,550",2.0,2.0,120 Harrison Garden Blvd
+2067,The Palm #1544,"$1,950",1.0,1.0,5740 Yonge Street
+2068,Avondale I - 78 Harrison Garden #535,"$2,250",1.0,1.0,78 Harrison Garden Blvd
+2069,Atria - Alto and Parkside #367,"$2,050",1.0,1.0,55 Ann OReilly Road
+2070,Atria - Alto and Parkside #367,"$2,150",1.5,1.5,55 Ann OReilly Road
+2071,Avondale II - 80 Harrison Garden #555,"$2,700",2.0,2.0,80 Harrison Garden Blvd
+2072,Argento #215,"$1,950",1.0,1.0,18 Graydon Hall Drive
+2073,The Republic - 70 Roehampton #1565,"$2,200",1.0,1.0,70 Roehampton Ave
+2074,The Republic - 70 Roehampton #1565,"$2,300",1.0,1.0,70 Roehampton Ave
+2075,The Republic - 70 Roehampton #1565,"$2,300",1.0,1.0,70 Roehampton Ave
+2076,Glazebrook Avenue Apartments,"$1,749",1.0,1.0,7 Glazebrook Avenue
+2077,55 Stewart St | Unit: 638," $4,000",1.0,1.0,
+2078,50 Wellesley St E | Unit: 4008,"$4,600",3.0,3.0,
+2079,18 BROWNLOW,"$2,250",1.0,1.0,18 Brownlow Ave
+2080,18 BROWNLOW,"$2,350",1.0,1.0,18 Brownlow Ave
+2081,18 BROWNLOW,"$2,650",1.0,1.0,18 Brownlow Ave
+2082,18 BROWNLOW,"$2,700",2.0,2.0,18 Brownlow Ave
+2083,75 Queens Wharf Rd,"$2,215",1.0,1.0,
+2084,Mcgregor Park Apartments,"$1,449",1.0,1.0,2185 Lawrence Ave E
+2085,219 Fort York Blvd,"$2,200",1.0,1.0,
+2086,142 Preston St,$599,1.0,1.0,
+2087,40 Perth Ave,"$4,300",3.0,3.0,
+2088,142 Preston St,"$1,799",1.0,1.0,
+2089,60 Montclair Ave,"$3,199",1.0,1.0,
+2090,311 Woodsworth Rd,"$1,750",1.0,1.0,
+2091,313 Woodsworth Rd," $2,850",2.0,2.0,
+2092,75 Dalhousie St | Unit: 803,"$2,700",1.0,1.0,
+2093,25 Capreol Ct | Unit: 1610,"$2,500",1.0,1.0,
+2094,184 Weston Rd,"$2,450",1.0,1.0,
+2095,3120 Kirwin Ave,"$2,200",1.0,1.0,
+2096,66 Forest Manor Rd,"$1,975",1.0,1.0,
+2097,1+Den 1Bath Toronto Condo in the Heart of Distillery District,"$2,400",1.0,1.0,70 Distillery Lane
+2098,38 Lee Centre Dr,"$1,900",1.0,1.0,38 Lee Centre Dr
+2099,60 Tannery Rd | Unit: 305,"$2,700",2.0,2.0,
+2100,The Canary District Condos,"$2,095",1.0,1.0,455 Front St E 
+2101,39 Verwood Ave,"$2,400",1.0,1.0,
+2102,11 Wellesley St W | Unit: 20,"$2,300",1.0,1.0,
+2103,Britt Condos,"$2,000",1.0,1.0,955 Bay St 
+2104,Briar Hill Condo,"$1,200",1.0,1.0,1110 Briar Hill Ave
+2105,Aquarius at Waterpark City,"$2,200",1.0,1.0,219 Fort York Blvd 
+2106,Wellesley on the park,"$3,500",2.0,2.0,11 Wellesley St W
+2107,Dundas Square Gardens,"$2,250",1.0,1.0,200 Dundas St E
+2108,25 Lower Simcoe St,"$2,270",1.0,1.0,
+2109,173 Don Minaker Dr,"$2,800",4.0,4.0,
+2110,Campus One,"$1,600",2.0,2.0,253 College St 
+2111,2078 Dickson Rd,"$3,000",1.5,1.5,
+2112,Kip District - 20 Thomas Riley Road,"$2,000",1.0,1.0,5308 Dundas St W
+2113,21 Nelson St,"$3,200",2.0,2.0,
+2114,133 Wynford Dr,"$2,100",1.0,1.0,
+2115,7 Hilts Dr,"$2,950",4.0,4.0,
+2116,9 Habitant Dr,"$2,300",1.5,1.5,
+2117,The Harlowe,"$2,100",1.0,1.0,608 Richmond St W 
+2118,251 Vodden St E,"$1,690",1.0,1.0,
+2119,251 Vodden St E,"$2,350",1.0,1.0,
+2120,1103 Leslie St | Unit: 700,"$2,650",2.0,2.0,
+2121,56 Annie Craig Dr,"$2,850",2.0,2.0,
+2122,5 Marine Parade Dr,"$2,850",2.0,2.0,
+2123,215 Queen St W,"$1,600",2.0,2.0,
+2124,1001 Ellesmere Rd,$750,1.0,1.0,
+2125,1001 Ellesmere Rd,$750,1.0,1.0,
+2126,Concorde Place,"$1,990",1.0,1.0,7 Concorde Pl 
+2127,叶霖霖,"$1,600",1.0,1.0,24 Pepperell Crescent 
+2128,One Bloor Condominiums,"$4,000",2.0,2.0,1 Bloor St E 
+2129,Infinity III,"$2,800",2.0,2.0,19 Grand Trunk Crescent
+2130,Hatem Abdalla,"$1,357",1.0,1.0,111 Carlton St 
+2131,35 Summerlea St,"$2,700",4.0,4.0,
+2132,8228 Birchmount Rd | Unit: 236,"$1,800",1.0,1.0,
+2133,75 Memon Pl,"$2,500",4.0,4.0,
+2134,340 The East Mall,"$2,275",1.0,1.0,340 The East Mall
+2135,340 The East Mall,"$2,600",1.5,1.5,340 The East Mall
+2136,704 Winterton Way,"$1,400",1.0,1.0,
+2137,2426 Gerrard St E,"$2,695",2.0,2.0,
+2138,35 Mariner Terrace,"$2,399",1.0,1.0,35 Mariner Terrace
+2139,3879 Skyview St,"$2,700",2.5,2.5,
+2140,Panorama,"$2,475",1.0,1.0,38 Dan Leckie Way 
+2141,549 Lawrence Ave W,"$1,750",1.0,1.0,
+2142,15 Vicora Linkway,"$2,200",1.0,1.0,
+2143,Monde,"$2,200",1.0,1.0,16 Bonnycastle St
+2144,2Bed 2Bath Beautiful North York Condo,"$2,595",2.0,2.0,3237 Bayview Avenue
+2145,Tower Hill East,"$2,500",1.5,1.5,330 Spadina Rd
+2146,Tower Hill East,"$2,800",1.5,1.5,330 Spadina Rd
+2147,Tower Hill East,"$3,500",2.0,2.0,330 Spadina Rd
+2148,105 Rowena Drive,"$1,295",1.0,1.0,105 Rowena Drive
+2149,165 Legion Rd N,"$1,875",1.0,1.0,
+2150,32 Davenport Rd,"$4,000",2.0,2.0,
+2151,Beech Hall Housing Co-Operative,$600,1.0,1.0,2 Humber Blvd
+2152,Beech Hall Housing Co-Operative,$812,1.0,1.0,2 Humber Blvd
+2153,Ford Nixon,Inquire,1.0,1.0,266 Highfield Rd Toronto
+2154,Rideau Towers,"$1,345",1.0,1.0,47 Thorncliffe Park Drive
+2155,Rideau Towers,"$1,655",1.0,1.0,47 Thorncliffe Park Drive
+2156,Rideau Towers,"$1,845",1.5,1.5,47 Thorncliffe Park Drive
+2157,Rideau Towers,"$2,000",2.0,2.0,47 Thorncliffe Park Drive
+2158,Rideau Towers,"$1,325",1.0,1.0,47 Thorncliffe Park Drive
+2159,Rideau Towers,"$1,610",1.0,1.0,47 Thorncliffe Park Drive
+2160,Rideau Towers,"$1,665",1.5,1.5,47 Thorncliffe Park Drive
+2161,Rideau Towers,"$1,925",1.5,1.5,47 Thorncliffe Park Drive
+2162,165 Legion Rd N,"$1,900",1.0,1.0,
+2163,225 Van Horne,"$1,700",1.0,1.0,225 Van Horne Avenue
+2164,225 Van Horne,"$1,750",1.0,1.0,225 Van Horne Avenue
+2165,Two Old Mill,"$3,100",2.0,2.0,2 Old Mill Rd.
+2166,185 Roehampton Ave,"$2,650",1.0,1.0,
+2167,123 Pringdale Gardens Cir,"$2,800",3.5,3.5,
+2168,4070 Confederation Pkwy,"$2,100",1.0,1.0,
+2169,Yorktown on the Park,"$2,300",1.0,1.0,222 The Esplanade 
+2170,Yorktown on the Park,"$2,300",1.0,1.0,222 The Esplanade 
+2171,71 Edenvale Crescent,"$5,500",3.0,3.0,
+2172,71 Edenvale Crescent,"$5,500",3.0,3.0,
+2173,Axiom,"$2,300",1.0,1.0,460 Adelaide St E
+2174,218 Jane St | Unit: 3,"$3,500",1.0,1.0,
+2175,218 Jane St | Unit: 2,"$3,500",1.0,1.0,
+2176,250 St George St | Unit: Unit 302,"$1,900",1.0,1.0,
+2177,Bravo,"$2,400",1.0,1.0,26 Norton Ave 
+2178,5 Michael Power Pl,"$2,500",2.0,2.0,
+2179,68 corporate dr,"$2,300",2.0,2.0,68 Corporate Dr 
+2180,36 lee centre dr,"$2,150",1.0,1.0,36 Lee Centre Dr 
+2181,8 MERCER,"$2,900",2.0,2.0,8 Mercer St 
+2182,18 Ulster St,$750,1.0,1.0,
+2183,11 Lee Centre Dr,"$1,975",1.0,1.0,11 Lee Centre Dr 
+2184,83 Wheatfield Rd,"$1,800",1.0,1.0,
+2185,88 Corporate Dr,"$1,995",1.0,1.0,88 Corporate Dr 
+2186,46 Foxden Road & 110 Cottonwood Drive,"$1,850",1.0,1.0,
+2187,3 Oakhurst Dr | Unit: Basement,"$2,400",1.0,1.0,
+2188,90 Emerson Ave | Unit: Lower,"$2,095",1.0,1.0,
+2189,29 Dearbourne Ave | Unit: B,"$1,675",1.0,1.0,
+2190,Jaideep Singh,"$1,400",1.0,1.0,280 Wellesley St E
+2191,AQUALINA,"$3,750",2.0,2.0,
+2192,Beyond the Sea Condominiums,"$2,700",2.0,2.0,2230 Lake Shore Blvd W 
+2193,100 Parrotta Dr,"$2,450",1.5,1.5,
+2194,Casa Condominiums,"$2,300",1.0,1.0,33 Charles St E 
+2195,Maison Rouge,"$1,900",1.0,1.0,496 Rouge Hills Dr 
+2196,2550 Bathurst St,"$2,200",1.0,1.0,
+2197,Nam Delespierre,$890,1.0,1.0,508 Bathurst St
+2198,Jaspreet Soor,"$1,250",1.0,1.0,8 Brownridge Ct
+2199,175 Wynford Dr,"$2,199",1.0,1.0,
+2200,58 Guild Hall Dr,"$1,900",1.0,1.0,
+2201,3975 Grand Park Dr | Unit: 3408,"$2,800",1.0,1.0,
+2202,Amesbury Apartments,"$1,749",1.0,1.0,1570 Lawrence Ave W
+2203,1400 Sandgate Crescent,"$2,650",1.0,1.0,
+2204,16 Goodless Ct | Unit: Basement,"$1,350",1.0,1.0,
+2205,8 Eglinton Ave E | Unit: 5406,"$2,300",1.0,1.0,
+2206,2560 Eglinton Ave W | Unit: 1710,"$2,500",2.0,2.0,
+2207,19 Barberry Pl,"$2,090",1.0,1.0,
+2208,445 Manning Ave | Unit: A,"$4,095",2.0,2.0,
+2209,63 Felan Crescent,"$1,200",1.0,1.0,
+2210,Malibu @ Harbour Front,"$1,950",1.0,1.0,600 Fleet St 
+2211,27 Huntington Ave,"$1,700",1.0,1.0,
+2212,800 Richmond Street West,"$2,100",1.0,1.0,800 Richmond St W
+2213,36 Lisgar St | Unit: 2012,"$2,550",2.0,2.0,
+2214,27 Bathurst St | Unit: 816,"$2,600",2.0,2.0,
+2215,600 Fleet St | Unit: 619,"$2,600",2.0,2.0,
+2216,633 Bay St | Unit: 2401,"$2,750",2.0,2.0,
+2217,263 Wellington St W | Unit: 402,"$2,800",1.0,1.0,
+2218,75 Queens Wharf Rd | Unit: 2806,"$2,850",1.0,1.0,
+2219,151 Andona Crescent,"$2,195",3.0,3.0,
+2220,29 Continental Rd,"$2,700",2.5,2.5,
+2221,The Bridge,"$3,550",2.0,2.0,38 Joe Shuster Way
+2222,326 High Park Ave | Unit: 4,"$3,295",2.0,2.0,
+2223,1900 Lake Shore Blvd W | Unit: 1502,"$3,200",2.0,2.0,
+2224,54 Hart Ave,"$2,400",1.0,1.0,
+2225,409 Huron St,"$1,150",1.0,1.0,
+2226,588 Parliament St | Unit: 102,"$1,800",1.0,1.0,
+2227,Steven Leca,"$2,200",1.0,1.0,185 Roehampton Ave 
+2228,02 Maisonettes,"$6,975",3.5,3.5,220 George St 
+2229,NXT,"$3,000",1.0,1.0,103 The Queensway
+2230,Vic Park,"$1,949",1.0,1.0,1704 Victoria Park Ave
+2231,Vic Park 2bdrm,"$1,899",1.0,1.0,1704 Victoria Park Ave
+2232,1442 Bloor St W | Unit: main floor,"$1,675",1.0,1.0,
+2233,Red Hot Condos,"$1,900",1.0,1.0,120 Dallimore Cir 
+2234,71 Alfred Paterson Dr | Unit: BSMT,"$1,100",1.0,1.0,
+2235,259 Bellwoods Ave,"$1,990",1.5,1.5,
+2236,Symphony,"$2,650",2.0,2.0,23 Lorraine Dr
+2237,30 Harlington Rd,"$5,500",4.0,4.0,
+2238,215 Queen St W,"$2,050",1.0,1.0,
+2239,250 Sunny Meadow Blvd | Unit: 180,"$2,200",1.5,1.5,
+2240,1571 Mt Pleasant Rd | Unit: Basement,"$1,800",1.0,1.0,
+2241,1571 Mt Pleasant Rd | Unit: Upper,"$2,600",1.0,1.0,
+2242,1571 Mt Pleasant Rd | Unit: Main,"$2,700",1.0,1.0,
+2243,11 Wellesley St W | Unit: 3005,"$3,200",2.0,2.0,
+2244,Jane Parker Square,"$3,000",1.5,1.5,10 Connolly St
+2245,5 Kenneth Ave,"$3,000",1.5,1.5,
+2246,15 Merchants' Wharf,"$2,200",1.0,1.0,
+2247,238 Doris Ave,"$2,600",2.0,2.0,
+2248,60 Byng Ave,"$2,150",1.0,1.0,
+2249,70 Temperance St | Unit: 412,"$2,000",1.0,1.0,
+2250,14 Sandown Ave,"$1,500",1.0,1.0,
+2251,The Foundry Lofts,"$3,500",1.5,1.5,1100 Lansdowne Ave
+2252,4090 Living Arts Dr | Unit: 515,"$2,450",2.0,2.0,
+2253,Newport Beach,"$2,400",1.0,1.0,2111 Lakeshore Blvd W
+2254,King Edward Private Residences,"$2,650",1.0,1.0,22 Leader Ln 
+2255,Redwood Properties,"$1,200",1.0,1.0,
+2256,Redwood Properties,"$1,250",1.0,1.0,
+2257,Redwood Properties,"$1,450",1.0,1.0,
+2258,Redwood Properties,"$1,650",1.0,1.0,
+2259,1775 Weston Road, $962,1.0,1.0,1775 Weston Road
+2260,1775 Weston Road,"$1,137",1.0,1.0,1775 Weston Road
+2261,1775 Weston Road,"$1,544",1.0,1.0,1775 Weston Road
+2262,1775 Weston Road,"$1,341",1.0,1.0,1775 Weston Road
+2263,Bradley Court Apartments,$995,1.0,1.0,280 Dundas St E
+2264,GH Capital Corp.,"$1,850",1.0,1.0,50 Graydon Hall Dr
+2265,GH Capital Corp.,"$2,200",1.5,1.5,50 Graydon Hall Dr
+2266,1 Clinton St,"$3,595",1.0,1.0,
+2267,Castlegate Apartments,"$1,400",1.0,1.0,
+2268,Castlegate Apartments,"$1,525",1.0,1.0,
+2269,Castlegate Apartments,"$1,600",1.0,1.0,
+2270,Castlegate Apartments,"$1,725",1.0,1.0,
+2271,Castlegate Apartments,"$2,000",1.0,1.0,
+2272,Rideau Towers,"$1,315",1.0,1.0,47 Thorncliffe Park Drive
+2273,Rideau Towers,"$1,615",1.0,1.0,47 Thorncliffe Park Drive
+2274,Rideau Towers,"$1,640",1.5,1.5,47 Thorncliffe Park Drive
+2275,Rideau Towers,"$1,965",2.0,2.0,47 Thorncliffe Park Drive
+2276,"35 Saranac Blvd, Toronto","$2,000",1.0,1.0,
+2277,28 Linden Street,"$1,650",1.0,1.0,
+2278,1225 Avenue Rd,"$3,200",2.0,2.0,
+2279,18 Emerson Ave,"$3,599",2.0,2.0,
+2280,6452 Chaumont Crescent,"$2,400",1.0,1.0,
+2281,The Richmond,"$3,000",2.0,2.0,313 Richmond St E 
+2282,420 Brimorton Dr,$750,3.0,3.0,
+2283,634 Crawford St,"$2,600",2.0,2.0,
+2284,Symphony,"$2,690",2.0,2.0,23 Lorraine Dr
+2285,Ajeet Sahijwani,"$1,600",1.0,1.0,12 Shandon Dr
+2286,35 Hollywood Avenue,"$2,900",2.0,2.0,35 Hollywood Ave
+2287,650 Atwater Ave,"$2,450",2.0,2.0,
+2288,1Bed 1Bath Apartment of Toronto Home at Bloor & Ossington,"$2,300",1.0,1.0,
+2289,2Bed 1Bath Lytton Park Area Apartment Near Yonge & Eglinton,"$2,500",1.0,1.0,
+2290,174 Dalhousie Unit 141,"$3,000",3.0,3.0,174 Dalhousie Street #141
+2291,1110 Caven St.,"$1,917",1.0,1.0,1110  Caven St.
+2292,1110 Caven St.,"$2,266",1.0,1.0,1110  Caven St.
+2293,70 Parkwoods Village Dr.,"$2,054",1.0,1.0,70 Parkwoods Village Dr.
+2294,70 Parkwoods Village Dr.,"$2,365",1.0,1.0,70 Parkwoods Village Dr.
+2295,70 Parkwoods Village Dr.,"$2,424",1.0,1.0,70 Parkwoods Village Dr.
+2296,77 Parkwoods Village Dr.,"$2,018",1.0,1.0,77 Parkwoods Village Dr.
+2297,77 Parkwoods Village Dr.,"$2,235",1.0,1.0,77 Parkwoods Village Dr.
+2298,3914 Beechnut Row,"$2,800",2.5,2.5,3941 Beechnut Row
+2299,440 Eglinton Apartments,"$1,825",1.0,1.0,440 Eglinton Avenue East
+2300,440 Eglinton Apartments,"$1,900",1.0,1.0,440 Eglinton Avenue East
+2301,Brownstone on the Park,"$2,998",2.0,2.0,12 foundry avenue rd
+2302,Musee - 525 Adelaide Street West,"$2,500",1.0,1.0,525 Adelaide Street West
+2303,Musee - 525 Adelaide Street West,"$2,600",2.0,2.0,525 Adelaide Street West
+2304,Musee - 525 Adelaide Street West,"$3,950",2.0,2.0,525 Adelaide Street West
+2305,Strathroy Manor,"$1,650",1.0,1.0,1470 Williamsport Road
+2306,2900 Hwy 7 | Unit: 4,"$2,000",1.0,1.0,
+2307,520 Lynett Crescent,"$2,550",2.0,2.0,
+2308,89 Claremont St | Unit: 1,"$3,200",2.0,2.0,
+2309,The Cumberland Tower Condos,"$2,200",1.0,1.0,188 Cumberland St
+2310,Pinnacle on Adelaide,"$2,450",1.0,1.0,295 Adelaide St W
+2311,314 Derrydown Rd,"$2,400",1.0,1.0,
+2312,The Modern,"$1,950",1.0,1.0,320 Richmond St E 
+2313,15 Northtown Way | Unit: 2324,"$2,500",2.0,2.0,
+2314,The 488 University Residences,"$2,250",1.0,1.0,488 University Ave 
+2315,The 488 University Residences,"$2,900",2.0,2.0,488 University Ave 
+2316,The 488 University Residences,"$3,950",2.0,2.0,488 University Ave 
+2317,3975 Grand Park Dr,"$2,800",2.0,2.0,
+2318,26 Hanover Rd,"$2,100",1.5,1.5,
+2319,1Bed 1Bath Toronto Condo at Yonge & St. Clair,"$2,400",1.0,1.0,
+2320,2Bed 2Bath Beautiful Regent Park Toronto Condo,"$2,600",2.0,2.0,1 Cole Street
+2321,The Carlaw,"$2,250",1.0,1.0,1190 Dundas St E
+2322,Poplar Grove,"$1,825",1.0,1.0,125 Parkway Forest Drive
+2323,Poplar Grove,"$1,875",1.0,1.0,125 Parkway Forest Drive
+2324,Poplar Grove,"$2,000",1.0,1.0,125 Parkway Forest Drive
+2325,Poplar Grove,"$2,050",1.0,1.0,125 Parkway Forest Drive
+2326,Upper Canada Court (160),"$1,550",1.0,1.0,
+2327,Upper Canada Court (160),"$1,625",1.0,1.0,
+2328,Upper Canada Court (160),"$1,800",1.0,1.0,
+2329,Upper Canada Court (160),"$1,875",1.0,1.0,
+2330,Upper Canada Court (140),"$1,550",1.0,1.0,
+2331,Upper Canada Court (140),"$1,675",1.0,1.0,
+2332,Upper Canada Court (140),"$1,800",1.0,1.0,
+2333,Upper Canada Court (140),"$1,850",1.0,1.0,
+2334,Upper Canada Court (110),"$1,600",1.0,1.0,
+2335,Upper Canada Court (110),"$1,650",1.0,1.0,
+2336,Upper Canada Court (110),"$1,825",1.0,1.0,
+2337,Upper Canada Court (110),"$1,875",1.0,1.0,
+2338,Pharmacy Place,"$1,725",1.0,1.0,263/273/283 Pharmacy Avenue
+2339,Pharmacy Place,"$1,775",1.0,1.0,263/273/283 Pharmacy Avenue
+2340,Pharmacy Place,"$1,625",1.0,1.0,263/273/283 Pharmacy Avenue
+2341,Pharmacy Place,"$1,800",1.0,1.0,263/273/283 Pharmacy Avenue
+2342,Pharmacy Place,"$1,975",1.0,1.0,263/273/283 Pharmacy Avenue
+2343,Pharmacy Place,"$2,000",1.0,1.0,263/273/283 Pharmacy Avenue
+2344,Lakewood Apartments I,"$1,750",1.0,1.0,1257  Lakeshore Road East
+2345,Lakewood Apartments I,"$1,825",1.0,1.0,1257  Lakeshore Road East
+2346,Brock Tower,"$1,800",1.0,1.0,5 Brockley Drive
+2347,Brock Tower,"$1,850",1.0,1.0,5 Brockley Drive
+2348,Balfour Square,"$1,975",1.0,1.0,50 Rosehill Avenue
+2349,Balfour Square,"$2,075",1.0,1.0,50 Rosehill Avenue
+2350,Balfour Square,"$3,175",2.0,2.0,50 Rosehill Avenue
+2351,Balfour Square,"$3,225",2.0,2.0,50 Rosehill Avenue
+2352,1000 Mount Pleasant - Yonge and Eglinton,"$2,725",1.5,1.5,1000 Mount Pleasant Road
+2353,1000 Mount Pleasant - Yonge and Eglinton,"$2,775",1.5,1.5,1000 Mount Pleasant Road
+2354,1000 Mount Pleasant - Yonge and Eglinton,"$2,875",1.5,1.5,1000 Mount Pleasant Road
+2355,1000 Mount Pleasant - Yonge and Eglinton,"$2,925",1.5,1.5,1000 Mount Pleasant Road
+2356,15 Dundonald Street,"$1,965",1.0,1.0,15 Dundonald Street
+2357,15 Dundonald Street,"$2,048",1.0,1.0,15 Dundonald Street
+2358,15 Dundonald Street,"$2,549",1.0,1.0,15 Dundonald Street
+2359,832 Bay St #2907,"$2,200",1.0,1.0,832 #2907 Bay Street
+2360,46 Western Battery Rd #837,"$2,700",2.0,2.0,46 Western Battery Road #837
+2361,82 Warren Road,"$1,928",1.0,1.0,82 Warren Road
+2362,82 Warren Road,"$2,347",1.0,1.0,82 Warren Road
+2363,Heathdale Court,"$1,749",1.0,1.0,1596-1598 Bathurst Street
+2364,Heathdale Court,"$1,992",1.0,1.0,1596-1598 Bathurst Street
+2365,2450 & 2460 Weston Rd.,"$1,777",1.0,1.0,
+2366,2450 & 2460 Weston Rd.,"$2,001",1.0,1.0,
+2367,2240 Weston Rd.,"$1,620",1.0,1.0,2240 Weston Rd.
+2368,2240 Weston Rd.,"$2,125",1.0,1.0,2240 Weston Rd.
+2369,7 Elizabeth St. North,"$2,214",1.0,1.0,7 Elizabeth St. North
+2370,1980 Fowler Dr.,"$1,929",1.0,1.0,1980  Fowler Dr.
+2371,1980 Fowler Dr.,"$2,160",1.0,1.0,1980  Fowler Dr.
+2372,1980 Fowler Dr.,"$2,402",1.0,1.0,1980  Fowler Dr.
+2373,1970 Fowler Dr.,"$1,830",1.0,1.0,1970 Fowler Dr.
+2374,1970 Fowler Dr.,"$2,127",1.0,1.0,1970 Fowler Dr.
+2375,1970 Fowler Dr.,"$2,352",1.0,1.0,1970 Fowler Dr.
+2376,440 Rathburn Road,"$1,929",1.0,1.0,440 Rathburn Road
+2377,440 Rathburn Road,"$2,649",1.5,1.5,440 Rathburn Road
+2378,Jun Huang,"$2,450",1.5,1.5,3020 Cedarglen Gate
+2379,151 Augusta Ave,"$2,500",2.0,2.0,
+2380,23 Lorraine Dr,"$2,650",1.0,1.0,23 Lorraine Dr
+2381,90 Stadium,"$3,000",2.0,2.0,90 Stadium Rd 
+2382,Blair Fix,"$1,400",1.0,1.0,2 Beck Ave
+2383,133 N Bonnington Ave,"$2,800",1.5,1.5,
+2384,1730 Eglinton Ave E | Unit: 511,"$2,297",2.0,2.0,
+2385,Bisha Hotel Residence,"$2,750",1.0,1.0,88 Blue Jays Way
+2386,Casa II,"$2,175",1.0,1.0,42 Charles St E
+2387,1 Salt Creek Ave,$899,1.0,1.0,
+2388,College Park Residences,"$2,750",1.0,1.0,761 Bay St 
+2389,188 Doris Ave,"$2,650",2.0,2.0,
+2390,630 Queen St E,"$1,950",1.0,1.0,
+2391,4 Lucy Ave,"$2,300",1.0,1.0,
+2392,Northview,"$1,995",1.0,1.0,2837 Yonge St 
+2393,Imperial Plaza,"$2,100",1.0,1.0,111 St Clair Ave W 
+2394,161 Roehampton Ave | Unit: 2712,"$2,000",1.0,1.0,
+2395,35 Hayden St | Unit: 1411,"$2,300",1.0,1.0,
+2396,1035 Sheppard Ave W,"$1,050",1.0,1.0,
+2397,179 Orton Park Rd,"$2,200",1.0,1.0,
+2398,275 St Clair Ave E | Unit: 2,"$2,500",1.0,1.0,
+2399,3Bed 2Bath Home at Dufferin & Eglinton Toronto,"$2,950",2.0,2.0,
+2400,2Bed+Den 1Bath Main Floor of Home in Corso Italia,"$2,500",1.0,1.0,5 Greenlaw Avenue
+2401,158 Annette St,"$1,850",1.0,1.0,
+2402,11 Oneida Crescent,"$2,300",1.0,1.0,
+2403,35 Mariner Terrace,"$2,250",1.0,1.0,35 Mariner Terrace
+2404,3090 Bathurst St,"$1,050",1.0,1.0,
+2405,10 Park Lawn Rd,"$1,995",1.0,1.0,
+2406,Westlake Encore Condos,"$1,995",1.0,1.0,10 Park Lawn Rd
+2407,Palais at Port Royal Place Condos," $2,295",1.0,1.0,3 Michael Power Pl
+2408,Newton Condos,"$2,095",1.0,1.0,70 Queens Wharf Rd
+2409,23 Oneida Crescent,"$2,295 ",1.0,1.0,
+2410,Jovita Pinto,"$2,700",2.0,2.0,25 Town Centre Court 
+2411,Flaire Condos,"$2,095",1.0,1.0,99 The Donway W
+2412,Couture Condos,"$2,295",1.0,1.0,28 Ted Rogers Way
+2413,Rideau Towers,"$1,330",1.0,1.0,47 Thorncliffe Park Drive
+2414,Rideau Towers,"$1,650",1.0,1.0,47 Thorncliffe Park Drive
+2415,Rideau Towers,"$1,870",1.5,1.5,47 Thorncliffe Park Drive
+2416,Rideau Towers,"$1,980",2.0,2.0,47 Thorncliffe Park Drive
+2417,Rideau Towers,"$2,105",2.0,2.0,47 Thorncliffe Park Drive
+2418,"Brock Avenue, Toronto, ON, Canada","$1,300",1.0,1.0,
+2419,30 Page Ave,"$2,550",2.5,2.5,
+2420,"Stanley Avenue, Etobicoke, ON, Canada","$2,800",1.0,1.0,
+2421,The Quay,"$2,257",1.0,1.0,350 Queens Quay West
+2422,The Quay,"$2,700",1.0,1.0,350 Queens Quay West
+2423,The Quay,"$3,727",1.0,1.0,350 Queens Quay West
+2424,West Lake Village,"$2,600",2.0,2.0,2220 Lake Shore Blvd W
+2425,Thornhill woods townhouse,"$2,700",3.0,3.0,93 Daniel Reaman Crescent
+2426,10 Berry Creek Drive,"$2,000",1.0,1.0,
+2427,Harrison,"$2,175",1.0,1.0,105 Harrison Garden Blvd.
+2428,Harrison,"$2,095",1.0,1.0,105 Harrison Garden Blvd.
+2429,Harrison,"$2,595",1.5,1.5,105 Harrison Garden Blvd.
+2430,Harrison,"$2,895",2.0,2.0,105 Harrison Garden Blvd.
+2431,Harrison,"$2,895",2.0,2.0,105 Harrison Garden Blvd.
+2432,Couture Condos,"$2,295",1.0,1.0,28 Ted Rogers Way
+2433,Magdalena Bembenek,"$2,500",1.0,1.0,209 Fort York Blvd 
+2434,Kip Disitrict 1,"$1,950",1.0,1.0,5365 Dundas St W 
+2435,68 Garnet Ave | Unit: Ground,"$2,795",1.0,1.0,
+2436,300 Front St W | Unit: 2409,"$2,450",1.0,1.0,
+2437,Jason Menard,"$3,600",1.5,1.5,550 Front St W
+2438,300 front street,"$2,400",1.0,1.0,300 Front St W
+2439,255 Windermere Ave,"$3,500",1.0,1.0,
+2440,179 Hillside Ave,"$2,950",2.0,2.0,
+2441,The Matrix,"$2,250",1.0,1.0,361 Front St W 
+2442,775 Military Trail,$690,1.0,1.0,
+2443,40 Dimplefield Pl,"$1,800",1.0,1.0,
+2444,20 Church St E | Unit: 5,"$1,595",1.0,1.0,
+2445,The Gooderham,"$3,430",2.0,2.0,390 Cherry St 
+2446,60 Haslett Ave,"$2,050",1.0,1.0,
+2447,Princess Place III,"$2,300",1.0,1.0,22 Olive Ave 
+2448,63 St Mary St,"$9,000",3.0,3.0,
+2449,188 Cumberland St,"$4,000",1.0,1.0,
+2450,7 Grenville St,"$5,350",2.0,2.0,
+2451,510 King St E,"$3,100",2.0,2.0,
+2452,5 Sheppard Ave E,"$3,200",1.0,1.0,5 Sheppard Ave E
+2453,Beautiful 1Bed 1Bath Condo in Toronto Distillery District,"$2,250",1.0,1.0,390 Cherry Street
+2454,285 Mutual St,"$3,250",1.0,1.0,
+2455,133 Hazelton Ave,"$4,200",1.0,1.0,
+2456,300 Front St W,"$6,500",3.0,3.0,300 Front St W
+2457,Ian Serota,"$10,000",2.5,2.5,183 Wellington St W 
+2458,22 Wolverleigh Blvd,"$1,450",1.0,1.0,
+2459,Avani 2,"$1,950",2.0,2.0,275 Village Green Square 
+2460,345 Merton St,"$1,850",1.0,1.0,
+2461,345 Merton St,"$1,700",1.0,1.0,
+2462,170 Bayview Ave | Unit: 2403,"$2,500",1.0,1.0,
+2463,Vu condo,"$2,600",1.0,1.0,116 George St
+2464,11 Wellesley,"$2,300",1.0,1.0,11 Wellesley St W 
+2465,Britt Condos,"$2,000",1.0,1.0,955 Bay St 
+2466,Windermere By the Lake,"$2,400",2.0,2.0,15 Windermere Ave 
+2467,11 Wellesley St W | Unit: 4206,"$2,500",1.0,1.0,
+2468,ZIGG,"$2,400",1.0,1.0,223 St Clair Ave W
+2469,East United Condos,"$1,925",1.0,1.0,120 Parliament St 
+2470,Eva Johnston-Iafelice,"$1,450",1.5,1.5,65 Southport St 
+2471,981 Shaw St,"$1,400",1.0,1.0,
+2472,24 Decarie Cir,"$1,700",1.0,1.0,
+2473,THE HARLOWE,"$2,300",1.0,1.0,608 Richmond St W 
+2474,Metropole,"$3,350",2.0,2.0,7 King St E 
+2475,339 Rathburn Rd W | Unit: 1608," $2,450",1.0,1.0,
+2476,The Montebello,"$1,100",1.0,1.0,21 Mayfair Ave
+2477,Walkout basement,"$1,500",1.0,1.0,10 Dartmoor Dr
+2478,WestLake,"$2,900",2.0,2.0,2212 Lake Shore Blvd W 
+2479,630 Queen St E | Unit: 724,"$2,700",2.0,2.0,
+2480,87 Clydesdale,"$2,450",1.0,1.0,87 Clydesdale Dr
+2481,87A Clydesdale,"$1,950",1.5,1.5,87 Clydesdale Dr 
+2482,202 Finch Ave E,"$1,500",1.0,1.0,
+2483,101 Peter St | Unit: 701,"$2,275",1.0,1.0,
+2484,322 Queen St W | Unit: 2 R,"$2,950",1.0,1.0,
+2485,COSMO CONDO - 35 BALES AVE.,"$2,000",1.0,1.0,35 Bales Ave
+2486,600 Fleet St,"$2,245",1.0,1.0,
+2487,The Residences 488 University Ave.,"$3,950",2.0,2.0,488 University Ave 
+2488,Toy Factory Loft,"$3,000",1.0,1.0,43 Hanna Ave 
+2489,113 McMahon Dr,"$1,000",1.0,1.0,
+2490,Irina,"$1,950",1.0,1.0,70 Clegg Rd
+2491,47 Benlamond Ave | Unit: 10,"$2,590",1.0,1.0,
+2492,400 Wellington St W,"$3,675",2.0,2.0,
+2493,5 Princess Diana Dr,"$2,250",2.5,2.5,
+2494,43 Eglinton Avenue East,"$2,550",1.0,1.0,43 Eglinton Ave E 
+2495,43 Eglinton Ave E,"$2,575",1.0,1.0,
+2496,The Carlaw,"$2,500",1.0,1.0,1190 Dundas St E
+2497,ME2,"$1,600",2.0,2.0,1151 Markham Rd 
+2498,116 Medland St,"$2,095",1.0,1.0,
+2499,650 Sheppard Ave E | Unit: 217,"$2,300",1.0,1.0,
+2500,48 Wilkinson Dr," $2,900",4.0,4.0,
+2501,899 Queen St E,"$2,495",1.0,1.0,
+2502,36 Lisgar St | Unit: PH,"$2,700",2.0,2.0,
+2503,178 Bellefair Avenue,"$5,000",1.5,1.5,178 Bellefair Ave 
+2504,Tova Linnea Persson,"$1,600",1.0,1.0,70 Spadina Rd 
+2505,43 Eglinton Ave East,"$2,500",1.0,1.0,43 Eglinton Ave E 
+2506,Amanda Storey,"$2,000",1.0,1.0,225 Gladstone Ave 
+2507,The Grid,"$2,100",1.0,1.0,181 Dundas St E 
+2508,Soho,"$2,850",1.5,1.5,36 Blue Jays Way 
+2509,215 Queen St W | Unit: 501,"$1,980",1.0,1.0,
+2510,2400 Bathurst St | Unit: 407,"$2,600",1.0,1.0,
+2511,12 Rosemount Dr,"$1,950",1.0,1.0,
+2512,1+Den 1Bath Beautiful Condo in Toronto Entertainment District,"$2,750",1.0,1.0,8 Charlotte Street
+2513,2Bed 1Bath Apartment of Home in High Park by Keele & Bloor,"$2,600",1.0,1.0,
+2514,DeHaviland Court,"$1,884",1.0,1.0,3390 Keele Street
+2515,DeHaviland Court,"$2,030",1.0,1.0,3390 Keele Street
+2516,DeHaviland Court,"$2,658",1.5,1.5,3390 Keele Street
+2517,Rideau Towers,"$1,525",1.0,1.0,47 Thorncliffe Park Drive
+2518,Rideau Towers,"$1,650",1.0,1.0,47 Thorncliffe Park Drive
+2519,Rideau Towers,"$1,695",1.0,1.0,47 Thorncliffe Park Drive
+2520,Rideau Towers,"$1,805",1.0,1.0,47 Thorncliffe Park Drive
+2521,Rideau Towers,"$2,095",1.0,1.0,47 Thorncliffe Park Drive
+2522,Farhad Eslah,"$1,000",1.0,1.0,286 Greenwood Ave
+2523,846 College St | Unit: Level 3,"$2,850",1.0,1.0,
+2524,Circa,"$1,900",1.0,1.0,33 Cox Blvd 
+2525,786 Fable Crescent,"$1,500",1.0,1.0,
+2526,Townhouse,"$2,400",3.0,3.0,51 Peninsula Crescent
+2527,110 Jameson Ave,"$1,525",1.0,1.0,110 Jameson Ave
+2528,110 Jameson Ave,"$1,675",1.0,1.0,110 Jameson Ave
+2529,110 Jameson Ave,"$2,195",1.0,1.0,110 Jameson Ave
+2530,58 Bestview House,"$2,695",4.0,4.0,58 Bestview Dr
+2531,1-Bedroom Keele/Hwy 401,"$1,100",1.0,1.0,2625 Keele Street
+2532,GH Capital Corp.,"$1,725",1.0,1.0,50 Graydon Hall Dr
+2533,GH Capital Corp.,"$1,975",1.0,1.0,50 Graydon Hall Dr
+2534,GH Capital Corp.,"$2,350",1.5,1.5,50 Graydon Hall Dr
+2535,Chicago Condominiums,$875,2.0,2.0,
+2536,"9471 Yonge St, Richmond Hill","$1,950",2.0,2.0,
+2537,GH Capital Corp.,"$2,450",1.0,1.0,50 Graydon Hall Dr
+2538,280 Simcoe Street,"$2,700",1.0,1.0,
+2539,Primo tower,Inquire,1.0,1.0,3425 Weston Rd
+2540,Primo tower,Inquire,1.0,1.0,3425 Weston Rd
+2541,Primo tower,Inquire,2.0,2.0,3425 Weston Rd
+2542,Primo tower,Inquire,2.0,2.0,3425 Weston Rd
+2543,WELLESLEY ON THE PARK,"$2,250",1.0,1.0,11 Wellesley St E
+2544,Canary Block," $2,000",1.0,1.0,60 Tannery Rd 
+2545,BEYOND THE SEA - South Tower!!,"$2,050",1.0,1.0,2240 Lake Shore Blvd W 
+2546,Burano,"$2,500",1.0,1.0,832 Bay St
+2547,168 Wincott Dr,"$3,500",2.0,2.0,
+2548,832 Bay St,"$2,500",1.0,1.0,
+2549,161 Plewes Rd,"$2,000",1.0,1.0,
+2550,Sync Lofts,"$2,000",1.0,1.0,630 Queen St E 
+2551,Axiom,"$3,150",2.0,2.0,460 Adelaide St E
+2552,U Condo,"$2,700",1.0,1.0,65 St Mary St
+2553,222 Wineva Ave,"$1,200",1.0,1.0,
+2554,188 Cumberland St | Unit: 1609,"$2,000",1.0,1.0,
+2555,4694 Centretown Way,"$1,800",1.0,1.0,
+2556,Pure Spirit Lofts,"$2,050",1.0,1.0,33 Mill St 
+2557,Limelight North,"$1,899",1.0,1.0,360 Square One Drive
+2558,Southwood,"$2,900",2.0,2.0,630 Kingston Rd.
+2559,Bellair Gardens,"$2,450",2.0,2.0,18 Valley Woods Rd.
+2560,Cinema Tower,"$3,425",2.0,2.0,21 Widmer St 
+2561,1Bed 1Bath Lower Level Apartment in Little Italy,"$1,750",1.0,1.0,27 Rosemount Avenue
+2562,FORM #3444,"$1,975",1.0,1.0,50 McCaul Street
+2563,FORM #3444,"$1,975",1.0,1.0,50 McCaul Street
+2564,FORM #3444,"$2,000",1.0,1.0,50 McCaul Street
+2565,FORM #3444,"$2,000",1.0,1.0,50 McCaul Street
+2566,FORM #3444,"$2,100",1.0,1.0,50 McCaul Street
+2567,FORM #3444,"$2,150",1.0,1.0,50 McCaul Street
+2568,FORM #3444,"$2,150",1.0,1.0,50 McCaul Street
+2569,FORM #3444,"$2,150",1.0,1.0,50 McCaul Street
+2570,FORM #3444,"$2,200",1.0,1.0,50 McCaul Street
+2571,FORM #3444,"$2,300",1.0,1.0,50 McCaul Street
+2572,FORM #3444,"$2,450",1.0,1.0,50 McCaul Street
+2573,FORM #3444,"$2,450",1.0,1.0,50 McCaul Street
+2574,FORM #3444,"$2,500",1.0,1.0,50 McCaul Street
+2575,FORM #3444,"$2,150",2.0,2.0,50 McCaul Street
+2576,FORM #3444,"$2,195",2.0,2.0,50 McCaul Street
+2577,FORM #3444,"$2,250",2.0,2.0,50 McCaul Street
+2578,FORM #3444,"$2,350",2.0,2.0,50 McCaul Street
+2579,FORM #3444,"$2,400",2.0,2.0,50 McCaul Street
+2580,FORM #3444,"$2,400",2.0,2.0,50 McCaul Street
+2581,FORM #3444,"$2,450",2.0,2.0,50 McCaul Street
+2582,FORM #3444,"$2,500",2.0,2.0,50 McCaul Street
+2583,FORM #3444,"$2,500",2.0,2.0,50 McCaul Street
+2584,FORM #3444,"$2,600",2.0,2.0,50 McCaul Street
+2585,FORM #3444,"$2,600",1.0,1.0,50 McCaul Street
+2586,14 Soho St | Unit: 2,"$4,350",3.0,3.0,
+2587,417 Glengrove Ave W,"$1,950",1.0,1.0,
+2588,326 Beechgrove Dr,$750,1.0,1.0,
+2589,Burano Condos,"$2,500",1.0,1.0,832 Bay St
+2590,39 Treverton Dr,"$1,600",1.0,1.0,
+2591,31 United Square,"$1,500",1.0,1.0,
+2592,10 Edgebrook Dr,"$1,600",1.0,1.0,
+2593,10 Edgebrook Dr,"$1,600",1.5,1.5,
+2594,Beautiful 3Bed 2.5Bath Home in Stockyards District Toronto,"$2,900",2.5,2.5,1920 St. Clair Ave. W.
+2595,100 Roehampton Avenue,"$1,900",1.0,1.0,100 Roehampton Avenue
+2596,42 Charles condo,"$1,800",1.0,1.0,42 Charles St E 
+2597,V6,"$3,740",1.0,1.0,1602 Queen St E
+2598,V6,"$3,740",1.0,1.0,1602 Queen St E
+2599,V6,"$3,900",1.0,1.0,1602 Queen St E
+2600,V6,"$3,900",1.0,1.0,1602 Queen St E
+2601,V6,"$3,900",1.0,1.0,1602 Queen St E
+2602,V6,"$3,900",1.0,1.0,1602 Queen St E
+2603,V6,"$5,620",2.5,2.5,1602 Queen St E
+2604,V6,"$5,620",2.5,2.5,1602 Queen St E
+2605,Maple Leaf Square,"$1,900",1.0,1.0,55 Bremner Blvd 
+2606,99 Parkside Dr | Unit: 1B,"$2,290",1.0,1.0,
+2607,41 Wilmont Ct,"$2,400",3.0,3.0,
+2608,House,"$1,400",1.0,1.0,1194 Westerdam Rd
+2609,Wayne Murdock,"$2,500",1.0,1.0,250 Wellington St W 
+2610,Residences at 77,"$2,289",1.0,1.0,77  Roehampton Avenue
+2611,125 Bamburgh Circle,"$1,806",1.0,1.0,125 Bamburgh Circle
+2612,125 Bamburgh Circle," $1,966",1.0,1.0,125 Bamburgh Circle
+2613,125 Bamburgh Circle,"$2,609",1.0,1.0,125 Bamburgh Circle
+2614,155 Hillcrest Avenue Mississauga,"$2,600",2.0,2.0,155 Hillcrest Ave 
+2615,3351 Cawthra Rd | Unit: 119,"$2,350",2.0,2.0,
+2616,78 Tecumseth St | Unit: 231,"$2,750",1.0,1.0,
+2617,772 Queen St E,"$2,050",1.0,1.0,
+2618,772 Queen St E,"$2,200",1.0,1.0,
+2619,772 Queen St E,"$2,250",1.0,1.0,
+2620,772 Queen St E,"$3,300",1.0,1.0,
+2621,772 Queen St E,"$3,300",1.5,1.5,
+2622,772 Queen St E,"$3,200",1.5,1.5,
+2623,772 Queen St E,"$3,400",1.5,1.5,
+2624,772 Queen St E,"$3,600",2.0,2.0,
+2625,772 Queen St E,"$3,800",2.0,2.0,
+2626,772 Queen St E,"$3,900",2.0,2.0,
+2627,193 Augusta Ave | Unit: Lower-level,"$2,100",1.0,1.0,
+2628,6 rosebank drive,"$1,600",1.0,1.0,6 Rosebank Dr
+2629,215 Fort York Blvd,"$2,300",1.0,1.0,215 Fort York Blvd
+2630,215 Fort York Blvd," $2,300",1.0,1.0,215 Fort York Blvd
+2631,10 Tapscott Rd,"$1,750",1.0,1.0,
+2632,300 Old Weston Rd,"$2,000",1.0,1.0,
+2633,621 Sheppard Ave E,"$1,950",1.0,1.0,
+2634,22 William Hancox Ave,"$4,000",3.5,3.5,
+2635,Fuse II,"$3,500",1.0,1.0,1420 Dupont St
+2636,231 Christie St | Unit: 1,"$3,300",2.0,2.0,
+2637,Fly Condos,"$3,999",2.0,2.0,352 Front St W
+2638,30 Roe,"$2,200",1.0,1.0,30 Roehampton Ave 
+2639,The Selby,"$2,290",1.0,1.0,25 Selby St 
+2640,The Selby,"$2,395",1.0,1.0,25 Selby St 
+2641,The Selby,"$2,400",1.0,1.0,25 Selby St 
+2642,The Selby,"$2,420",1.0,1.0,25 Selby St 
+2643,The Selby,"$2,430",1.0,1.0,25 Selby St 
+2644,The Selby,"$2,445",1.0,1.0,25 Selby St 
+2645,The Selby,"$2,455",1.0,1.0,25 Selby St 
+2646,The Selby,"$2,455",1.0,1.0,25 Selby St 
+2647,The Selby,"$2,465",1.0,1.0,25 Selby St 
+2648,The Selby,"$2,525",1.0,1.0,25 Selby St 
+2649,The Selby,"$2,530",1.0,1.0,25 Selby St 
+2650,The Selby,"$2,590",1.0,1.0,25 Selby St 
+2651,The Selby,"$2,590",1.0,1.0,25 Selby St 
+2652,The Selby,"$2,605",1.0,1.0,25 Selby St 
+2653,The Selby,"$2,610",1.0,1.0,25 Selby St 
+2654,The Selby,"$2,620",1.0,1.0,25 Selby St 
+2655,The Selby,"$2,625",1.0,1.0,25 Selby St 
+2656,The Selby,"$2,630",1.0,1.0,25 Selby St 
+2657,The Selby,"$2,675",1.0,1.0,25 Selby St 
+2658,The Selby,"$2,700",1.0,1.0,25 Selby St 
+2659,The Selby,"$2,755",1.0,1.0,25 Selby St 
+2660,The Selby,"$2,755",1.0,1.0,25 Selby St 
+2661,The Selby,"$2,755",1.0,1.0,25 Selby St 
+2662,The Selby,"$2,825",1.0,1.0,25 Selby St 
+2663,The Selby,"$2,855",1.0,1.0,25 Selby St 
+2664,The Selby,"$2,950",2.0,2.0,25 Selby St 
+2665,The Selby,"$3,125",2.0,2.0,25 Selby St 
+2666,The Selby,"$3,230",2.0,2.0,25 Selby St 
+2667,The Selby,"$3,250",2.0,2.0,25 Selby St 
+2668,The Selby,"$3,270",2.0,2.0,25 Selby St 
+2669,The Selby,"$3,350",2.0,2.0,25 Selby St 
+2670,The Selby,"$3,370",2.0,2.0,25 Selby St 
+2671,The Selby,"$3,435",2.0,2.0,25 Selby St 
+2672,The Selby,"$3,475",2.0,2.0,25 Selby St 
+2673,The Selby,"$3,505",2.0,2.0,25 Selby St 
+2674,The Selby,"$3,505",2.0,2.0,25 Selby St 
+2675,The Selby,"$3,515",2.0,2.0,25 Selby St 
+2676,The Selby,"$3,555",2.0,2.0,25 Selby St 
+2677,The Selby,"$3,680",2.0,2.0,25 Selby St 
+2678,The Selby,"$3,700",2.0,2.0,25 Selby St 
+2679,The Selby,"$3,750",2.0,2.0,25 Selby St 
+2680,The Selby,"$4,040",2.0,2.0,25 Selby St 
+2681,The Selby,"$3,860",2.0,2.0,25 Selby St 
+2682,The Selby,"$3,865",2.0,2.0,25 Selby St 
+2683,The Selby,"$4,000",2.0,2.0,25 Selby St 
+2684,The Selby,"$4,275",2.0,2.0,25 Selby St 
+2685,The Selby,"$4,530",2.0,2.0,25 Selby St 
+2686,90 Park Lawn Rd | Unit: 2811,"$3,200",2.0,2.0,
+2687,Wynford South,"$1,950",1.0,1.0,45 Wynford Heights Crescent 
+2688,45 Wynford South,"$2,255 ",2.0,2.0,45 Wynford Heights Crescent 
+2689,Milan,"$2,790",1.0,1.0,825 Church St 
+2690,St Regis,"$9,500",2.0,2.0,311 Bay St 
+2691,Taleen,"$2,600",2.0,2.0,55 Bloor St E 
+2692,16 Wycliffe Crescent,"$3,300",1.0,1.0,
+2693,33 Bexhill Ave,"$3,200",2.5,2.5,
+2694,50 Western Battery Rd,"$2,375",1.0,1.0,
+2695,Paintbox,"$2,900",2.0,2.0,225 Sackville St.
+2696,80 Hepscott Terrace,$600,1.0,1.0,
+2697,80 Hepscott Terrace,$800,1.0,1.0,
+2698,80 Hepscott Terrace,$800,1.0,1.0,
+2699,135 Village Green Square | Unit: 3199,"$1,950",1.0,1.0,
+2700,375 Bay Mills Place,"$1,650",1.0,1.0,375 Bay Mills Blvd 
+2701,375 Bay Mills Place,"$1,850",1.0,1.0,375 Bay Mills Blvd 
+2702,125 Village Green Square | Unit: 2099,"$2,100",2.0,2.0,
+2703,125 Village Green Square | Unit: 2999,"$1,900",1.0,1.0,
+2704,The Wyatt,"$2,250",1.0,1.0,20 Tubman Ave
+2705,Wallace Walk,"$3,500",2.5,2.5,5 Sousa Mendes St 
+2706,209 Fort York Blvd,"$2,300",1.0,1.0,
+2707,509 Beecroft Rd,"$2,995",1.0,1.0,509 Beecroft Rd
+2708,509 Beecroft Rd,"$2,995",1.0,1.0,509 Beecroft Rd
+2709,409 Huron St,"$1,250",1.0,1.0,
+2710,100 Wingarden Ct,"$2,250",2.0,2.0,
+2711,9506 Markham Rd | Unit: 1603,"$1,800",1.0,1.0,
+2712,Wyatt,"$3,300",2.0,2.0,20 Tubman Ave
+2713,Jackson Mullins,"$2,383",2.0,2.0,525 Adelaide St W 
+2714,1 Elm Dr | Unit: 1006,"$2,200",1.0,1.0,
+2715,The Logan,"$2,300",1.0,1.0,899 Queen St E 
+2716,Ok Fa Tyan,"$2,100",1.0,1.0,600 Fleet St 
+2717,101 Peter St | Unit: 1903,"$2,300",1.0,1.0,
+2718,Treviso III,"$2,000",1.0,1.0,3091 Dufferin St
+2719,22 E Haven Dr,"$2,250",2.0,2.0,
+2720,22 E Haven Dr | Unit: 1119,"$2,250",2.0,2.0,
+2721,Trinity Park Lofts,"$2,950",1.0,1.0,901 Queen St W 
+2722,39 Green Belt Dr,"$3,300",2.0,2.0,
+2723,15 Bastion St | Unit: 105,"$3,900",1.0,1.0,
+2724,736 Bay St,"$2,000",1.0,1.0,
+2725,Cassandra Towers 2,"$2,199",1.5,1.5,265 Cassandra Blvd 
+2726,185 Roehampton Ave,"$2,600",1.0,1.0,
+2727,Furnished 5 Bedroom House - Yonge/Steeles,"$4,200",4.0,4.0,8 Regis Dr
+2728,1089 Briar Hill Ave,"$1,500",1.0,1.0,
+2729,80 Charles Street East,"$1,900",1.0,1.0,
+2730,Fly Condos,"$3,000",1.0,1.0,352 Front St W
+2731,Luxurious furnished suites in Toronto,"$2,800",1.0,1.0,50 John St
+2732,Luxurious furnished suites in Toronto,"$3,000",1.0,1.0,50 John St
+2733,Luxurious furnished suites in Toronto,"$3,800",1.0,1.0,50 John St
+2734,Luxurious furnished suites in Toronto,"$4,500",1.0,1.0,50 John St
+2735,Tridel Condominiums,"$2,800",1.0,1.0,300 Front St W
+2736,Bellaria Tower 2,"$2,100",1.0,1.0,9235 Jane St
+2737,Luxury Condominium Residences,"$2,550",1.0,1.0,38 Elm St
+2738,2916 Hwy 7,"$2,150",1.0,1.0,
+2739,BAYVIEW SQUARE NORTH,"$2,150",1.0,1.0,10 Ruddington Dr
+2740,LA CORONA,"$1,975",1.0,1.0,25 Cedarcroft Blvd
+2741,THE GATEWAY,"$1,670",1.0,1.0,200 Gateway Blvd
+2742,Limelight Towers,"$2,135",1.0,1.0,365 Prince of Wales Dr 
+2743,Bronwyn Storoschuk,"$3,150",2.0,2.0,230 King St E
+2744,10 Park Lawn Rd | Unit: Lph,"$2,300",1.0,1.0,
+2745,66 Douro St | Unit: 109,"$2,195",1.0,1.0,
+2746,20 Chichester Place,"$1,700",1.0,1.0,20 Chichester Place
+2747,Avani @ Metrogate,"$1,950",1.0,1.0,255 Village Green Square
+2748,Fuse 2,"$2,000",1.5,1.5,1420 Dupont St 
+2749,Ramon Ramos,"$1,550",1.0,1.0,80 Riverdale Ave 
+2750,181 Dundas St E | Unit: 801,"$2,100",1.0,1.0,
+2751,3865 Lake Shore Blvd W | Unit: 991,"$2,300",2.0,2.0,
+2752,2220 Lake Shore Blvd W | Unit: 316,"$2,000",1.0,1.0,
+2753,36 Park Lawn Rd | Unit: 199,"$2,000",1.0,1.0,
+2754,30 Shore Breeze Dr | Unit: 3990,"$2,000",1.0,1.0,
+2755,East United,"$2,250",1.0,1.0,120 Parliament St 
+2756,961 College St | Unit: A,$895,1.5,1.5,
+2757,3Bed 1Bath Upper Beaches Condo Apartment,"$2,800",1.0,1.0,149 Gainsborough Road
+2758,1400 Dixie Rd,"$2,700",2.0,2.0,
+2759,"1340 King St W | Unit: 401, 302, 204, 201,101","$2,195",1.0,1.0,
+2760,1301 Dundas St E | Unit: 1,"$2,200",1.0,1.0,
+2761,Tallmast,"$2,085",1.0,1.0,3301 Tallmast Cres 
+2762,80 Absolute Ave | Unit: 907,"$2,100",2.0,2.0,
+2763,3890 Bathurst Street,"$1,838",1.0,1.0,3890 Bathurst Street
+2764,68 Corporate Dr,"$2,400",2.0,2.0,68 Corporate Dr 
+2765,"Tridel Condo, 101 Erskine","$2,050",1.0,1.0,
+2766,115 Hillcrest Ave | Unit: 2013,"$2,300",2.0,2.0,
+2767,The Hudson,"$2,600",1.0,1.0,438 King St W 
+2768,9 Spadina Ave,"$2,400",1.0,1.0,
+2769,Alto & Parkside at Atria,"$2,050",1.0,1.0,
+2770,47 Germain Cir,"$1,750",1.0,1.0,
+2771,CENTRO SQUARE,"$2,500",2.0,2.0,3600 Hwy 7 W 
+2772,BISHA,"$4,850",2.0,2.0,88 Blue Jays Way 
+2773,46 Western Battery Rd | Unit: 818,"$2,875",1.0,1.0,
+2774,College Park Residences,"$2,400",1.0,1.0,761 Bay St 
+2775,36 Blue Jays Way,"$2,450",1.0,1.0,
+2776,SQ Condos,"$3,200",2.0,2.0,38 Cameron St 
+2777,Symphony,"$2,650",2.0,2.0,23 Lorraine Dr
+2778,The Modern on Richmond,"$2,625",1.5,1.5,320 Richmond St E 
+2779,800 Lawrence Ave W,"$2,000",1.0,1.0,
+2780,51 E Liberty St | Unit: 599,"$2,600",2.0,2.0,
+2781,25 Telegam Mews,"$2,200",1.0,1.0,25 Telegram Mews
+2782,25 Telegam Mews,"$2,800",2.0,2.0,25 Telegram Mews
+2783,33 Sheppard Ave,"$3,100",2.0,2.0,33 Sheppard Ave E
+2784,5025 Four Springs Ave | Unit: 409,"$2,450",2.0,2.0,
+2785,782 Shaw St | Unit: Ground Floor,"$2,250",1.0,1.0,
+2786,239 Pickering St,"$2,700",1.0,1.0,
+2787,Minto 775,"$1,875",1.0,1.0,775 King St W 
+2788,141 Christie St,"$2,500 ",1.0,1.0,
+2789,9191 Yonge St,"$2,200",1.0,1.0,
+2790,611 Ossington Ave | Unit: 611,"$1,200",1.0,1.0,
+2791,pandora minhinnick,"$1,900",1.0,1.0,110 Wellesley St E 
+2792,BIsha Hotel & Residences,"$3,350",2.0,2.0,
+2793,500 Queens Quay W,"$3,775",2.0,2.0,
+2794,150 E Liberty St,"$1,700",1.0,1.0,
+2795,15 James Finlay Way,"$2,500",2.0,2.0,15 James Finlay Way
+2796,27 Rean Dr,"$2,550",1.0,1.0,27 Rean Dr
+2797,62 Forest Manor Rd,"$2,600",2.0,2.0,62 Forest Manor Rd
+2798,128 Fairview Mall Dr,"$2,495",2.0,2.0,128 Fairview Mall Dr
+2799,920 Sheppard Ave W,"$2,400",2.0,2.0,920 Sheppard Ave W
+2800,5 Parkway Forest Dr,"$2,700",3.5,3.5,5 Parkway Forest Dr
+2801,35 Saranac Blvd,"$2,300",1.0,1.0,35 Saranac Blvd
+2802,8 Covington Rd,"$2,500",2.0,2.0,8 Covington Rd
+2803,8 Eglinton Ave E,"$2,200",1.0,1.0,8 Eglinton Ave E
+2804,8 Eglinton Ave E,"$2,750",2.0,2.0,8 Eglinton Ave E
+2805,18 Graydon Hall Dr,"$2,600",2.0,2.0,18 Graydon Hall Dr
+2806,15 James Finlay Way,"$2,700",2.0,2.0,15 James Finlay Way
+2807,150 Sudbury St,"$2,350",1.0,1.0,150 Sudbury St
+2808,138 St Helen's Ave,"$2,600",1.0,1.0,
+2809,36 Lisgar St,"$2,000",1.0,1.0,36 Lisgar St
+2810,36 Lisgar St,"$2,400",1.5,1.5,36 Lisgar St
+2811,36 Lisgar St,"$2,525",2.0,2.0,36 Lisgar St
+2812,15 Windermere Ave,"$2,700",2.0,2.0,15 Windermere Ave
+2813,20 Gladstone Ave,"$2,500",1.0,1.0,20 Gladstone Ave
+2814,36 Lisgar St,"$2,400",2.0,2.0,36 Lisgar St
+2815,18 Stafford St,"$2,400",2.0,2.0,18 Stafford St
+2816,7 Concorde Pl,"$1,900",1.0,1.0,
+2817,60 Forest Manor Rd,"$2,400",1.0,1.0,60 Forest Manor Rd
+2818,7 Lorraine Dr,"$2,350",2.0,2.0,7 Lorraine Dr
+2819,105 Heath St W,"$3,500",2.0,2.0,105 Heath St W
+2820,GALLERY TOWERS,"$1,725",1.0,1.0,50 Stephanie St
+2821,GALLERY TOWERS,"$2,045",1.0,1.0,50 Stephanie St
+2822,GALLERY TOWERS,"$1,895",1.0,1.0,50 Stephanie St
+2823,GALLERY TOWERS,"$2,545",1.0,1.0,50 Stephanie St
+2824,THE MONTEGO,"$1,595",1.0,1.0,45 Grenoble Dr
+2825,THE MONTEGO,"$1,695",1.0,1.0,45 Grenoble Dr
+2826,THE MONTEGO,"$1,975",1.0,1.0,45 Grenoble Dr
+2827,THE MONTEGO,"$2,300",1.0,1.0,45 Grenoble Dr
+2828,Agatha Hovakimyan,"$2,100",1.0,1.0,8 Eglinton Ave E 
+2829,101 Harvie Ave,"$3,000",1.5,1.5,
+2830,32 Curzon St | Unit: 1,"$2,500",1.0,1.0,
+2831,Islington Terrace #3520,"$1,650",1.0,1.0,7 Mabelle Avenue
+2832,Islington Terrace #3520,"$1,700",1.0,1.0,7 Mabelle Avenue
+2833,Islington Terrace #3520,"$1,750",1.0,1.0,7 Mabelle Avenue
+2834,Islington Terrace #3520,"$1,750",1.0,1.0,7 Mabelle Avenue
+2835,Islington Terrace #3520,"$1,900",1.0,1.0,7 Mabelle Avenue
+2836,Islington Terrace #3520,"$1,950",1.0,1.0,7 Mabelle Avenue
+2837,Islington Terrace #3520,"$2,000",1.0,1.0,7 Mabelle Avenue
+2838,Islington Terrace #3520,"$2,050",1.0,1.0,7 Mabelle Avenue
+2839,Islington Terrace #3520,"$2,100",1.0,1.0,7 Mabelle Avenue
+2840,Islington Terrace #3520,"$2,200",1.0,1.0,7 Mabelle Avenue
+2841,Islington Terrace #3520,"$2,250",1.0,1.0,7 Mabelle Avenue
+2842,Islington Terrace #3520," $2,250",1.0,1.0,7 Mabelle Avenue
+2843,Islington Terrace #3520,"$2,250",1.0,1.0,7 Mabelle Avenue
+2844,Islington Terrace #3520,"$2,300",1.0,1.0,7 Mabelle Avenue
+2845,Islington Terrace #3520,"$2,300",1.0,1.0,7 Mabelle Avenue
+2846,Islington Terrace #3520,"$2,300",1.0,1.0,7 Mabelle Avenue
+2847,Islington Terrace #3520,"$2,350",1.0,1.0,7 Mabelle Avenue
+2848,Islington Terrace #3520,"$2,350",1.0,1.0,7 Mabelle Avenue
+2849,Islington Terrace #3520,"$2,350",1.0,1.0,7 Mabelle Avenue
+2850,Islington Terrace #3520,"$2,350",1.0,1.0,7 Mabelle Avenue
+2851,Islington Terrace #3520,"$2,300",2.0,2.0,7 Mabelle Avenue
+2852,Islington Terrace #3520,"$2,300",2.0,2.0,7 Mabelle Avenue
+2853,Islington Terrace #3520,"$2,350",2.0,2.0,7 Mabelle Avenue
+2854,Islington Terrace #3520,"$2,350",2.0,2.0,7 Mabelle Avenue
+2855,Islington Terrace #3520,"$2,350",2.0,2.0,7 Mabelle Avenue
+2856,Islington Terrace #3520,"$2,350",2.0,2.0,7 Mabelle Avenue
+2857,Islington Terrace #3520,"$2,350",2.0,2.0,7 Mabelle Avenue
+2858,Islington Terrace #3520,"$2,400",2.0,2.0,7 Mabelle Avenue
+2859,Islington Terrace #3520,"$2,400",2.0,2.0,7 Mabelle Avenue
+2860,Islington Terrace #3520,"$2,400",2.0,2.0,7 Mabelle Avenue
+2861,Islington Terrace #3520,"$2,400",2.0,2.0,7 Mabelle Avenue
+2862,Islington Terrace #3520,"$2,450",2.0,2.0,7 Mabelle Avenue
+2863,Islington Terrace #3520,"$2,450",2.0,2.0,7 Mabelle Avenue
+2864,Islington Terrace #3520,"$2,450",2.0,2.0,7 Mabelle Avenue
+2865,Islington Terrace #3520,"$2,450",2.0,2.0,7 Mabelle Avenue
+2866,Islington Terrace #3520,"$2,450",2.0,2.0,7 Mabelle Avenue
+2867,Islington Terrace #3520,"$2,450",2.0,2.0,7 Mabelle Avenue
+2868,Islington Terrace #3520,"$2,450",2.0,2.0,7 Mabelle Avenue
+2869,Islington Terrace #3520,"$2,500",2.0,2.0,7 Mabelle Avenue
+2870,Islington Terrace #3520,"$2,500",2.0,2.0,7 Mabelle Avenue
+2871,Islington Terrace #3520,"$2,500",2.0,2.0,7 Mabelle Avenue
+2872,Islington Terrace #3520,"$2,500",2.0,2.0,7 Mabelle Avenue
+2873,Islington Terrace #3520,"$2,500",2.0,2.0,7 Mabelle Avenue
+2874,Islington Terrace #3520,"$2,500",2.0,2.0,7 Mabelle Avenue
+2875,Islington Terrace #3520,"$2,500",2.0,2.0,7 Mabelle Avenue
+2876,Islington Terrace #3520,"$2,550",2.0,2.0,7 Mabelle Avenue
+2877,Islington Terrace #3520,"$2,550",2.0,2.0,7 Mabelle Avenue
+2878,Islington Terrace #3520,"$2,600",2.0,2.0,7 Mabelle Avenue
+2879,Islington Terrace #3520,"$2,750",2.0,2.0,7 Mabelle Avenue
+2880,Islington Terrace #3520,"$2,750",2.0,2.0,7 Mabelle Avenue
+2881,Islington Terrace #3520,"$2,800",2.0,2.0,7 Mabelle Avenue
+2882,Parkside Place,"$1,607",1.0,1.0,55 Triller Avenue
+2883,Parkside Place,"$1,966",1.0,1.0,55 Triller Avenue
+2884,Parkside Place,"$2,484",1.0,1.0,55 Triller Avenue
+2885,717 Bay St | Unit: 1904,"$4,399",2.0,2.0,
+2886,1Bed 1.5Bath Spacious Apartment in Roncesvalles Home,"$2,595",1.5,1.5,74 Constance Street
+2887,Bliss - 55 East Liberty Street,"$2,250",1.0,1.0,55 East Liberty Street
+2888,San Marino Place,"$2,450",1.5,1.5,625 Roselawn Ave
+2889,405 Kingston Rd,"$2,650",1.0,1.0,
+2890,212 Berkeley St,"$3,960",2.5,2.5,
+2891,Furnished Art Deco,"$3,500",1.5,1.5,952 Kingston Rd
+2892,"9471 Yonge St, Richmond Hill","$2,050",2.0,2.0,
+2893,"386 Yonge Street, Toronto, ON, Canada","$8,500",2.0,2.0,
+2894,house,"$3,500",2.0,2.0,3 Lookout Pl
+2895,15 Windermere Avenue,"$1,800",2.0,2.0,15 Windermere Avenue
+2896,5 Mariner Terrace | Unit: 2301,"$3,500",2.0,2.0,
+2897,The Continental Condos,"$2,450",2.0,2.0,503 Beecroft Rd
+2898,Ridge Hill Manor,"$1,800",1.0,1.0,2100 Bathurst St.
+2899,680 Roselawn Avenue,"$1,625",1.0,1.0,680 Roselawn Ave.
+2900,680 Roselawn Avenue,"$2,650",1.5,1.5,680 Roselawn Ave.
+2901,MASSEY TOWER,"$2,550",1.0,1.0,197 Yonge St 
+2902,68 Merton St,"$2,100",1.0,1.0,
+2903,Peter St Condos,"$2,250",1.0,1.0,101 Peter St
+2904,Thompson Residences,"$2,400",1.0,1.0,629 King St W
+2905,50 Cobbler Crescent,$600,2.0,2.0,
+2906,Fuzion Condos,"$2,100",1.0,1.0,20 Joe Shuster Way
+2907,The Edge on Triangle Park,"$2,350",1.0,1.0,36 Lisgar St
+2908,397 Front St W,"$2,500",1.0,1.0,
+2909,Paintbox,"$1,875",1.0,1.0,225 Sackville St.
+2910,The Britt,"$1,975",1.0,1.0,945 Bay St
+2911,18 Yorkville,"$2,375",1.0,1.0,18 Yorkville Ave
+2912,18 Yorkville,"$2,800",2.0,2.0,18 Yorkville Ave
+2913,18 Yorkville,"$2,800",2.0,2.0,18 Yorkville Ave
+2914,Element #695,"$2,350",1.0,1.0,20 Blue Jays Way
+2915,Element #695,"$2,350",1.0,1.0,20 Blue Jays Way
+2916,Element #695,"$2,400",1.0,1.0,20 Blue Jays Way
+2917,Element #695,"$3,350",2.0,2.0,20 Blue Jays Way
+2918,Element #695,"$3,350",2.0,2.0,20 Blue Jays Way
+2919,Element #695,"$3,350",2.0,2.0,20 Blue Jays Way
+2920,21 Iceboat Terr,"$3,200",2.0,2.0,
+2921,Financial District,"$2,995",2.0,2.0,21 Nelson St
+2922,Centro,"$2,695",1.0,1.0,190 Borough Dr
+2923,155 Legion Rd N,"$2,200",1.0,1.0,
+2924,300 Front St W,"$2,600",1.0,1.0,300 Front St W
+2925,36 Lisgar St,"$1,900",1.0,1.0,36 Lisgar St
+2926,The Tower at King West,"$2,180",1.0,1.0,125 Western Battery Rd
+2927,E-Condos,"$2,100",1.0,1.0,8 Eglinton Ave E
+2928,438 King St W,"$2,400",1.0,1.0,
+2929,The Tower @ Liberty Village,"$2,500",2.0,2.0,125 Western Battery Rd
+2930,Emily Cao,"$3,600",2.0,2.0,75 Queens Wharf Rd 
+2931,127 Elmwood Ave,"$5,000",4.5,4.5,
+2932,213 Berkeley St,"$1,950",1.0,1.0,
+2933,213 Berkeley St,"$2,300",1.0,1.0,
+2934,Danny Merkel,"$1,800",1.0,1.0,55 Ellerslie Ave 
+2935,imtiaaz Mohamed,"$2,200",1.0,1.0,53 Chambers Ave
+2936,Monde,"$2,250",1.0,1.0,16 Bonnycastle St
+2937,130 Westbourne Ave,"$3,000",2.0,2.0,
+2938,55 Ann O'Reilly Rd,"$2,000",1.5,1.5,
+2939,Pamela Drappel,"$3,900",2.0,2.0,10 Queens Quay W 
+2940,Signatures on Bloor,"$2,300",1.0,1.0,55 Bloor St E 
+2941,22 Wellesley St E | Unit: 607,"$3,000",1.0,1.0,
+2942,55 Bloor St E | Unit: 1901,"$2,500",1.0,1.0,
+2943,11 Brunel Ct | Unit: 592,"$2,350",1.0,1.0,
+2944,10 York St | Unit: 2493,"$2,250",1.0,1.0,
+2945,2495 Dundas St W,"$2,150",1.0,1.0,
+2946,2Bed 2Bath Beautiful Yorkville Condo,"$2,800",2.0,2.0,110 Charles Street East
+2947,The Selby,"$2,200",1.0,1.0,25 Selby St 
+2948,The Selby,"$2,200",1.0,1.0,25 Selby St 
+2949,13 Pinegrove Ave,$700,1.0,1.0,
+2950,Danielle berehowsky,"$2,250",1.0,1.0,2230 Lake Shore Blvd W 
+2951,21 West Hill Dr,"$2,150",1.0,1.0,
+2952,14 Wortham Dr,"$2,200",1.0,1.0,
+2953,Mika Bareket,"$3,600",1.5,1.5,29 Nassau St
+2954,Eau de Soleil Condos,"$2,395",2.0,2.0,20 Shore Breeze Dr
+2955,1202 York Mills Rd | Unit: 206,"$1,927",1.0,1.0,
+2956,555 Wilson Ave,"$1,750",1.0,1.0,
+2957,242 Jane St | Unit: 3,"$2,625",1.0,1.0,
+2958,27 Westmoreland Ave,"$1,775",1.0,1.0,
+2959,8081 Birchmount Rd,"$2,550",2.0,2.0,
+2960,12 York St,"$2,500",1.0,1.0,
+2961,3Bed 3Bath Multi Level Home in North York,"$3,200",3.0,3.0,7 Dallas Rd.
+2962,82 Castlebury Crescent,"$2,400",2.0,2.0,
+2963,1202 Royal York Rd | Unit: Upper,"$6,750",2.5,2.5,
+2964,780 Sheppard Ave E,"$2,400",2.0,2.0,
+2965,14 York St,"$1,900",1.0,1.0,
+2966,Campus One,"$1,785",2.0,2.0,253 College St 
+2967,The Residences Of 488 University,"$4,100",2.0,2.0,488 University Ave
+2968,Mosaic,"$3,100",2.0,2.0,736 Spadina Ave
+2969,44 Franca Crescent,"$1,750",1.0,1.0,
+2970,55 Oneida Crescent,"$2,300",2.0,2.0,
+2971,1Bed 1Bath Mimico Waterfront Park Apartment For Rent,"$1,995",1.0,1.0,2 Superior Avenue
+2972,1Bed 1Bath Mimico Waterfront Park Apartment For Rent,"$1,995",1.0,1.0,2 Superior Avenue
+2973,1Bed 1Bath Mimico Waterfront Park Apartment For Rent,"$1,800",1.0,1.0,2 Superior Avenue
+2974,1Bed 1Bath Mimico Waterfront Park Apartment For Rent,"$1,995",1.0,1.0,2 Superior Avenue
+2975,Sandeep Aggarwal,"$2,500",1.0,1.0,200 Dundas St E
+2976,478 King St W,"$2,395",1.0,1.0,
+2977,46 Western Battery Rd,"$2,700",1.0,1.0,
+2978,Eau Du Soleil,"$2,300",1.0,1.0,20 Shore Breeze Dr 
+2979,33 Empress Ave,"$2,700",2.0,2.0,
+2980,4 Casci Ave | Unit: Lower,"$1,995",1.0,1.0,
+2981,Cinema Tower,"$2,980",1.0,1.0,21 Widmer St 
+2982,124 Finch Ave W,"$2,700",3.0,3.0,
+2983,972 Bathurst St | Unit: 1,$1 ,1.0,1.0,
+2984,972 Bathurst St | Unit: 2,$1,1.0,1.0,
+2985,10 Tangreen Ct,"$2,600",2.0,2.0,
+2986,Emerald City,"$2,200",1.0,1.0,50 Forest Manor Rd
+2987,Nasar Ahamed,"$2,000",1.0,1.0,
+2988,1320 Danforth Road,"$1,741",1.0,1.0,1320 Danforth Road
+2989,1320 Danforth Road,"$2,314",1.5,1.5,1320 Danforth Road
+2990,44 Jackes Ave,"$1,400",1.0,1.0,
+2991,31 Four Winds Dr,"$2,700",1.5,1.5,
+2992,25 Leith Hill Rd,"$1,900",1.0,1.0,
+2993,25 Leith Hill Rd,"$2,199",1.0,1.0,
+2994,25 Leith Hill Rd,"$2,499",1.0,1.0,
+2995,46 Heron Park Pl,"$2,650",2.5,2.5,
+2996,43 Eglinton Avenue East,"$2,500",1.0,1.0,43 Eglinton Ave E 
+2997,2220 Lake Shore Blvd W | Unit: 3302,"$2,500",2.0,2.0,
+2998,621 Sheppard Ave E,"$1,850",1.0,1.0,
+2999,Arc Condos,"$2,400",2.0,2.0,2885 Bayview Ave 
+3000,8 Jersey Ave | Unit: Main & Upper Levels,"$4,300",1.0,1.0,
+3001,80 Absolute Ave | Unit: 807,"$2,150",1.0,1.0,
+3002,85 The Donway W,"$2,950",2.0,2.0,
+3003,Niagara West,"$1,944",1.0,1.0,39 Niagara Street
+3004,Niagara West,"$2,299",1.0,1.0,39 Niagara Street
+3005,Niagara West,"$2,499",2.0,2.0,39 Niagara Street
+3006,Niagara West,"$3,164",2.0,2.0,39 Niagara Street
+3007,Niagara West,"$3,739",2.0,2.0,39 Niagara Street
+3008,Niagara West,"$4,799",3.0,3.0,39 Niagara Street
+3009,Redwood Properties,"$1,200",1.0,1.0,
+3010,Redwood Properties,"$1,250",1.0,1.0,
+3011,Redwood Properties,"$1,450",1.0,1.0,
+3012,Redwood Properties,"$1,650",1.0,1.0,
+3013,1775 Weston Road, $962,1.0,1.0,1775 Weston Road
+3014,1775 Weston Road,"$1,137",1.0,1.0,1775 Weston Road
+3015,1775 Weston Road,"$1,544",1.0,1.0,1775 Weston Road
+3016,1775 Weston Road,"$1,341",1.0,1.0,1775 Weston Road
+3017,Bradley Court Apartments,$995,1.0,1.0,280 Dundas St E
+3018,GH Capital Corp.,"$1,850",1.0,1.0,50 Graydon Hall Dr
+3019,GH Capital Corp.,"$2,200",1.5,1.5,50 Graydon Hall Dr
+3020,1 Clinton St,"$3,595",1.0,1.0,
+3021,Castlegate Apartments,"$1,400",1.0,1.0,
+3022,Castlegate Apartments,"$1,525",1.0,1.0,
+3023,Castlegate Apartments,"$1,600",1.0,1.0,
+3024,Castlegate Apartments,"$1,725",1.0,1.0,
+3025,Castlegate Apartments,"$2,000",1.0,1.0,
+3026,Rideau Towers,"$1,315",1.0,1.0,47 Thorncliffe Park Drive
+3027,Rideau Towers,"$1,615",1.0,1.0,47 Thorncliffe Park Drive
+3028,Rideau Towers,"$1,640",1.5,1.5,47 Thorncliffe Park Drive
+3029,Rideau Towers,"$1,965",2.0,2.0,47 Thorncliffe Park Drive
+3030,"35 Saranac Blvd, Toronto","$2,000",1.0,1.0,
+3031,28 Linden Street,"$1,650",1.0,1.0,
